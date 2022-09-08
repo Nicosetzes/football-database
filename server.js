@@ -16,15 +16,7 @@ app.use(express.json());
 app.use(express.urlencoded({ extended: true }));
 app.use(express.static("public"));
 
-app.use(
-  cors({
-    origin:
-      process.env.NODE_ENV == "development"
-        ? "http://localhost:3000"
-        : "https://apa-website-fe.vercel.app",
-    credentials: true,
-  })
-); // IMPORTANTE
+app.use(cors()); // This should allow all origins
 
 /* -------------------- ROUTES -------------------- */
 
