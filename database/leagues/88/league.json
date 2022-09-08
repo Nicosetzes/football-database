@@ -1,0 +1,324 @@
+[
+  {
+    "team": {
+      "id": 194,
+      "name": "Ajax",
+      "code": "AJA",
+      "country": "Netherlands",
+      "founded": 1900,
+      "national": false
+    },
+    "venue": {
+      "id": 1117,
+      "name": "Johan Cruijff Arena",
+      "address": "ArenA Boulevard 1",
+      "city": "Amsterdam",
+      "capacity": 54990,
+      "surface": "grass"
+    }
+  },
+  {
+    "team": {
+      "id": 196,
+      "name": "Excelsior",
+      "code": "EXC",
+      "country": "Netherlands",
+      "founded": 1902,
+      "national": false
+    },
+    "venue": {
+      "id": 2901,
+      "name": "Van Donge & De Roo Stadion",
+      "address": "Honingerdijk 110",
+      "city": "Rotterdam",
+      "capacity": 4500,
+      "surface": "artificial turf"
+    }
+  },
+  {
+    "team": {
+      "id": 197,
+      "name": "PSV Eindhoven",
+      "code": "PSV",
+      "country": "Netherlands",
+      "founded": 1913,
+      "national": false
+    },
+    "venue": {
+      "id": 1143,
+      "name": "Philips Stadion",
+      "address": "Frederiklaan 10",
+      "city": "Eindhoven",
+      "capacity": 36150,
+      "surface": "grass"
+    }
+  },
+  {
+    "team": {
+      "id": 200,
+      "name": "Vitesse",
+      "code": "VIT",
+      "country": "Netherlands",
+      "founded": 1892,
+      "national": false
+    },
+    "venue": {
+      "id": 1155,
+      "name": "GelreDome",
+      "address": "Batavierenweg 25",
+      "city": "Arnhem",
+      "capacity": 25500,
+      "surface": "grass"
+    }
+  },
+  {
+    "team": {
+      "id": 201,
+      "name": "AZ Alkmaar",
+      "code": "ALK",
+      "country": "Netherlands",
+      "founded": 1967,
+      "national": false
+    },
+    "venue": {
+      "id": 1119,
+      "name": "AFAS Stadion",
+      "address": "Stadionweg 1",
+      "city": "Alkmaar",
+      "capacity": 19500,
+      "surface": "grass"
+    }
+  },
+  {
+    "team": {
+      "id": 202,
+      "name": "Groningen",
+      "code": "GRO",
+      "country": "Netherlands"
+    },
+    "venue": {
+      "id": 12276,
+      "name": "Euroborg",
+      "address": "Boumaboulevard 41",
+      "city": "Groningen",
+      "capacity": 22579,
+      "surface": "grass"
+    }
+  },
+  {
+    "team": {
+      "id": 205,
+      "name": "Fortuna Sittard",
+      "code": "SIT",
+      "country": "Netherlands",
+      "founded": 1968,
+      "national": false
+    },
+    "venue": {
+      "id": 1129,
+      "name": "Fortuna Sittard Stadion",
+      "address": "Milaanstraat 120",
+      "city": "Sittard",
+      "capacity": 12500,
+      "surface": "grass"
+    }
+  },
+  {
+    "team": {
+      "id": 207,
+      "name": "Utrecht",
+      "code": "UTR",
+      "country": "Netherlands",
+      "founded": 1970,
+      "national": false
+    },
+    "venue": {
+      "id": 1154,
+      "name": "Stadion Galgenwaard",
+      "address": "Herculesplein 241",
+      "city": "Utrecht",
+      "capacity": 23750,
+      "surface": "grass"
+    }
+  },
+  {
+    "team": {
+      "id": 208,
+      "name": "Emmen",
+      "code": "EMM",
+      "country": "Netherlands",
+      "founded": 1985,
+      "national": false
+    },
+    "venue": {
+      "id": 10504,
+      "name": "De Oude Meerdijk",
+      "address": "Stadionplein 1",
+      "city": "Emmen",
+      "capacity": 8600,
+      "surface": "artificial turf"
+    }
+  },
+  {
+    "team": {
+      "id": 209,
+      "name": "Feyenoord",
+      "code": "FEY",
+      "country": "Netherlands",
+      "founded": 1908,
+      "national": false
+    },
+    "venue": {
+      "id": 1128,
+      "name": "Stadion Feijenoord",
+      "address": "Van Zandvlietplein 1",
+      "city": "Rotterdam",
+      "capacity": 47625,
+      "surface": "grass"
+    }
+  },
+  {
+    "team": {
+      "id": 210,
+      "name": "Heerenveen",
+      "code": "HEE",
+      "country": "Netherlands",
+      "founded": 1920,
+      "national": false
+    },
+    "venue": {
+      "id": 1132,
+      "name": "Abe Lenstra Stadion",
+      "address": "Abe Lenstra boulevard 19",
+      "city": "Heerenveen",
+      "capacity": 27224,
+      "surface": "grass"
+    }
+  },
+  {
+    "team": {
+      "id": 410,
+      "name": "GO Ahead Eagles",
+      "code": "EAG",
+      "country": "Netherlands",
+      "founded": 1971,
+      "national": false
+    },
+    "venue": {
+      "id": 1130,
+      "name": "De Adelaarshorst",
+      "address": "Vetkampstraat 1",
+      "city": "Deventer",
+      "capacity": 10400,
+      "surface": "grass"
+    }
+  },
+  {
+    "team": {
+      "id": 413,
+      "name": "NEC Nijmegen",
+      "code": "NIJ",
+      "country": "Netherlands",
+      "founded": 1900,
+      "national": false
+    },
+    "venue": {
+      "id": 1140,
+      "name": "Goffertstadion",
+      "address": "Stadionplein 1",
+      "city": "Nijmegen",
+      "capacity": 12501,
+      "surface": "grass"
+    }
+  },
+  {
+    "team": {
+      "id": 415,
+      "name": "Twente",
+      "code": "TWE",
+      "country": "Netherlands",
+      "founded": 1965,
+      "national": false
+    },
+    "venue": {
+      "id": 1153,
+      "name": "De Grolsch Veste",
+      "address": "Colosseum 65",
+      "city": "Enschede",
+      "capacity": 30205,
+      "surface": "grass"
+    }
+  },
+  {
+    "team": {
+      "id": 416,
+      "name": "FC Volendam",
+      "code": "VOL",
+      "country": "Netherlands",
+      "founded": 1920,
+      "national": false
+    },
+    "venue": {
+      "id": 1156,
+      "name": "Kras Stadion",
+      "address": "Sportlaan 10",
+      "city": "Volendam",
+      "capacity": 6984,
+      "surface": "artificial turf"
+    }
+  },
+  {
+    "team": {
+      "id": 417,
+      "name": "Waalwijk",
+      "code": "WAA",
+      "country": "Netherlands",
+      "founded": 1940,
+      "national": false
+    },
+    "venue": {
+      "id": 1144,
+      "name": "Mandemakers Stadion",
+      "address": "Akkerlaan 2",
+      "city": "Waalwijk",
+      "capacity": 7508,
+      "surface": "artificial turf"
+    }
+  },
+  {
+    "team": {
+      "id": 420,
+      "name": "Cambuur",
+      "code": "CAM",
+      "country": "Netherlands",
+      "founded": 1964,
+      "national": false
+    },
+    "venue": {
+      "id": 12680,
+      "name": "Cambuur Stadion",
+      "address": "Cambuurplein 44",
+      "city": "Leeuwarden",
+      "capacity": 11230,
+      "surface": "artificial turf"
+    }
+  },
+  {
+    "team": {
+      "id": 426,
+      "name": "Sparta Rotterdam",
+      "code": "SPA",
+      "country": "Netherlands",
+      "founded": 1888,
+      "national": false
+    },
+    "venue": {
+      "id": 10505,
+      "name": "Sparta-Stadion Het Kasteel",
+      "address": "Spartapark Noord 1",
+      "city": "Rotterdam",
+      "capacity": 11026,
+      "surface": "artificial turf"
+    }
+  }
+]

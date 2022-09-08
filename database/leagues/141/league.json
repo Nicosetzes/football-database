@@ -1,0 +1,395 @@
+[
+  {
+    "team": {
+      "id": 534,
+      "name": "Las Palmas",
+      "code": "PAL",
+      "country": "Spain",
+      "founded": 1949,
+      "national": false
+    },
+    "venue": {
+      "id": 1481,
+      "name": "Estadio de Gran Canaria",
+      "address": "Avenida Pío XII 29",
+      "city": "Las Palmas de Gran Canaria",
+      "capacity": 31250,
+      "surface": "grass"
+    }
+  },
+  {
+    "team": {
+      "id": 535,
+      "name": "Malaga",
+      "code": "MAL",
+      "country": "Spain",
+      "founded": 1948,
+      "national": false
+    },
+    "venue": {
+      "id": 1483,
+      "name": "Estadio La Rosaleda",
+      "address": "Avenida de la Palmilla / Paseo de Martiricos",
+      "city": "Málaga",
+      "capacity": 30389,
+      "surface": "grass"
+    }
+  },
+  {
+    "team": {
+      "id": 537,
+      "name": "Leganes",
+      "code": "LEG",
+      "country": "Spain",
+      "founded": 1928,
+      "national": false
+    },
+    "venue": {
+      "id": 1464,
+      "name": "Estadio Municipal de Butarque",
+      "address": "Calle Arquitectura",
+      "city": "Leganés",
+      "capacity": 12450,
+      "surface": "grass"
+    }
+  },
+  {
+    "team": {
+      "id": 539,
+      "name": "Levante",
+      "code": "LEV",
+      "country": "Spain",
+      "founded": 1909,
+      "national": false
+    },
+    "venue": {
+      "id": 1482,
+      "name": "Estadio Ciudad de Valencia",
+      "address": "Calle San Vicente de Paúl 44",
+      "city": "Valencia",
+      "capacity": 25534,
+      "surface": "grass"
+    }
+  },
+  {
+    "team": {
+      "id": 542,
+      "name": "Alaves",
+      "code": "ALA",
+      "country": "Spain",
+      "founded": 1921,
+      "national": false
+    },
+    "venue": {
+      "id": 1470,
+      "name": "Estadio de Mendizorroza",
+      "address": "Paseo de Cervantes",
+      "city": "Vitoria-Gasteiz",
+      "capacity": 19840,
+      "surface": "grass"
+    }
+  },
+  {
+    "team": {
+      "id": 545,
+      "name": "Eibar",
+      "code": "EIB",
+      "country": "Spain",
+      "founded": 1940,
+      "national": false
+    },
+    "venue": {
+      "id": 1472,
+      "name": "Estadio Municipal de Ipurúa",
+      "address": "Calle de Ipurúa",
+      "city": "Eibar",
+      "capacity": 8050
+    }
+  },
+  {
+    "team": {
+      "id": 715,
+      "name": "Granada CF",
+      "code": "GRA",
+      "country": "Spain",
+      "founded": 1931
+    },
+    "venue": {
+      "id": 1479,
+      "name": "Estadio Nuevo Los Cármenes",
+      "address": "Calle Pintor Manuel Maldonado",
+      "city": "Granada",
+      "capacity": 23156,
+      "surface": "grass"
+    }
+  },
+  {
+    "team": {
+      "id": 716,
+      "name": "Lugo",
+      "code": "LUG",
+      "country": "Spain",
+      "founded": 1953,
+      "national": false
+    },
+    "venue": {
+      "id": 1465,
+      "name": "Estadio Anxo Carro",
+      "address": "Avenida de los deportes",
+      "city": "Lugo",
+      "capacity": 7840,
+      "surface": "grass"
+    }
+  },
+  {
+    "team": {
+      "id": 718,
+      "name": "Oviedo",
+      "code": "OVI",
+      "country": "Spain",
+      "founded": 1926,
+      "national": false
+    },
+    "venue": {
+      "id": 1490,
+      "name": "Estadio Nuevo Carlos Tartiere",
+      "address": "Calle de Ricardo Vázquez Prada, Barrio de la Ería",
+      "city": "Oviedo",
+      "capacity": 29862,
+      "surface": "grass"
+    }
+  },
+  {
+    "team": {
+      "id": 719,
+      "name": "Tenerife",
+      "code": "TEN",
+      "country": "Spain",
+      "founded": 1922
+    },
+    "venue": {
+      "id": 1496,
+      "name": "Estadio Heliodoro Rodríguez Lopéz",
+      "address": "Avenida de San Sebastián",
+      "city": "Tenerife",
+      "capacity": 23660,
+      "surface": "grass"
+    }
+  },
+  {
+    "team": {
+      "id": 722,
+      "name": "Albacete",
+      "code": "ALB",
+      "country": "Spain",
+      "founded": 1940,
+      "national": false
+    },
+    "venue": {
+      "id": 1458,
+      "name": "Estadio Carlos Belmonte",
+      "address": "Avenida de España",
+      "city": "Albacete",
+      "capacity": 17524,
+      "surface": "grass"
+    }
+  },
+  {
+    "team": {
+      "id": 726,
+      "name": "Huesca",
+      "code": "HUE",
+      "country": "Spain",
+      "founded": 1922,
+      "national": false
+    },
+    "venue": {
+      "id": 1480,
+      "name": "Estadio El Alcoraz",
+      "address": "Camino del Alto Cocorón",
+      "city": "Huesca",
+      "capacity": 7638,
+      "surface": "grass"
+    }
+  },
+  {
+    "team": {
+      "id": 731,
+      "name": "Sporting Gijon",
+      "code": "GIJ",
+      "country": "Spain",
+      "founded": 1905,
+      "national": false
+    },
+    "venue": {
+      "id": 1495,
+      "name": "Estadio Municipal El Molinón",
+      "address": "Parque de Isabel la Católica",
+      "city": "Gijón",
+      "capacity": 29538,
+      "surface": "grass"
+    }
+  },
+  {
+    "team": {
+      "id": 732,
+      "name": "Zaragoza",
+      "code": "ZAR",
+      "country": "Spain",
+      "founded": 1932,
+      "national": false
+    },
+    "venue": {
+      "id": 1493,
+      "name": "Estadio de la Romareda",
+      "address": "Calle de Eduardo Ibarra 6",
+      "city": "Zaragoza",
+      "capacity": 34596,
+      "surface": "grass"
+    }
+  },
+  {
+    "team": {
+      "id": 799,
+      "name": "Mirandes",
+      "code": "MIR",
+      "country": "Spain",
+      "founded": 1927,
+      "national": false
+    },
+    "venue": {
+      "id": 2920,
+      "name": "Estadio Municipal de Anduva",
+      "address": "Camino de Anduva",
+      "city": "Miranda de Ebro",
+      "capacity": 6000,
+      "surface": "grass"
+    }
+  },
+  {
+    "team": {
+      "id": 4665,
+      "name": "Racing Santander",
+      "code": "SAN",
+      "country": "Spain",
+      "founded": 1913,
+      "national": false
+    },
+    "venue": {
+      "id": 3516,
+      "name": "Campos de Sport de El Sardinero",
+      "address": "Calle del Real Racing Club",
+      "city": "Santander",
+      "capacity": 22271,
+      "surface": "grass"
+    }
+  },
+  {
+    "team": {
+      "id": 4907,
+      "name": "Ponferradina",
+      "code": "PON",
+      "country": "Spain",
+      "founded": 1922,
+      "national": false
+    },
+    "venue": {
+      "id": 3708,
+      "name": "Estadio El Toralín",
+      "address": "Avenida de Asturias",
+      "city": "Ponferrada",
+      "capacity": 8800,
+      "surface": "grass"
+    }
+  },
+  {
+    "team": {
+      "id": 5262,
+      "name": "FC Cartagena",
+      "code": "CAR",
+      "country": "Spain",
+      "founded": 1995,
+      "national": false
+    },
+    "venue": {
+      "id": 3976,
+      "name": "Estadio Municipal Cartagonova",
+      "address": "Avenida Dr. Luis Calandre",
+      "city": "Cartagena",
+      "capacity": 15105,
+      "surface": "grass"
+    }
+  },
+  {
+    "team": {
+      "id": 8157,
+      "name": "FC Andorra",
+      "code": null,
+      "country": "Andorra",
+      "founded": null,
+      "national": false
+    },
+    "venue": {
+      "id": 2177,
+      "name": "Camp de Futbol Municipal d'Encamp",
+      "address": "Avinguda de Coprincep Episcopal",
+      "city": "Encamp",
+      "capacity": 600,
+      "surface": "artificial turf"
+    }
+  },
+  {
+    "team": {
+      "id": 9390,
+      "name": "Ibiza",
+      "code": null,
+      "country": "Spain",
+      "founded": 2015,
+      "national": false
+    },
+    "venue": {
+      "id": 12463,
+      "name": "Estadio Can Misses – Power Electronic",
+      "address": "Calle Campanitx, 27",
+      "city": "Ibiza",
+      "capacity": 6500,
+      "surface": "artificial turf"
+    }
+  },
+  {
+    "team": {
+      "id": 9580,
+      "name": "Burgos",
+      "code": "BUR",
+      "country": "Spain",
+      "founded": 1922,
+      "national": false
+    },
+    "venue": {
+      "id": 6674,
+      "name": "Estadio Municipal de El Plantío",
+      "address": "Calle del Dos de Mayo",
+      "city": "Burgos",
+      "capacity": 12200,
+      "surface": "grass"
+    }
+  },
+  {
+    "team": {
+      "id": 9595,
+      "name": "Villarreal II",
+      "code": "VIL",
+      "country": "Spain",
+      "founded": 1923,
+      "national": false
+    },
+    "venue": {
+      "id": 6688,
+      "name": "Ciudad Deportiva del Villarreal",
+      "address": "Ronda Sudoeste de Vila-Real",
+      "city": "Villarreal",
+      "capacity": 5000,
+      "surface": "grass"
+    }
+  }
+]

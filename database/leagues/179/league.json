@@ -1,0 +1,218 @@
+[
+  {
+    "team": {
+      "id": 247,
+      "name": "Celtic",
+      "code": "CEL",
+      "country": "Scotland",
+      "founded": 1888,
+      "national": false
+    },
+    "venue": {
+      "id": 1386,
+      "name": "Celtic Park",
+      "address": "18 Kerrydale Street",
+      "city": "Glasgow",
+      "capacity": 60832,
+      "surface": "grass"
+    }
+  },
+  {
+    "team": {
+      "id": 249,
+      "name": "Hibernian",
+      "code": "HIB",
+      "country": "Scotland",
+      "founded": 1875,
+      "national": false
+    },
+    "venue": {
+      "id": 1394,
+      "name": "Easter Road Stadium",
+      "address": "12 Albion Place",
+      "city": "Edinburgh",
+      "capacity": 20421,
+      "surface": "grass"
+    }
+  },
+  {
+    "team": {
+      "id": 250,
+      "name": "Kilmarnock",
+      "code": "KIL",
+      "country": "Scotland",
+      "founded": 1869,
+      "national": false
+    },
+    "venue": {
+      "id": 10492,
+      "name": "BBSP Stadium Rugby Park",
+      "address": "Rugby Road",
+      "city": "Kilmarnock",
+      "capacity": 18128,
+      "surface": "artificial turf"
+    }
+  },
+  {
+    "team": {
+      "id": 251,
+      "name": "ST Mirren",
+      "code": "MIR",
+      "country": "Scotland",
+      "founded": 1877,
+      "national": false
+    },
+    "venue": {
+      "id": 11913,
+      "name": "The SMISA Stadium",
+      "address": "Greenhill Road",
+      "city": "Paisley",
+      "capacity": 8016,
+      "surface": "grass"
+    }
+  },
+  {
+    "team": {
+      "id": 252,
+      "name": "Aberdeen",
+      "code": "ABE",
+      "country": "Scotland",
+      "founded": 1903,
+      "national": false
+    },
+    "venue": {
+      "id": 1383,
+      "name": "Pittodrie Stadium",
+      "address": "Pittodrie Street",
+      "city": "Aberdeen",
+      "capacity": 22199,
+      "surface": "grass"
+    }
+  },
+  {
+    "team": {
+      "id": 254,
+      "name": "Heart OF Midlothian",
+      "code": "HEA",
+      "country": "Scotland",
+      "founded": 1874,
+      "national": false
+    },
+    "venue": {
+      "id": 1393,
+      "name": "Tynecastle Park",
+      "address": "Gorgie Road",
+      "city": "Edinburgh",
+      "capacity": 20099,
+      "surface": "grass"
+    }
+  },
+  {
+    "team": {
+      "id": 255,
+      "name": "Livingston",
+      "code": "LIV",
+      "country": "Scotland",
+      "founded": 1943,
+      "national": false
+    },
+    "venue": {
+      "id": 1397,
+      "name": "Tony Macaroni Arena",
+      "address": "Almondvale Stadium Road",
+      "city": "Livingston",
+      "capacity": 9521,
+      "surface": "grass"
+    }
+  },
+  {
+    "team": {
+      "id": 256,
+      "name": "Motherwell",
+      "code": "MOT",
+      "country": "Scotland",
+      "founded": 1886,
+      "national": false
+    },
+    "venue": {
+      "id": 1398,
+      "name": "Fir Park",
+      "address": "Fir Park Street",
+      "city": "Motherwell",
+      "capacity": 13742,
+      "surface": "grass"
+    }
+  },
+  {
+    "team": {
+      "id": 257,
+      "name": "Rangers",
+      "code": "RAN",
+      "country": "Scotland",
+      "founded": 1873,
+      "national": false
+    },
+    "venue": {
+      "id": 1401,
+      "name": "Ibrox Stadium",
+      "address": "150 Edmiston Drive",
+      "city": "Glasgow",
+      "capacity": 51082,
+      "surface": "grass"
+    }
+  },
+  {
+    "team": {
+      "id": 258,
+      "name": "ST Johnstone",
+      "code": "JOH",
+      "country": "Scotland",
+      "founded": 1885,
+      "national": false
+    },
+    "venue": {
+      "id": 1403,
+      "name": "McDiarmid Park",
+      "address": "Crieff Road",
+      "city": "Perth",
+      "capacity": 10673,
+      "surface": "grass"
+    }
+  },
+  {
+    "team": {
+      "id": 902,
+      "name": "Ross County",
+      "code": "ROS",
+      "country": "Scotland",
+      "founded": 1929,
+      "national": false
+    },
+    "venue": {
+      "id": 1402,
+      "name": "Global Energy Stadium",
+      "address": "Jubilee Road",
+      "city": "Dingwall",
+      "capacity": 6698,
+      "surface": "grass"
+    }
+  },
+  {
+    "team": {
+      "id": 1386,
+      "name": "Dundee Utd",
+      "code": "DUN",
+      "country": "Scotland",
+      "founded": 1909,
+      "national": false
+    },
+    "venue": {
+      "id": 1388,
+      "name": "Tannadice Park",
+      "address": "Tannadice Street",
+      "city": "Dundee",
+      "capacity": 14209,
+      "surface": "grass"
+    }
+  }
+]

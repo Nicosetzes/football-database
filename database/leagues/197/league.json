@@ -1,0 +1,254 @@
+[
+  {
+    "team": {
+      "id": 553,
+      "name": "Olympiakos Piraeus",
+      "code": "OLY",
+      "country": "Greece",
+      "founded": 1925,
+      "national": false
+    },
+    "venue": {
+      "id": 775,
+      "name": "Stadio Georgios Karaiskáki",
+      "address": "Poseidonos Avenue, Faliro",
+      "city": "Piraeus",
+      "capacity": 33296,
+      "surface": "grass"
+    }
+  },
+  {
+    "team": {
+      "id": 575,
+      "name": "AEK Athens FC",
+      "code": "AEK",
+      "country": "Greece",
+      "founded": 1924,
+      "national": false
+    },
+    "venue": {
+      "id": 761,
+      "name": "Olympiako Stadio Spyros Louis",
+      "address": "37 Kifissias Avenue, Maroussi",
+      "city": "Athens",
+      "capacity": 71030,
+      "surface": "grass"
+    }
+  },
+  {
+    "team": {
+      "id": 617,
+      "name": "Panathinaikos",
+      "code": "PAN",
+      "country": "Greece",
+      "founded": 1908,
+      "national": false
+    },
+    "venue": {
+      "id": 761,
+      "name": "Olympiako Stadio Spyros Louis",
+      "address": "37 Kifissias Avenue, Maroussi",
+      "city": "Athens",
+      "capacity": 71030,
+      "surface": "grass"
+    }
+  },
+  {
+    "team": {
+      "id": 619,
+      "name": "PAOK",
+      "code": "PAO",
+      "country": "Greece",
+      "founded": 1926,
+      "national": false
+    },
+    "venue": {
+      "id": 780,
+      "name": "Stadio Toumbas",
+      "address": "Plateia Mikras Asias",
+      "city": "Thessaloníki",
+      "capacity": 28803,
+      "surface": "grass"
+    }
+  },
+  {
+    "team": {
+      "id": 949,
+      "name": "Panetolikos",
+      "code": "PAN",
+      "country": "Greece",
+      "founded": 1926,
+      "national": false
+    },
+    "venue": {
+      "id": 778,
+      "name": "Stadio Panetolikou",
+      "address": "Nikitara",
+      "city": "Agrinio",
+      "capacity": 7200,
+      "surface": "grass"
+    }
+  },
+  {
+    "team": {
+      "id": 950,
+      "name": "PAS Giannina",
+      "code": "GIA",
+      "country": "Greece",
+      "founded": 1966,
+      "national": false
+    },
+    "venue": {
+      "id": 781,
+      "name": "Stadio Zosimades",
+      "address": "18 Fotis Tzavella",
+      "city": "Ioannina",
+      "capacity": 7652,
+      "surface": "grass"
+    }
+  },
+  {
+    "team": {
+      "id": 955,
+      "name": "Asteras Tripolis",
+      "code": "AST",
+      "country": "Greece",
+      "founded": 1930,
+      "national": false
+    },
+    "venue": {
+      "id": 766,
+      "name": "Stadio Theodoros Kolokotronis",
+      "address": "Liagora",
+      "city": "Tripoli",
+      "capacity": 7717,
+      "surface": "grass"
+    }
+  },
+  {
+    "team": {
+      "id": 956,
+      "name": "Lamia",
+      "code": "LAM",
+      "country": "Greece",
+      "founded": null,
+      "national": false
+    },
+    "venue": {
+      "id": 771,
+      "name": "Dimotiko Athlitiko Kentro Lamias",
+      "address": "Asklipiou 12",
+      "city": "Lamia",
+      "capacity": 5500,
+      "surface": "grass"
+    }
+  },
+  {
+    "team": {
+      "id": 957,
+      "name": "Levadiakos",
+      "code": "LEV",
+      "country": "Greece",
+      "founded": 1961,
+      "national": false
+    },
+    "venue": {
+      "id": 773,
+      "name": "Stadio Levadias",
+      "address": "Agion Theodoron",
+      "city": "Levadia",
+      "capacity": 5915,
+      "surface": "grass"
+    }
+  },
+  {
+    "team": {
+      "id": 1123,
+      "name": "Aris Thessalonikis",
+      "code": "ARI",
+      "country": "Greece",
+      "founded": 1914,
+      "national": false
+    },
+    "venue": {
+      "id": 765,
+      "name": "Stadio Harilaou Kleánthis Vikelídis",
+      "address": "69 Alkminis, Charilaou",
+      "city": "Thessaloníki",
+      "capacity": 23220,
+      "surface": "grass"
+    }
+  },
+  {
+    "team": {
+      "id": 1124,
+      "name": "OFI",
+      "code": "CRE",
+      "country": "Greece",
+      "founded": 1925,
+      "national": false
+    },
+    "venue": {
+      "id": 774,
+      "name": "Stadio Thódoros Vardinoyánnis",
+      "address": "Parnassou",
+      "city": "Heraklion",
+      "capacity": 9000,
+      "surface": "grass"
+    }
+  },
+  {
+    "team": {
+      "id": 2110,
+      "name": "Volos NFC",
+      "code": null,
+      "country": "Greece",
+      "founded": 2017,
+      "national": false
+    },
+    "venue": {
+      "id": 1918,
+      "name": "Panthessaliko Stadio",
+      "address": "Odos Stadiou",
+      "city": "Volos",
+      "capacity": 22700,
+      "surface": "grass"
+    }
+  },
+  {
+    "team": {
+      "id": 7513,
+      "name": "Ionikos",
+      "code": "ION",
+      "country": "Greece",
+      "founded": null,
+      "national": false
+    },
+    "venue": {
+      "id": 5455,
+      "name": "Dimotiko Gipedo Neapolis Nikaias",
+      "address": "Grigoriou Labraki &amp; Parnassou, Neapoli, Nikaia",
+      "city": "Athens",
+      "capacity": 4999,
+      "surface": "grass"
+    }
+  },
+  {
+    "team": {
+      "id": 12260,
+      "name": "Atromitos",
+      "code": "ATR",
+      "country": "Greece",
+      "founded": 1923,
+      "national": false
+    },
+    "venue": {
+      "id": 7804,
+      "name": "Stadio Peristeriou",
+      "address": "93 Giannitson, Peristeri",
+      "city": "Athens",
+      "capacity": 9035,
+      "surface": "grass"
+    }
+  }
+]

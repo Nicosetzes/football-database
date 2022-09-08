@@ -1,0 +1,182 @@
+[
+  {
+    "team": {
+      "id": 551,
+      "name": "FC Basel 1893",
+      "code": "BAS",
+      "country": "Switzerland",
+      "founded": 1893,
+      "national": false
+    },
+    "venue": {
+      "id": 1530,
+      "name": "St. Jakob-Park",
+      "address": "Sankt Jakob-Strasse 395",
+      "city": "Basel",
+      "capacity": 38512,
+      "surface": "grass"
+    }
+  },
+  {
+    "team": {
+      "id": 565,
+      "name": "BSC Young Boys",
+      "code": "YOU",
+      "country": "Switzerland",
+      "founded": 1898,
+      "national": false
+    },
+    "venue": {
+      "id": 10500,
+      "name": "Stadion Wankdorf",
+      "address": "Papiermühlestrasse 71",
+      "city": "Bern",
+      "capacity": 31783,
+      "surface": "artificial turf"
+    }
+  },
+  {
+    "team": {
+      "id": 606,
+      "name": "FC Lugano",
+      "code": "LUG",
+      "country": "Switzerland",
+      "founded": 1908,
+      "national": false
+    },
+    "venue": {
+      "id": 1536,
+      "name": "Stadio di Cornaredo",
+      "address": "Via Trevano 100",
+      "city": "Lugano",
+      "capacity": 14873,
+      "surface": "grass"
+    }
+  },
+  {
+    "team": {
+      "id": 630,
+      "name": "FC Sion",
+      "code": "SIO",
+      "country": "Switzerland",
+      "founded": 1909,
+      "national": false
+    },
+    "venue": {
+      "id": 1542,
+      "name": "Stade de Tourbillon",
+      "address": "38, rue des Echutes",
+      "city": "Sion",
+      "capacity": 16263,
+      "surface": "grass"
+    }
+  },
+  {
+    "team": {
+      "id": 644,
+      "name": "FC Luzern",
+      "code": "LUZ",
+      "country": "Switzerland",
+      "founded": 1901,
+      "national": false
+    },
+    "venue": {
+      "id": 1537,
+      "name": "swissporarena",
+      "address": "Horwerstrasse 34",
+      "city": "Luzern",
+      "capacity": 17800,
+      "surface": "grass"
+    }
+  },
+  {
+    "team": {
+      "id": 783,
+      "name": "FC Zurich",
+      "code": "ZUR",
+      "country": "Switzerland",
+      "founded": 1896,
+      "national": false
+    },
+    "venue": {
+      "id": 1533,
+      "name": "Stadion Letzigrund",
+      "address": "Badenerstrasse 500",
+      "city": "Zürich",
+      "capacity": 26104,
+      "surface": "grass"
+    }
+  },
+  {
+    "team": {
+      "id": 1011,
+      "name": "FC ST. Gallen",
+      "code": "GAL",
+      "country": "Switzerland",
+      "founded": 1879,
+      "national": false
+    },
+    "venue": {
+      "id": 1543,
+      "name": "Kybunpark",
+      "address": "Zürcher Strasse 464",
+      "city": "St. Gallen",
+      "capacity": 19694,
+      "surface": "grass"
+    }
+  },
+  {
+    "team": {
+      "id": 1013,
+      "name": "Grasshoppers",
+      "code": "GRA",
+      "country": "Switzerland",
+      "founded": 1886,
+      "national": false
+    },
+    "venue": {
+      "id": 1533,
+      "name": "Stadion Letzigrund",
+      "address": "Badenerstrasse 500",
+      "city": "Zürich",
+      "capacity": 26104,
+      "surface": "grass"
+    }
+  },
+  {
+    "team": {
+      "id": 2180,
+      "name": "FC Winterthur",
+      "code": "WIN",
+      "country": "Switzerland",
+      "founded": 1896,
+      "national": false
+    },
+    "venue": {
+      "id": 1547,
+      "name": "Stadion Schützenwiese",
+      "address": "Rennweg 5",
+      "city": "Winterthur",
+      "capacity": 14987,
+      "surface": "grass"
+    }
+  },
+  {
+    "team": {
+      "id": 2184,
+      "name": "Servette FC",
+      "code": "SER",
+      "country": "Switzerland",
+      "founded": 1890,
+      "national": false
+    },
+    "venue": {
+      "id": 1541,
+      "name": "Stade de Genève",
+      "address": "16, route des Jeunes",
+      "city": "Lancy",
+      "capacity": 30084,
+      "surface": "grass"
+    }
+  }
+]
