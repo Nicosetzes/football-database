@@ -7,6 +7,7 @@ const dotenv = require("dotenv").config();
 /* -------------------- SERVER -------------------- */
 
 const express = require("express");
+const cors = require("cors");
 
 /* -------------------- MIDDLEWARES -------------------- */
 
@@ -15,11 +16,17 @@ app.use(express.json());
 app.use(express.urlencoded({ extended: true }));
 app.use(express.static("public"));
 
-/* -------------------- ROUTES -------------------- */
+app.use(
+  cors({
+    origin:
+      process.env.NODE_ENV == "development"
+        ? "http://localhost:3000"
+        : "https://apa-website-fe.vercel.app",
+    credentials: true,
+  })
+); // IMPORTANTE
 
-app.get("/", (req, res) => {
-  res.status(200).send("Hola");
-});
+/* -------------------- ROUTES -------------------- */
 
 app.get("/api/leagues", (req, res) => {
   const allLeagues = require(`./database/leagues/leagues`);
@@ -60,46 +67,10 @@ app.get("/api/leagues/:leagueId/teams/:teamId", (req, res) => {
 
 app.get("/api/leagues/:leagueId/teams/:teamId/logo", (req, res) => {
   const { leagueId, teamId } = req.params;
-  console.log("hola");
   res
     .status(200)
     .sendFile(__dirname + `/database/leagues/${leagueId}/logos/${teamId}.png`);
 });
-
-// app.get("/api/league/:id/:season", async (req, res) => {
-//   const leagueId = req.params.id;
-//   const season = req.params.season;
-
-//   const teams = [];
-
-//   const axios = require("axios");
-//   const config = {
-//     method: "get",
-//     url: `https://v3.football.api-sports.io/teams?league=${leagueId}&season=${season}`,
-//     headers: {
-//       "x-rapidapi-key": "c6fc4afceaf077867ce47212440002cf",
-//       "x-rapidapi-host": "v3.football.api-sports.io",
-//     },
-//   };
-
-//   axios(config)
-//     .then(function (response) {
-//       // console.log("JSON STRINGIFY RESPONSE.DATA")
-//       // console.log(JSON.stringify(response.data));
-//       teams.push(response.data);
-//       const { response: apiResponse } = teams[0];
-//       // console.log("teams")
-//       // console.log(teams)
-//       // console.log("apiResponse")
-//       // console.log(apiResponse)
-//       // console.log(apiResponse);
-//       res.status(200).send(apiResponse);
-//       // res.render("api", { apiResponse });
-//     })
-//     .catch(function (error) {
-//       console.log(error);
-//     });
-// });
 
 /* -------------------- PORT -------------------- */
 
