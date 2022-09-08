@@ -1,362 +1,373 @@
 [
   {
-    "team": {
-      "id": 529,
-      "name": "Barcelona",
-      "code": "BAR",
+    "league": {
+      "id": 140,
+      "name": "La Liga",
       "country": "Spain",
-      "founded": 1899,
-      "national": false
+      "year": 2022,
+      "division": "first"
     },
-    "venue": {
-      "id": 18630,
-      "name": "Spotify Camp Nou",
-      "address": "Carrer d&apos;Arístides Maillol",
-      "city": "Barcelona",
-      "capacity": 99787,
-      "surface": "grass"
-    }
-  },
-  {
-    "team": {
-      "id": 530,
-      "name": "Atletico Madrid",
-      "code": "MAD",
-      "country": "Spain",
-      "founded": 1903,
-      "national": false
-    },
-    "venue": {
-      "id": 1461,
-      "name": "Estadio Wanda Metropolitano",
-      "address": "Rosas",
-      "city": "Madrid",
-      "capacity": 68032,
-      "surface": "grass"
-    }
-  },
-  {
-    "team": {
-      "id": 531,
-      "name": "Athletic Club",
-      "code": "BIL",
-      "country": "Spain",
-      "founded": 1898,
-      "national": false
-    },
-    "venue": {
-      "id": 1460,
-      "name": "San Mamés Barria",
-      "address": "Rafael Moreno Pitxitxi Kalea",
-      "city": "Bilbao",
-      "capacity": 53289,
-      "surface": "grass"
-    }
-  },
-  {
-    "team": {
-      "id": 532,
-      "name": "Valencia",
-      "code": "VAL",
-      "country": "Spain",
-      "founded": 1919,
-      "national": false
-    },
-    "venue": {
-      "id": 1497,
-      "name": "Estadio de Mestalla",
-      "address": "Avenida de Suecia",
-      "city": "Valencia",
-      "capacity": 55000,
-      "surface": "grass"
-    }
-  },
-  {
-    "team": {
-      "id": 533,
-      "name": "Villarreal",
-      "code": "VIL",
-      "country": "Spain",
-      "founded": 1923,
-      "national": false
-    },
-    "venue": {
-      "id": 1498,
-      "name": "Estadio de la Cerámica",
-      "address": "Plaza Labrador",
-      "city": "Villarreal",
-      "capacity": 24500,
-      "surface": "grass"
-    }
-  },
-  {
-    "team": {
-      "id": 536,
-      "name": "Sevilla",
-      "code": "SEV",
-      "country": "Spain",
-      "founded": 1890,
-      "national": false
-    },
-    "venue": {
-      "id": 1494,
-      "name": "Estadio Ramón Sánchez Pizjuán",
-      "address": "Avenida de Eduardo Dato",
-      "city": "Sevilla",
-      "capacity": 48649,
-      "surface": "grass"
-    }
-  },
-  {
-    "team": {
-      "id": 538,
-      "name": "Celta Vigo",
-      "code": "CEL",
-      "country": "Spain",
-      "founded": 1923,
-      "national": false
-    },
-    "venue": {
-      "id": 1467,
-      "name": "Abanca-Balaídos",
-      "address": "Avenida de Balaídos",
-      "city": "Vigo",
-      "capacity": 31800,
-      "surface": "grass"
-    }
-  },
-  {
-    "team": {
-      "id": 540,
-      "name": "Espanyol",
-      "code": "ESP",
-      "country": "Spain",
-      "founded": 1900,
-      "national": false
-    },
-    "venue": {
-      "id": 1474,
-      "name": "RCDE Stadium",
-      "address": "Avenida Baix Llobregat 100",
-      "city": "Cornella de Llobregat",
-      "capacity": 40423,
-      "surface": "grass"
-    }
-  },
-  {
-    "team": {
-      "id": 541,
-      "name": "Real Madrid",
-      "code": "REA",
-      "country": "Spain",
-      "founded": 1902,
-      "national": false
-    },
-    "venue": {
-      "id": 1456,
-      "name": "Estadio Santiago Bernabéu",
-      "address": "Avenida de Concha Espina 1, Chamartín",
-      "city": "Madrid",
-      "capacity": 85454,
-      "surface": "grass"
-    }
-  },
-  {
-    "team": {
-      "id": 543,
-      "name": "Real Betis",
-      "code": "BET",
-      "country": "Spain",
-      "founded": 1907,
-      "national": false
-    },
-    "venue": {
-      "id": 1489,
-      "name": "Estadio Benito Villamarín",
-      "address": "Avenida de Heliópolis",
-      "city": "Sevilla",
-      "capacity": 60721,
-      "surface": "grass"
-    }
-  },
-  {
-    "team": {
-      "id": 546,
-      "name": "Getafe",
-      "code": "GET",
-      "country": "Spain",
-      "founded": 1983,
-      "national": false
-    },
-    "venue": {
-      "id": 1476,
-      "name": "Coliseum Alfonso Pérez",
-      "address": "Avenida de Teresa de Calcuta",
-      "city": "Getafe",
-      "capacity": 17393,
-      "surface": "grass"
-    }
-  },
-  {
-    "team": {
-      "id": 547,
-      "name": "Girona",
-      "code": "GIR",
-      "country": "Spain",
-      "founded": 1930,
-      "national": false
-    },
-    "venue": {
-      "id": 1478,
-      "name": "Estadi Municipal de Montilivi",
-      "address": "Avenida Montlivi 141",
-      "city": "Girona",
-      "capacity": 14500,
-      "surface": "grass"
-    }
-  },
-  {
-    "team": {
-      "id": 548,
-      "name": "Real Sociedad",
-      "code": "RSO",
-      "country": "Spain",
-      "founded": 1909,
-      "national": false
-    },
-    "venue": {
-      "id": 1491,
-      "name": "Reale Arena",
-      "address": "Paseo de Anoeta 1",
-      "city": "Donostia-San Sebastián",
-      "capacity": 39500,
-      "surface": "grass"
-    }
-  },
-  {
-    "team": {
-      "id": 720,
-      "name": "Valladolid",
-      "code": "VAL",
-      "country": "Spain",
-      "founded": 1928,
-      "national": false
-    },
-    "venue": {
-      "id": 1492,
-      "name": "Estadio Municipal José Zorrilla",
-      "address": "Avenida del Mundial 82",
-      "city": "Valladolid",
-      "capacity": 26512,
-      "surface": "grass"
-    }
-  },
-  {
-    "team": {
-      "id": 723,
-      "name": "Almeria",
-      "code": "ALM",
-      "country": "Spain",
-      "founded": 1989,
-      "national": false
-    },
-    "venue": {
-      "id": 1459,
-      "name": "Estadio de los Juegos Mediterráneos",
-      "address": "Calle de Belladona",
-      "city": "Almería",
-      "capacity": 21350,
-      "surface": "grass"
-    }
-  },
-  {
-    "team": {
-      "id": 724,
-      "name": "Cadiz",
-      "code": "CAD",
-      "country": "Spain",
-      "founded": 1910,
-      "national": false
-    },
-    "venue": {
-      "id": 11915,
-      "name": "Estadio Nuevo Mirandilla",
-      "address": "Plaza de Madrid",
-      "city": "Cádiz",
-      "capacity": 22000,
-      "surface": "grass"
-    }
-  },
-  {
-    "team": {
-      "id": 727,
-      "name": "Osasuna",
-      "code": "OSA",
-      "country": "Spain",
-      "founded": 1920,
-      "national": false
-    },
-    "venue": {
-      "id": 1486,
-      "name": "Estadio El Sadar",
-      "address": "Carretera El Sadar",
-      "city": "Iruñea",
-      "capacity": 23576,
-      "surface": "grass"
-    }
-  },
-  {
-    "team": {
-      "id": 728,
-      "name": "Rayo Vallecano",
-      "code": "RAY",
-      "country": "Spain",
-      "founded": 1924,
-      "national": false
-    },
-    "venue": {
-      "id": 1488,
-      "name": "Estadio de Vallecas",
-      "address": "Calle Payaso Fofó",
-      "city": "Madrid",
-      "capacity": 15500,
-      "surface": "grass"
-    }
-  },
-  {
-    "team": {
-      "id": 797,
-      "name": "Elche",
-      "code": "ELC",
-      "country": "Spain",
-      "founded": 1923,
-      "national": false
-    },
-    "venue": {
-      "id": 1473,
-      "name": "Estadio Manuel Martínez Valero",
-      "address": "Avenida Manuel Martínez Valero 3",
-      "city": "Elche",
-      "capacity": 36017,
-      "surface": "grass"
-    }
-  },
-  {
-    "team": {
-      "id": 798,
-      "name": "Mallorca",
-      "code": "MAL",
-      "country": "Spain",
-      "founded": 1916,
-      "national": false
-    },
-    "venue": {
-      "id": 12597,
-      "name": "Visit Mallorca Estadi",
-      "address": "Camí dels Reis",
-      "city": "Palma de Mallorca",
-      "capacity": 23142,
-      "surface": "grass"
-    }
+    "teams": [
+      {
+        "team": {
+          "id": 529,
+          "name": "Barcelona",
+          "code": "BAR",
+          "country": "Spain",
+          "founded": 1899,
+          "national": false
+        },
+        "venue": {
+          "id": 18630,
+          "name": "Spotify Camp Nou",
+          "address": "Carrer d&apos;Arístides Maillol",
+          "city": "Barcelona",
+          "capacity": 99787,
+          "surface": "grass"
+        }
+      },
+      {
+        "team": {
+          "id": 530,
+          "name": "Atletico Madrid",
+          "code": "MAD",
+          "country": "Spain",
+          "founded": 1903,
+          "national": false
+        },
+        "venue": {
+          "id": 1461,
+          "name": "Estadio Wanda Metropolitano",
+          "address": "Rosas",
+          "city": "Madrid",
+          "capacity": 68032,
+          "surface": "grass"
+        }
+      },
+      {
+        "team": {
+          "id": 531,
+          "name": "Athletic Club",
+          "code": "BIL",
+          "country": "Spain",
+          "founded": 1898,
+          "national": false
+        },
+        "venue": {
+          "id": 1460,
+          "name": "San Mamés Barria",
+          "address": "Rafael Moreno Pitxitxi Kalea",
+          "city": "Bilbao",
+          "capacity": 53289,
+          "surface": "grass"
+        }
+      },
+      {
+        "team": {
+          "id": 532,
+          "name": "Valencia",
+          "code": "VAL",
+          "country": "Spain",
+          "founded": 1919,
+          "national": false
+        },
+        "venue": {
+          "id": 1497,
+          "name": "Estadio de Mestalla",
+          "address": "Avenida de Suecia",
+          "city": "Valencia",
+          "capacity": 55000,
+          "surface": "grass"
+        }
+      },
+      {
+        "team": {
+          "id": 533,
+          "name": "Villarreal",
+          "code": "VIL",
+          "country": "Spain",
+          "founded": 1923,
+          "national": false
+        },
+        "venue": {
+          "id": 1498,
+          "name": "Estadio de la Cerámica",
+          "address": "Plaza Labrador",
+          "city": "Villarreal",
+          "capacity": 24500,
+          "surface": "grass"
+        }
+      },
+      {
+        "team": {
+          "id": 536,
+          "name": "Sevilla",
+          "code": "SEV",
+          "country": "Spain",
+          "founded": 1890,
+          "national": false
+        },
+        "venue": {
+          "id": 1494,
+          "name": "Estadio Ramón Sánchez Pizjuán",
+          "address": "Avenida de Eduardo Dato",
+          "city": "Sevilla",
+          "capacity": 48649,
+          "surface": "grass"
+        }
+      },
+      {
+        "team": {
+          "id": 538,
+          "name": "Celta Vigo",
+          "code": "CEL",
+          "country": "Spain",
+          "founded": 1923,
+          "national": false
+        },
+        "venue": {
+          "id": 1467,
+          "name": "Abanca-Balaídos",
+          "address": "Avenida de Balaídos",
+          "city": "Vigo",
+          "capacity": 31800,
+          "surface": "grass"
+        }
+      },
+      {
+        "team": {
+          "id": 540,
+          "name": "Espanyol",
+          "code": "ESP",
+          "country": "Spain",
+          "founded": 1900,
+          "national": false
+        },
+        "venue": {
+          "id": 1474,
+          "name": "RCDE Stadium",
+          "address": "Avenida Baix Llobregat 100",
+          "city": "Cornella de Llobregat",
+          "capacity": 40423,
+          "surface": "grass"
+        }
+      },
+      {
+        "team": {
+          "id": 541,
+          "name": "Real Madrid",
+          "code": "REA",
+          "country": "Spain",
+          "founded": 1902,
+          "national": false
+        },
+        "venue": {
+          "id": 1456,
+          "name": "Estadio Santiago Bernabéu",
+          "address": "Avenida de Concha Espina 1, Chamartín",
+          "city": "Madrid",
+          "capacity": 85454,
+          "surface": "grass"
+        }
+      },
+      {
+        "team": {
+          "id": 543,
+          "name": "Real Betis",
+          "code": "BET",
+          "country": "Spain",
+          "founded": 1907,
+          "national": false
+        },
+        "venue": {
+          "id": 1489,
+          "name": "Estadio Benito Villamarín",
+          "address": "Avenida de Heliópolis",
+          "city": "Sevilla",
+          "capacity": 60721,
+          "surface": "grass"
+        }
+      },
+      {
+        "team": {
+          "id": 546,
+          "name": "Getafe",
+          "code": "GET",
+          "country": "Spain",
+          "founded": 1983,
+          "national": false
+        },
+        "venue": {
+          "id": 1476,
+          "name": "Coliseum Alfonso Pérez",
+          "address": "Avenida de Teresa de Calcuta",
+          "city": "Getafe",
+          "capacity": 17393,
+          "surface": "grass"
+        }
+      },
+      {
+        "team": {
+          "id": 547,
+          "name": "Girona",
+          "code": "GIR",
+          "country": "Spain",
+          "founded": 1930,
+          "national": false
+        },
+        "venue": {
+          "id": 1478,
+          "name": "Estadi Municipal de Montilivi",
+          "address": "Avenida Montlivi 141",
+          "city": "Girona",
+          "capacity": 14500,
+          "surface": "grass"
+        }
+      },
+      {
+        "team": {
+          "id": 548,
+          "name": "Real Sociedad",
+          "code": "RSO",
+          "country": "Spain",
+          "founded": 1909,
+          "national": false
+        },
+        "venue": {
+          "id": 1491,
+          "name": "Reale Arena",
+          "address": "Paseo de Anoeta 1",
+          "city": "Donostia-San Sebastián",
+          "capacity": 39500,
+          "surface": "grass"
+        }
+      },
+      {
+        "team": {
+          "id": 720,
+          "name": "Valladolid",
+          "code": "VAL",
+          "country": "Spain",
+          "founded": 1928,
+          "national": false
+        },
+        "venue": {
+          "id": 1492,
+          "name": "Estadio Municipal José Zorrilla",
+          "address": "Avenida del Mundial 82",
+          "city": "Valladolid",
+          "capacity": 26512,
+          "surface": "grass"
+        }
+      },
+      {
+        "team": {
+          "id": 723,
+          "name": "Almeria",
+          "code": "ALM",
+          "country": "Spain",
+          "founded": 1989,
+          "national": false
+        },
+        "venue": {
+          "id": 1459,
+          "name": "Estadio de los Juegos Mediterráneos",
+          "address": "Calle de Belladona",
+          "city": "Almería",
+          "capacity": 21350,
+          "surface": "grass"
+        }
+      },
+      {
+        "team": {
+          "id": 724,
+          "name": "Cadiz",
+          "code": "CAD",
+          "country": "Spain",
+          "founded": 1910,
+          "national": false
+        },
+        "venue": {
+          "id": 11915,
+          "name": "Estadio Nuevo Mirandilla",
+          "address": "Plaza de Madrid",
+          "city": "Cádiz",
+          "capacity": 22000,
+          "surface": "grass"
+        }
+      },
+      {
+        "team": {
+          "id": 727,
+          "name": "Osasuna",
+          "code": "OSA",
+          "country": "Spain",
+          "founded": 1920,
+          "national": false
+        },
+        "venue": {
+          "id": 1486,
+          "name": "Estadio El Sadar",
+          "address": "Carretera El Sadar",
+          "city": "Iruñea",
+          "capacity": 23576,
+          "surface": "grass"
+        }
+      },
+      {
+        "team": {
+          "id": 728,
+          "name": "Rayo Vallecano",
+          "code": "RAY",
+          "country": "Spain",
+          "founded": 1924,
+          "national": false
+        },
+        "venue": {
+          "id": 1488,
+          "name": "Estadio de Vallecas",
+          "address": "Calle Payaso Fofó",
+          "city": "Madrid",
+          "capacity": 15500,
+          "surface": "grass"
+        }
+      },
+      {
+        "team": {
+          "id": 797,
+          "name": "Elche",
+          "code": "ELC",
+          "country": "Spain",
+          "founded": 1923,
+          "national": false
+        },
+        "venue": {
+          "id": 1473,
+          "name": "Estadio Manuel Martínez Valero",
+          "address": "Avenida Manuel Martínez Valero 3",
+          "city": "Elche",
+          "capacity": 36017,
+          "surface": "grass"
+        }
+      },
+      {
+        "team": {
+          "id": 798,
+          "name": "Mallorca",
+          "code": "MAL",
+          "country": "Spain",
+          "founded": 1916,
+          "national": false
+        },
+        "venue": {
+          "id": 12597,
+          "name": "Visit Mallorca Estadi",
+          "address": "Camí dels Reis",
+          "city": "Palma de Mallorca",
+          "capacity": 23142,
+          "surface": "grass"
+        }
+      }
+    ]
   }
 ]

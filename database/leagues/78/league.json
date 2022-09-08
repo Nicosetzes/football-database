@@ -1,326 +1,337 @@
 [
   {
-    "team": {
-      "id": 157,
-      "name": "Bayern Munich",
-      "code": "BAY",
+    "league": {
+      "id": 78,
+      "name": "Bundesliga",
       "country": "Germany",
-      "founded": 1900,
-      "national": false
+      "year": 2022,
+      "division": "first"
     },
-    "venue": {
-      "id": 700,
-      "name": "Allianz Arena",
-      "address": "Werner-Heisenberg-Allee 25",
-      "city": "München",
-      "capacity": 75000,
-      "surface": "grass"
-    }
-  },
-  {
-    "team": {
-      "id": 159,
-      "name": "Hertha Berlin",
-      "code": "HER",
-      "country": "Germany",
-      "founded": 1892,
-      "national": false
-    },
-    "venue": {
-      "id": 694,
-      "name": "Olympiastadion Berlin",
-      "address": "Olympischer Platz 3",
-      "city": "Berlin",
-      "capacity": 77116,
-      "surface": "grass"
-    }
-  },
-  {
-    "team": {
-      "id": 160,
-      "name": "SC Freiburg",
-      "code": "FRE",
-      "country": "Germany",
-      "founded": 1904,
-      "national": false
-    },
-    "venue": {
-      "id": 12717,
-      "name": "Europa-Park Stadion",
-      "address": "Achim-Stocker-Straße 1",
-      "city": "Freiburg im Breisgau",
-      "capacity": 34700,
-      "surface": "grass"
-    }
-  },
-  {
-    "team": {
-      "id": 161,
-      "name": "VfL Wolfsburg",
-      "code": "WOL",
-      "country": "Germany",
-      "founded": 1945,
-      "national": false
-    },
-    "venue": {
-      "id": 752,
-      "name": "VOLKSWAGEN ARENA",
-      "address": "In den Allerwiesen 1",
-      "city": "Wolfsburg",
-      "capacity": 30000,
-      "surface": "grass"
-    }
-  },
-  {
-    "team": {
-      "id": 162,
-      "name": "Werder Bremen",
-      "code": "WER",
-      "country": "Germany",
-      "founded": 1899,
-      "national": false
-    },
-    "venue": {
-      "id": 755,
-      "name": "wohninvest WESERSTADION",
-      "address": "Franz-Böhmert-Straße 1c",
-      "city": "Bremen",
-      "capacity": 42358,
-      "surface": "grass"
-    }
-  },
-  {
-    "team": {
-      "id": 163,
-      "name": "Borussia Monchengladbach",
-      "code": "MOE",
-      "country": "Germany",
-      "founded": 1900,
-      "national": false
-    },
-    "venue": {
-      "id": 703,
-      "name": "Stadion im BORUSSIA-PARK",
-      "address": "Hennes-Weisweiler-Allee 1",
-      "city": "Mönchengladbach",
-      "capacity": 54057,
-      "surface": "grass"
-    }
-  },
-  {
-    "team": {
-      "id": 164,
-      "name": "FSV Mainz 05",
-      "code": "MAI",
-      "country": "Germany",
-      "founded": 1905,
-      "national": false
-    },
-    "venue": {
-      "id": 11899,
-      "name": "MEWA ARENA",
-      "address": "Eugen-Salomon-Straße 1",
-      "city": "Mainz",
-      "capacity": 34034,
-      "surface": "grass"
-    }
-  },
-  {
-    "team": {
-      "id": 165,
-      "name": "Borussia Dortmund",
-      "code": "DOR",
-      "country": "Germany",
-      "founded": 1909,
-      "national": false
-    },
-    "venue": {
-      "id": 702,
-      "name": "Signal-Iduna-Park",
-      "address": "Strobelalle 50",
-      "city": "Dortmund",
-      "capacity": 81365,
-      "surface": "grass"
-    }
-  },
-  {
-    "team": {
-      "id": 167,
-      "name": "1899 Hoffenheim",
-      "code": "HOF",
-      "country": "Germany",
-      "founded": 1899,
-      "national": false
-    },
-    "venue": {
-      "id": 724,
-      "name": "PreZero Arena",
-      "address": "Dietmar-Hopp-Straße 1",
-      "city": "Sinsheim",
-      "capacity": 30164,
-      "surface": "grass"
-    }
-  },
-  {
-    "team": {
-      "id": 168,
-      "name": "Bayer Leverkusen",
-      "code": "BAY",
-      "country": "Germany",
-      "founded": 1904,
-      "national": false
-    },
-    "venue": {
-      "id": 699,
-      "name": "BayArena",
-      "address": "Bismarckstr. 122-124",
-      "city": "Leverkusen",
-      "capacity": 30210,
-      "surface": "grass"
-    }
-  },
-  {
-    "team": {
-      "id": 169,
-      "name": "Eintracht Frankfurt",
-      "code": "EIN",
-      "country": "Germany",
-      "founded": 1899,
-      "national": false
-    },
-    "venue": {
-      "id": 10491,
-      "name": "Deutsche Bank Park",
-      "address": "Mörfelder Landstr. 362",
-      "city": "Frankfurt am Main",
-      "capacity": 52300,
-      "surface": "grass"
-    }
-  },
-  {
-    "team": {
-      "id": 170,
-      "name": "FC Augsburg",
-      "code": "AUG",
-      "country": "Germany",
-      "founded": 1907,
-      "national": false
-    },
-    "venue": {
-      "id": 698,
-      "name": "WWK Arena",
-      "address": "Bürgermeister Ulrich-Straße 90",
-      "city": "Augsburg",
-      "capacity": 30662,
-      "surface": "grass"
-    }
-  },
-  {
-    "team": {
-      "id": 172,
-      "name": "VfB Stuttgart",
-      "code": "STU",
-      "country": "Germany",
-      "founded": 1893,
-      "national": false
-    },
-    "venue": {
-      "id": 750,
-      "name": "Mercedes-Benz-Arena",
-      "address": "Mercedesstrasse 87",
-      "city": "Stuttgart",
-      "capacity": 60469,
-      "surface": "grass"
-    }
-  },
-  {
-    "team": {
-      "id": 173,
-      "name": "RB Leipzig",
-      "code": "LEI",
-      "country": "Germany",
-      "founded": 2009,
-      "national": false
-    },
-    "venue": {
-      "id": 738,
-      "name": "Red Bull Arena",
-      "address": "Am Sportforum 3",
-      "city": "Leipzig",
-      "capacity": 47069,
-      "surface": "grass"
-    }
-  },
-  {
-    "team": {
-      "id": 174,
-      "name": "FC Schalke 04",
-      "code": "SCH",
-      "country": "Germany",
-      "founded": 1904,
-      "national": false
-    },
-    "venue": {
-      "id": 741,
-      "name": "VELTINS-Arena",
-      "address": "Arenaring 1",
-      "city": "Gelsenkirchen",
-      "capacity": 62271,
-      "surface": "grass"
-    }
-  },
-  {
-    "team": {
-      "id": 176,
-      "name": "VfL BOCHUM",
-      "code": "BOC",
-      "country": "Germany",
-      "founded": 1848,
-      "national": false
-    },
-    "venue": {
-      "id": 751,
-      "name": "Vonovia Ruhrstadion",
-      "address": "Castropher Straße 145",
-      "city": "Bochum",
-      "capacity": 30748,
-      "surface": "grass"
-    }
-  },
-  {
-    "team": {
-      "id": 182,
-      "name": "Union Berlin",
-      "code": "UNI",
-      "country": "Germany",
-      "founded": 1966,
-      "national": false
-    },
-    "venue": {
-      "id": 748,
-      "name": "Stadion An der Alten Försterei",
-      "address": "Hämmerlingstraße 80-88, Köpenick",
-      "city": "Berlin",
-      "capacity": 22467,
-      "surface": "grass"
-    }
-  },
-  {
-    "team": {
-      "id": 192,
-      "name": "FC Koln",
-      "code": "KOL",
-      "country": "Germany",
-      "founded": 1948,
-      "national": false
-    },
-    "venue": {
-      "id": 731,
-      "name": "RheinEnergieStadion",
-      "address": "Aachener Str. 999",
-      "city": "Köln",
-      "capacity": 50076,
-      "surface": "grass"
-    }
+    "teams": [
+      {
+        "team": {
+          "id": 157,
+          "name": "Bayern Munich",
+          "code": "BAY",
+          "country": "Germany",
+          "founded": 1900,
+          "national": false
+        },
+        "venue": {
+          "id": 700,
+          "name": "Allianz Arena",
+          "address": "Werner-Heisenberg-Allee 25",
+          "city": "München",
+          "capacity": 75000,
+          "surface": "grass"
+        }
+      },
+      {
+        "team": {
+          "id": 159,
+          "name": "Hertha Berlin",
+          "code": "HER",
+          "country": "Germany",
+          "founded": 1892,
+          "national": false
+        },
+        "venue": {
+          "id": 694,
+          "name": "Olympiastadion Berlin",
+          "address": "Olympischer Platz 3",
+          "city": "Berlin",
+          "capacity": 77116,
+          "surface": "grass"
+        }
+      },
+      {
+        "team": {
+          "id": 160,
+          "name": "SC Freiburg",
+          "code": "FRE",
+          "country": "Germany",
+          "founded": 1904,
+          "national": false
+        },
+        "venue": {
+          "id": 12717,
+          "name": "Europa-Park Stadion",
+          "address": "Achim-Stocker-Straße 1",
+          "city": "Freiburg im Breisgau",
+          "capacity": 34700,
+          "surface": "grass"
+        }
+      },
+      {
+        "team": {
+          "id": 161,
+          "name": "VfL Wolfsburg",
+          "code": "WOL",
+          "country": "Germany",
+          "founded": 1945,
+          "national": false
+        },
+        "venue": {
+          "id": 752,
+          "name": "VOLKSWAGEN ARENA",
+          "address": "In den Allerwiesen 1",
+          "city": "Wolfsburg",
+          "capacity": 30000,
+          "surface": "grass"
+        }
+      },
+      {
+        "team": {
+          "id": 162,
+          "name": "Werder Bremen",
+          "code": "WER",
+          "country": "Germany",
+          "founded": 1899,
+          "national": false
+        },
+        "venue": {
+          "id": 755,
+          "name": "wohninvest WESERSTADION",
+          "address": "Franz-Böhmert-Straße 1c",
+          "city": "Bremen",
+          "capacity": 42358,
+          "surface": "grass"
+        }
+      },
+      {
+        "team": {
+          "id": 163,
+          "name": "Borussia Monchengladbach",
+          "code": "MOE",
+          "country": "Germany",
+          "founded": 1900,
+          "national": false
+        },
+        "venue": {
+          "id": 703,
+          "name": "Stadion im BORUSSIA-PARK",
+          "address": "Hennes-Weisweiler-Allee 1",
+          "city": "Mönchengladbach",
+          "capacity": 54057,
+          "surface": "grass"
+        }
+      },
+      {
+        "team": {
+          "id": 164,
+          "name": "FSV Mainz 05",
+          "code": "MAI",
+          "country": "Germany",
+          "founded": 1905,
+          "national": false
+        },
+        "venue": {
+          "id": 11899,
+          "name": "MEWA ARENA",
+          "address": "Eugen-Salomon-Straße 1",
+          "city": "Mainz",
+          "capacity": 34034,
+          "surface": "grass"
+        }
+      },
+      {
+        "team": {
+          "id": 165,
+          "name": "Borussia Dortmund",
+          "code": "DOR",
+          "country": "Germany",
+          "founded": 1909,
+          "national": false
+        },
+        "venue": {
+          "id": 702,
+          "name": "Signal-Iduna-Park",
+          "address": "Strobelalle 50",
+          "city": "Dortmund",
+          "capacity": 81365,
+          "surface": "grass"
+        }
+      },
+      {
+        "team": {
+          "id": 167,
+          "name": "1899 Hoffenheim",
+          "code": "HOF",
+          "country": "Germany",
+          "founded": 1899,
+          "national": false
+        },
+        "venue": {
+          "id": 724,
+          "name": "PreZero Arena",
+          "address": "Dietmar-Hopp-Straße 1",
+          "city": "Sinsheim",
+          "capacity": 30164,
+          "surface": "grass"
+        }
+      },
+      {
+        "team": {
+          "id": 168,
+          "name": "Bayer Leverkusen",
+          "code": "BAY",
+          "country": "Germany",
+          "founded": 1904,
+          "national": false
+        },
+        "venue": {
+          "id": 699,
+          "name": "BayArena",
+          "address": "Bismarckstr. 122-124",
+          "city": "Leverkusen",
+          "capacity": 30210,
+          "surface": "grass"
+        }
+      },
+      {
+        "team": {
+          "id": 169,
+          "name": "Eintracht Frankfurt",
+          "code": "EIN",
+          "country": "Germany",
+          "founded": 1899,
+          "national": false
+        },
+        "venue": {
+          "id": 10491,
+          "name": "Deutsche Bank Park",
+          "address": "Mörfelder Landstr. 362",
+          "city": "Frankfurt am Main",
+          "capacity": 52300,
+          "surface": "grass"
+        }
+      },
+      {
+        "team": {
+          "id": 170,
+          "name": "FC Augsburg",
+          "code": "AUG",
+          "country": "Germany",
+          "founded": 1907,
+          "national": false
+        },
+        "venue": {
+          "id": 698,
+          "name": "WWK Arena",
+          "address": "Bürgermeister Ulrich-Straße 90",
+          "city": "Augsburg",
+          "capacity": 30662,
+          "surface": "grass"
+        }
+      },
+      {
+        "team": {
+          "id": 172,
+          "name": "VfB Stuttgart",
+          "code": "STU",
+          "country": "Germany",
+          "founded": 1893,
+          "national": false
+        },
+        "venue": {
+          "id": 750,
+          "name": "Mercedes-Benz-Arena",
+          "address": "Mercedesstrasse 87",
+          "city": "Stuttgart",
+          "capacity": 60469,
+          "surface": "grass"
+        }
+      },
+      {
+        "team": {
+          "id": 173,
+          "name": "RB Leipzig",
+          "code": "LEI",
+          "country": "Germany",
+          "founded": 2009,
+          "national": false
+        },
+        "venue": {
+          "id": 738,
+          "name": "Red Bull Arena",
+          "address": "Am Sportforum 3",
+          "city": "Leipzig",
+          "capacity": 47069,
+          "surface": "grass"
+        }
+      },
+      {
+        "team": {
+          "id": 174,
+          "name": "FC Schalke 04",
+          "code": "SCH",
+          "country": "Germany",
+          "founded": 1904,
+          "national": false
+        },
+        "venue": {
+          "id": 741,
+          "name": "VELTINS-Arena",
+          "address": "Arenaring 1",
+          "city": "Gelsenkirchen",
+          "capacity": 62271,
+          "surface": "grass"
+        }
+      },
+      {
+        "team": {
+          "id": 176,
+          "name": "VfL BOCHUM",
+          "code": "BOC",
+          "country": "Germany",
+          "founded": 1848,
+          "national": false
+        },
+        "venue": {
+          "id": 751,
+          "name": "Vonovia Ruhrstadion",
+          "address": "Castropher Straße 145",
+          "city": "Bochum",
+          "capacity": 30748,
+          "surface": "grass"
+        }
+      },
+      {
+        "team": {
+          "id": 182,
+          "name": "Union Berlin",
+          "code": "UNI",
+          "country": "Germany",
+          "founded": 1966,
+          "national": false
+        },
+        "venue": {
+          "id": 748,
+          "name": "Stadion An der Alten Försterei",
+          "address": "Hämmerlingstraße 80-88, Köpenick",
+          "city": "Berlin",
+          "capacity": 22467,
+          "surface": "grass"
+        }
+      },
+      {
+        "team": {
+          "id": 192,
+          "name": "FC Koln",
+          "code": "KOL",
+          "country": "Germany",
+          "founded": 1948,
+          "national": false
+        },
+        "venue": {
+          "id": 731,
+          "name": "RheinEnergieStadion",
+          "address": "Aachener Str. 999",
+          "city": "Köln",
+          "capacity": 50076,
+          "surface": "grass"
+        }
+      }
+    ]
   }
 ]

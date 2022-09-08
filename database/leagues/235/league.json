@@ -1,290 +1,301 @@
 [
   {
-    "team": {
-      "id": 555,
-      "name": "CSKA Moscow",
-      "code": "CSK",
+    "league": {
+      "id": 235,
+      "name": "Premier League",
       "country": "Russia",
-      "founded": 1911,
-      "national": false
+      "year": 2022,
+      "division": "first"
     },
-    "venue": {
-      "id": 1333,
-      "name": "VEB Arena",
-      "address": "3-ya Peschanaya ul.",
-      "city": "Moskva",
-      "capacity": 30000,
-      "surface": "grass"
-    }
-  },
-  {
-    "team": {
-      "id": 558,
-      "name": "Spartak Moscow",
-      "code": "SPA",
-      "country": "Russia",
-      "founded": 1922,
-      "national": false
-    },
-    "venue": {
-      "id": 18673,
-      "name": "Otkritie Bank Arena",
-      "address": "Volokolamskoye shosse, Tushino",
-      "city": "Moskva",
-      "capacity": 45360,
-      "surface": "grass"
-    }
-  },
-  {
-    "team": {
-      "id": 596,
-      "name": "Zenit Saint Petersburg",
-      "code": "ZEN",
-      "country": "Russia",
-      "founded": 1925,
-      "national": false
-    },
-    "venue": {
-      "id": 1356,
-      "name": "Saint-Petersburg Stadium",
-      "address": "Futbolnaya al.",
-      "city": "St. Petersburg",
-      "capacity": 68134,
-      "surface": "grass"
-    }
-  },
-  {
-    "team": {
-      "id": 597,
-      "name": "Lokomotiv Moscow",
-      "code": "LOK",
-      "country": "Russia",
-      "founded": 1923,
-      "national": false
-    },
-    "venue": {
-      "id": 1327,
-      "name": "RZD Arena",
-      "address": "ul. Bol&apos;shaya Cherkizovskaya 125",
-      "city": "Moskva",
-      "capacity": 28800,
-      "surface": "grass"
-    }
-  },
-  {
-    "team": {
-      "id": 621,
-      "name": "Krasnodar",
-      "code": "KRA",
-      "country": "Russia",
-      "founded": 2007,
-      "national": false
-    },
-    "venue": {
-      "id": 1338,
-      "name": "Stadion FK Krasnodar",
-      "address": "ul. Vostochno-Kruglikovskaya 126",
-      "city": "Krasnodar",
-      "capacity": 35074,
-      "surface": "grass"
-    }
-  },
-  {
-    "team": {
-      "id": 779,
-      "name": "FC Rostov",
-      "code": "ROS",
-      "country": "Russia",
-      "founded": 1930,
-      "national": false
-    },
-    "venue": {
-      "id": 1339,
-      "name": "Rostov Arena",
-      "address": "ul. Levoberezhnaya",
-      "city": "Rostov-na-Donu",
-      "capacity": 45000,
-      "surface": "grass"
-    }
-  },
-  {
-    "team": {
-      "id": 1079,
-      "name": "Krylya Sovetov",
-      "code": "KRY",
-      "country": "Russia",
-      "founded": 1942,
-      "national": false
-    },
-    "venue": {
-      "id": 11911,
-      "name": "Solidarnost Arena",
-      "address": "ul. Dal&apos;nyaya",
-      "city": "Samara",
-      "capacity": 44918,
-      "surface": "grass"
-    }
-  },
-  {
-    "team": {
-      "id": 1080,
-      "name": "Orenburg",
-      "code": "GAZ",
-      "country": "Russia",
-      "founded": null,
-      "national": false
-    },
-    "venue": {
-      "id": 1342,
-      "name": "Stadion Gazovik",
-      "address": "Tsvetnoy bulvar&apos; 31",
-      "city": "Rostoshi",
-      "capacity": 7520,
-      "surface": "artificial turf"
-    }
-  },
-  {
-    "team": {
-      "id": 1084,
-      "name": "Ural",
-      "code": "URA",
-      "country": "Russia",
-      "founded": 1930,
-      "national": false
-    },
-    "venue": {
-      "id": 1355,
-      "name": "Ekaterinburg Arena",
-      "address": "ul. Repina 5",
-      "city": "Ekaterinburg",
-      "capacity": 35696,
-      "surface": "grass"
-    }
-  },
-  {
-    "team": {
-      "id": 1085,
-      "name": "Akhmat Grozny",
-      "code": "TER",
-      "country": "Russia",
-      "founded": 1958,
-      "national": false
-    },
-    "venue": {
-      "id": 1353,
-      "name": "Akhmat Arena",
-      "address": "Zhukavskogo per. 9, Staraya Sunzha",
-      "city": "Groznyi",
-      "capacity": 30597,
-      "surface": "grass"
-    }
-  },
-  {
-    "team": {
-      "id": 1088,
-      "name": "Dinamo Moscow",
-      "code": "DYN",
-      "country": "Russia",
-      "founded": 1923,
-      "national": false
-    },
-    "venue": {
-      "id": 1334,
-      "name": "VTB Arena",
-      "address": "Leningradskiy pr., 36",
-      "city": "Moskva",
-      "capacity": 26700,
-      "surface": "grass"
-    }
-  },
-  {
-    "team": {
-      "id": 1993,
-      "name": "Fakel Voronezh",
-      "code": "FAK",
-      "country": "Russia",
-      "founded": 1947,
-      "national": false
-    },
-    "venue": {
-      "id": 1336,
-      "name": "Central'nyi Stadion Profsoyuzov",
-      "address": "ul. Studencheskaya 17",
-      "city": "Voronezh",
-      "capacity": 31793,
-      "surface": "grass"
-    }
-  },
-  {
-    "team": {
-      "id": 1994,
-      "name": "Khimki",
-      "code": "KHI",
-      "country": "Russia",
-      "founded": 1997,
-      "national": false
-    },
-    "venue": {
-      "id": 18629,
-      "name": "Arena Khimki",
-      "address": "ul. Kirova, dom 24",
-      "city": "Khimki",
-      "capacity": 18636,
-      "surface": "grass"
-    }
-  },
-  {
-    "team": {
-      "id": 2011,
-      "name": "Nizhny Novgorod",
-      "code": null,
-      "country": "Russia",
-      "founded": 2015,
-      "national": false
-    },
-    "venue": {
-      "id": 2835,
-      "name": "Stadion Nizhny Novgorod",
-      "address": "ul. Dolzhanskaya",
-      "city": "Nizhniy Novgorod",
-      "capacity": 44899,
-      "surface": "grass"
-    }
-  },
-  {
-    "team": {
-      "id": 2012,
-      "name": "PFC Sochi",
-      "code": null,
-      "country": "Russia",
-      "founded": 2010,
-      "national": false
-    },
-    "venue": {
-      "id": 2834,
-      "name": "Olimpiyskiy Stadion Fisht",
-      "address": "Olimpiyskiy prospekt 15",
-      "city": "Sochi",
-      "capacity": 48000,
-      "surface": "grass"
-    }
-  },
-  {
-    "team": {
-      "id": 3985,
-      "name": "Torpedo Moskva",
-      "code": "TOR",
-      "country": "Russia",
-      "founded": 1930,
-      "national": false
-    },
-    "venue": {
-      "id": 11932,
-      "name": "Futbol'noe pole 1 Akademiya Spartak im. F. Cherenkova",
-      "address": "Malyj Olenij pereulok 23, Sokol&apos;niki",
-      "city": "Moskva",
-      "capacity": 1012,
-      "surface": "artificial turf"
-    }
+    "teams": [
+      {
+        "team": {
+          "id": 555,
+          "name": "CSKA Moscow",
+          "code": "CSK",
+          "country": "Russia",
+          "founded": 1911,
+          "national": false
+        },
+        "venue": {
+          "id": 1333,
+          "name": "VEB Arena",
+          "address": "3-ya Peschanaya ul.",
+          "city": "Moskva",
+          "capacity": 30000,
+          "surface": "grass"
+        }
+      },
+      {
+        "team": {
+          "id": 558,
+          "name": "Spartak Moscow",
+          "code": "SPA",
+          "country": "Russia",
+          "founded": 1922,
+          "national": false
+        },
+        "venue": {
+          "id": 18673,
+          "name": "Otkritie Bank Arena",
+          "address": "Volokolamskoye shosse, Tushino",
+          "city": "Moskva",
+          "capacity": 45360,
+          "surface": "grass"
+        }
+      },
+      {
+        "team": {
+          "id": 596,
+          "name": "Zenit Saint Petersburg",
+          "code": "ZEN",
+          "country": "Russia",
+          "founded": 1925,
+          "national": false
+        },
+        "venue": {
+          "id": 1356,
+          "name": "Saint-Petersburg Stadium",
+          "address": "Futbolnaya al.",
+          "city": "St. Petersburg",
+          "capacity": 68134,
+          "surface": "grass"
+        }
+      },
+      {
+        "team": {
+          "id": 597,
+          "name": "Lokomotiv Moscow",
+          "code": "LOK",
+          "country": "Russia",
+          "founded": 1923,
+          "national": false
+        },
+        "venue": {
+          "id": 1327,
+          "name": "RZD Arena",
+          "address": "ul. Bol&apos;shaya Cherkizovskaya 125",
+          "city": "Moskva",
+          "capacity": 28800,
+          "surface": "grass"
+        }
+      },
+      {
+        "team": {
+          "id": 621,
+          "name": "Krasnodar",
+          "code": "KRA",
+          "country": "Russia",
+          "founded": 2007,
+          "national": false
+        },
+        "venue": {
+          "id": 1338,
+          "name": "Stadion FK Krasnodar",
+          "address": "ul. Vostochno-Kruglikovskaya 126",
+          "city": "Krasnodar",
+          "capacity": 35074,
+          "surface": "grass"
+        }
+      },
+      {
+        "team": {
+          "id": 779,
+          "name": "FC Rostov",
+          "code": "ROS",
+          "country": "Russia",
+          "founded": 1930,
+          "national": false
+        },
+        "venue": {
+          "id": 1339,
+          "name": "Rostov Arena",
+          "address": "ul. Levoberezhnaya",
+          "city": "Rostov-na-Donu",
+          "capacity": 45000,
+          "surface": "grass"
+        }
+      },
+      {
+        "team": {
+          "id": 1079,
+          "name": "Krylya Sovetov",
+          "code": "KRY",
+          "country": "Russia",
+          "founded": 1942,
+          "national": false
+        },
+        "venue": {
+          "id": 11911,
+          "name": "Solidarnost Arena",
+          "address": "ul. Dal&apos;nyaya",
+          "city": "Samara",
+          "capacity": 44918,
+          "surface": "grass"
+        }
+      },
+      {
+        "team": {
+          "id": 1080,
+          "name": "Orenburg",
+          "code": "GAZ",
+          "country": "Russia",
+          "founded": null,
+          "national": false
+        },
+        "venue": {
+          "id": 1342,
+          "name": "Stadion Gazovik",
+          "address": "Tsvetnoy bulvar&apos; 31",
+          "city": "Rostoshi",
+          "capacity": 7520,
+          "surface": "artificial turf"
+        }
+      },
+      {
+        "team": {
+          "id": 1084,
+          "name": "Ural",
+          "code": "URA",
+          "country": "Russia",
+          "founded": 1930,
+          "national": false
+        },
+        "venue": {
+          "id": 1355,
+          "name": "Ekaterinburg Arena",
+          "address": "ul. Repina 5",
+          "city": "Ekaterinburg",
+          "capacity": 35696,
+          "surface": "grass"
+        }
+      },
+      {
+        "team": {
+          "id": 1085,
+          "name": "Akhmat Grozny",
+          "code": "TER",
+          "country": "Russia",
+          "founded": 1958,
+          "national": false
+        },
+        "venue": {
+          "id": 1353,
+          "name": "Akhmat Arena",
+          "address": "Zhukavskogo per. 9, Staraya Sunzha",
+          "city": "Groznyi",
+          "capacity": 30597,
+          "surface": "grass"
+        }
+      },
+      {
+        "team": {
+          "id": 1088,
+          "name": "Dinamo Moscow",
+          "code": "DYN",
+          "country": "Russia",
+          "founded": 1923,
+          "national": false
+        },
+        "venue": {
+          "id": 1334,
+          "name": "VTB Arena",
+          "address": "Leningradskiy pr., 36",
+          "city": "Moskva",
+          "capacity": 26700,
+          "surface": "grass"
+        }
+      },
+      {
+        "team": {
+          "id": 1993,
+          "name": "Fakel Voronezh",
+          "code": "FAK",
+          "country": "Russia",
+          "founded": 1947,
+          "national": false
+        },
+        "venue": {
+          "id": 1336,
+          "name": "Central'nyi Stadion Profsoyuzov",
+          "address": "ul. Studencheskaya 17",
+          "city": "Voronezh",
+          "capacity": 31793,
+          "surface": "grass"
+        }
+      },
+      {
+        "team": {
+          "id": 1994,
+          "name": "Khimki",
+          "code": "KHI",
+          "country": "Russia",
+          "founded": 1997,
+          "national": false
+        },
+        "venue": {
+          "id": 18629,
+          "name": "Arena Khimki",
+          "address": "ul. Kirova, dom 24",
+          "city": "Khimki",
+          "capacity": 18636,
+          "surface": "grass"
+        }
+      },
+      {
+        "team": {
+          "id": 2011,
+          "name": "Nizhny Novgorod",
+          "code": null,
+          "country": "Russia",
+          "founded": 2015,
+          "national": false
+        },
+        "venue": {
+          "id": 2835,
+          "name": "Stadion Nizhny Novgorod",
+          "address": "ul. Dolzhanskaya",
+          "city": "Nizhniy Novgorod",
+          "capacity": 44899,
+          "surface": "grass"
+        }
+      },
+      {
+        "team": {
+          "id": 2012,
+          "name": "PFC Sochi",
+          "code": null,
+          "country": "Russia",
+          "founded": 2010,
+          "national": false
+        },
+        "venue": {
+          "id": 2834,
+          "name": "Olimpiyskiy Stadion Fisht",
+          "address": "Olimpiyskiy prospekt 15",
+          "city": "Sochi",
+          "capacity": 48000,
+          "surface": "grass"
+        }
+      },
+      {
+        "team": {
+          "id": 3985,
+          "name": "Torpedo Moskva",
+          "code": "TOR",
+          "country": "Russia",
+          "founded": 1930,
+          "national": false
+        },
+        "venue": {
+          "id": 11932,
+          "name": "Futbol'noe pole 1 Akademiya Spartak im. F. Cherenkova",
+          "address": "Malyj Olenij pereulok 23, Sokol&apos;niki",
+          "city": "Moskva",
+          "capacity": 1012,
+          "surface": "artificial turf"
+        }
+      }
+    ]
   }
 ]

@@ -1,344 +1,355 @@
 [
   {
-    "team": {
-      "id": 549,
-      "name": "Besiktas",
-      "code": "BES",
+    "league": {
+      "id": 203,
+      "name": "Süper Lig",
       "country": "Turkey",
-      "founded": 1903,
-      "national": false
+      "year": 2022,
+      "division": "first"
     },
-    "venue": {
-      "id": 1578,
-      "name": "Vodafone Park",
-      "address": "Dolmabahçe Gazhane Caddesi, Beşiktaş",
-      "city": "İstanbul",
-      "capacity": 43500,
-      "surface": "grass"
-    }
-  },
-  {
-    "team": {
-      "id": 564,
-      "name": "Istanbul Basaksehir",
-      "code": "IST",
-      "country": "Turkey",
-      "founded": 1990,
-      "national": false
-    },
-    "venue": {
-      "id": 1584,
-      "name": "Başakşehir Fatih Terim Stadyumu",
-      "address": "Yunus Emre Caddesi, Başakşehir",
-      "city": "İstanbul",
-      "capacity": 17319,
-      "surface": "grass"
-    }
-  },
-  {
-    "team": {
-      "id": 607,
-      "name": "Konyaspor",
-      "code": "KON",
-      "country": "Turkey",
-      "founded": 1981,
-      "national": false
-    },
-    "venue": {
-      "id": 1587,
-      "name": "Konya Büyükşehir Belediye Stadyumu",
-      "address": "Sille Parsana Mh., Kaletaş Caddesi, Selçuklu",
-      "city": "Konya",
-      "capacity": 42276,
-      "surface": "grass"
-    }
-  },
-  {
-    "team": {
-      "id": 611,
-      "name": "Fenerbahce",
-      "code": "FEN",
-      "country": "Turkey",
-      "founded": 1907,
-      "national": false
-    },
-    "venue": {
-      "id": 1581,
-      "name": "Ülker Stadyumu Fenerbahçe Şükrü Saracoğlu Spor Kompleksi",
-      "address": "Recep Peker Caddesi, Kadıköy",
-      "city": "İstanbul",
-      "capacity": 53586,
-      "surface": "grass"
-    }
-  },
-  {
-    "team": {
-      "id": 645,
-      "name": "Galatasaray",
-      "code": "GAL",
-      "country": "Turkey",
-      "founded": 1905,
-      "national": false
-    },
-    "venue": {
-      "id": 12598,
-      "name": "NEF Stadyumu",
-      "address": "İstanbul Çevre Yolu, Aslantepe",
-      "city": "İstanbul",
-      "capacity": 52695,
-      "surface": "grass"
-    }
-  },
-  {
-    "team": {
-      "id": 996,
-      "name": "Alanyaspor",
-      "code": "ALA",
-      "country": "Turkey",
-      "founded": 1948,
-      "national": false
-    },
-    "venue": {
-      "id": 1575,
-      "name": "Bahçeşehir Okulları Stadyumu",
-      "address": "Sarıkadıoğlu Caddesi, Oba, Obaköy",
-      "city": "Alanya",
-      "capacity": 15000,
-      "surface": "grass"
-    }
-  },
-  {
-    "team": {
-      "id": 998,
-      "name": "Trabzonspor",
-      "code": "TRA",
-      "country": "Turkey",
-      "founded": 1967,
-      "national": false
-    },
-    "venue": {
-      "id": 1590,
-      "name": "Medical Park Stadyumu",
-      "address": "Trabzon Giresun Yolu, Akyaz",
-      "city": "Trabzon",
-      "capacity": 41513,
-      "surface": "grass"
-    }
-  },
-  {
-    "team": {
-      "id": 1001,
-      "name": "Kayserispor",
-      "code": "KAY",
-      "country": "Turkey",
-      "founded": 1966,
-      "national": false
-    },
-    "venue": {
-      "id": 1586,
-      "name": "Kadir Has Şehir Stadı",
-      "address": "İle Fırat Caddesi",
-      "city": "Kayseri",
-      "capacity": 40458,
-      "surface": "grass"
-    }
-  },
-  {
-    "team": {
-      "id": 1002,
-      "name": "Sivasspor",
-      "code": "SIV",
-      "country": "Turkey",
-      "founded": 1967,
-      "national": false
-    },
-    "venue": {
-      "id": 1589,
-      "name": "Yeni Sivas 4 Eylül Stadyumu",
-      "address": "Muhsin Yazıcıoğlu Bulvarı",
-      "city": "Sivas",
-      "capacity": 27532,
-      "surface": "grass"
-    }
-  },
-  {
-    "team": {
-      "id": 1004,
-      "name": "Kasimpasa",
-      "code": "KAS",
-      "country": "Turkey",
-      "founded": 1921,
-      "national": false
-    },
-    "venue": {
-      "id": 1585,
-      "name": "Recep Tayyip Erdoğan Stadyumu",
-      "address": "Tepebaşı Caddesi, Kasımpaşa, Beyoğlu",
-      "city": "İstanbul",
-      "capacity": 14234,
-      "surface": "grass"
-    }
-  },
-  {
-    "team": {
-      "id": 1005,
-      "name": "Antalyaspor",
-      "code": "ANT",
-      "country": "Turkey",
-      "founded": 1966,
-      "national": false
-    },
-    "venue": {
-      "id": 1577,
-      "name": "Antalya Stadyumu",
-      "address": "100. Yıl Bulvarı",
-      "city": "Antalya",
-      "capacity": 33032,
-      "surface": "grass"
-    }
-  },
-  {
-    "team": {
-      "id": 1010,
-      "name": "Ankaragucu",
-      "code": "ANK",
-      "country": "Turkey",
-      "founded": 1910,
-      "national": false
-    },
-    "venue": {
-      "id": 2378,
-      "name": "Eryaman Stadyumu",
-      "address": "Devlet Mah., 232. Sk. No:7, Tunahan Mahallesi, Etimesgut",
-      "city": "Ankara",
-      "capacity": 20560,
-      "surface": "grass"
-    }
-  },
-  {
-    "team": {
-      "id": 3563,
-      "name": "Adana Demirspor",
-      "code": "ADA",
-      "country": "Turkey",
-      "founded": 1941,
-      "national": false
-    },
-    "venue": {
-      "id": 11924,
-      "name": "Yeni Adana Stadyumu",
-      "address": "Çarkıpare, Sarıçam",
-      "city": "Adana",
-      "capacity": 33543,
-      "surface": "grass"
-    }
-  },
-  {
-    "team": {
-      "id": 3573,
-      "name": "Gazişehir Gaziantep",
-      "code": "GAZ",
-      "country": "Turkey",
-      "founded": 1988,
-      "national": false
-    },
-    "venue": {
-      "id": 2375,
-      "name": "Gaziantep Stadyumu",
-      "address": "Yukarıbeylerbeyi Mah. 15 Nolu Sok., Şehitkamil",
-      "city": "Gaziantep",
-      "capacity": 35558,
-      "surface": "grass"
-    }
-  },
-  {
-    "team": {
-      "id": 3574,
-      "name": "Giresunspor",
-      "code": "GIR",
-      "country": "Turkey",
-      "founded": 1967,
-      "national": false
-    },
-    "venue": {
-      "id": 12089,
-      "name": "Çotanak Stadyumu",
-      "address": "Aksu",
-      "city": "Giresun",
-      "capacity": 22028,
-      "surface": "grass"
-    }
-  },
-  {
-    "team": {
-      "id": 3575,
-      "name": "Hatayspor",
-      "code": "HAT",
-      "country": "Turkey",
-      "founded": 1967,
-      "national": false
-    },
-    "venue": {
-      "id": 12280,
-      "name": "Yeni Hatay Stadyumu",
-      "address": "Haraparası, Süreyya Halefoğlu Cd. No:64",
-      "city": "Hatay",
-      "capacity": 25000,
-      "surface": "grass"
-    }
-  },
-  {
-    "team": {
-      "id": 3577,
-      "name": "Ümraniyespor",
-      "code": "UMR",
-      "country": "Turkey",
-      "founded": 1938,
-      "national": false
-    },
-    "venue": {
-      "id": 2379,
-      "name": "Ümraniye Hekimbaşı Şehir Stadyumu",
-      "address": "Küçüksu Caddesi, Ümraniye",
-      "city": "İstanbul",
-      "capacity": 2500,
-      "surface": "grass"
-    }
-  },
-  {
-    "team": {
-      "id": 3578,
-      "name": "İstanbulspor",
-      "code": "IST",
-      "country": "Turkey",
-      "founded": 1926,
-      "national": false
-    },
-    "venue": {
-      "id": 12281,
-      "name": "Necmi Kadıoğlu Stadyumu",
-      "address": "İncirtepe Mah., Esenyurt",
-      "city": "İstanbul",
-      "capacity": 7500,
-      "surface": "grass"
-    }
-  },
-  {
-    "team": {
-      "id": 3589,
-      "name": "Fatih Karagümrük",
-      "code": "KAR",
-      "country": "Turkey",
-      "founded": null,
-      "national": false
-    },
-    "venue": {
-      "id": 1968,
-      "name": "Atatürk Olimpiyat Stadı",
-      "address": "Atatürk Olimpiyat Stadı Otoparkı, İkitelli",
-      "city": "İstanbul",
-      "capacity": 76092,
-      "surface": "grass"
-    }
+    "teams": [
+      {
+        "team": {
+          "id": 549,
+          "name": "Besiktas",
+          "code": "BES",
+          "country": "Turkey",
+          "founded": 1903,
+          "national": false
+        },
+        "venue": {
+          "id": 1578,
+          "name": "Vodafone Park",
+          "address": "Dolmabahçe Gazhane Caddesi, Beşiktaş",
+          "city": "İstanbul",
+          "capacity": 43500,
+          "surface": "grass"
+        }
+      },
+      {
+        "team": {
+          "id": 564,
+          "name": "Istanbul Basaksehir",
+          "code": "IST",
+          "country": "Turkey",
+          "founded": 1990,
+          "national": false
+        },
+        "venue": {
+          "id": 1584,
+          "name": "Başakşehir Fatih Terim Stadyumu",
+          "address": "Yunus Emre Caddesi, Başakşehir",
+          "city": "İstanbul",
+          "capacity": 17319,
+          "surface": "grass"
+        }
+      },
+      {
+        "team": {
+          "id": 607,
+          "name": "Konyaspor",
+          "code": "KON",
+          "country": "Turkey",
+          "founded": 1981,
+          "national": false
+        },
+        "venue": {
+          "id": 1587,
+          "name": "Konya Büyükşehir Belediye Stadyumu",
+          "address": "Sille Parsana Mh., Kaletaş Caddesi, Selçuklu",
+          "city": "Konya",
+          "capacity": 42276,
+          "surface": "grass"
+        }
+      },
+      {
+        "team": {
+          "id": 611,
+          "name": "Fenerbahce",
+          "code": "FEN",
+          "country": "Turkey",
+          "founded": 1907,
+          "national": false
+        },
+        "venue": {
+          "id": 1581,
+          "name": "Ülker Stadyumu Fenerbahçe Şükrü Saracoğlu Spor Kompleksi",
+          "address": "Recep Peker Caddesi, Kadıköy",
+          "city": "İstanbul",
+          "capacity": 53586,
+          "surface": "grass"
+        }
+      },
+      {
+        "team": {
+          "id": 645,
+          "name": "Galatasaray",
+          "code": "GAL",
+          "country": "Turkey",
+          "founded": 1905,
+          "national": false
+        },
+        "venue": {
+          "id": 12598,
+          "name": "NEF Stadyumu",
+          "address": "İstanbul Çevre Yolu, Aslantepe",
+          "city": "İstanbul",
+          "capacity": 52695,
+          "surface": "grass"
+        }
+      },
+      {
+        "team": {
+          "id": 996,
+          "name": "Alanyaspor",
+          "code": "ALA",
+          "country": "Turkey",
+          "founded": 1948,
+          "national": false
+        },
+        "venue": {
+          "id": 1575,
+          "name": "Bahçeşehir Okulları Stadyumu",
+          "address": "Sarıkadıoğlu Caddesi, Oba, Obaköy",
+          "city": "Alanya",
+          "capacity": 15000,
+          "surface": "grass"
+        }
+      },
+      {
+        "team": {
+          "id": 998,
+          "name": "Trabzonspor",
+          "code": "TRA",
+          "country": "Turkey",
+          "founded": 1967,
+          "national": false
+        },
+        "venue": {
+          "id": 1590,
+          "name": "Medical Park Stadyumu",
+          "address": "Trabzon Giresun Yolu, Akyaz",
+          "city": "Trabzon",
+          "capacity": 41513,
+          "surface": "grass"
+        }
+      },
+      {
+        "team": {
+          "id": 1001,
+          "name": "Kayserispor",
+          "code": "KAY",
+          "country": "Turkey",
+          "founded": 1966,
+          "national": false
+        },
+        "venue": {
+          "id": 1586,
+          "name": "Kadir Has Şehir Stadı",
+          "address": "İle Fırat Caddesi",
+          "city": "Kayseri",
+          "capacity": 40458,
+          "surface": "grass"
+        }
+      },
+      {
+        "team": {
+          "id": 1002,
+          "name": "Sivasspor",
+          "code": "SIV",
+          "country": "Turkey",
+          "founded": 1967,
+          "national": false
+        },
+        "venue": {
+          "id": 1589,
+          "name": "Yeni Sivas 4 Eylül Stadyumu",
+          "address": "Muhsin Yazıcıoğlu Bulvarı",
+          "city": "Sivas",
+          "capacity": 27532,
+          "surface": "grass"
+        }
+      },
+      {
+        "team": {
+          "id": 1004,
+          "name": "Kasimpasa",
+          "code": "KAS",
+          "country": "Turkey",
+          "founded": 1921,
+          "national": false
+        },
+        "venue": {
+          "id": 1585,
+          "name": "Recep Tayyip Erdoğan Stadyumu",
+          "address": "Tepebaşı Caddesi, Kasımpaşa, Beyoğlu",
+          "city": "İstanbul",
+          "capacity": 14234,
+          "surface": "grass"
+        }
+      },
+      {
+        "team": {
+          "id": 1005,
+          "name": "Antalyaspor",
+          "code": "ANT",
+          "country": "Turkey",
+          "founded": 1966,
+          "national": false
+        },
+        "venue": {
+          "id": 1577,
+          "name": "Antalya Stadyumu",
+          "address": "100. Yıl Bulvarı",
+          "city": "Antalya",
+          "capacity": 33032,
+          "surface": "grass"
+        }
+      },
+      {
+        "team": {
+          "id": 1010,
+          "name": "Ankaragucu",
+          "code": "ANK",
+          "country": "Turkey",
+          "founded": 1910,
+          "national": false
+        },
+        "venue": {
+          "id": 2378,
+          "name": "Eryaman Stadyumu",
+          "address": "Devlet Mah., 232. Sk. No:7, Tunahan Mahallesi, Etimesgut",
+          "city": "Ankara",
+          "capacity": 20560,
+          "surface": "grass"
+        }
+      },
+      {
+        "team": {
+          "id": 3563,
+          "name": "Adana Demirspor",
+          "code": "ADA",
+          "country": "Turkey",
+          "founded": 1941,
+          "national": false
+        },
+        "venue": {
+          "id": 11924,
+          "name": "Yeni Adana Stadyumu",
+          "address": "Çarkıpare, Sarıçam",
+          "city": "Adana",
+          "capacity": 33543,
+          "surface": "grass"
+        }
+      },
+      {
+        "team": {
+          "id": 3573,
+          "name": "Gazişehir Gaziantep",
+          "code": "GAZ",
+          "country": "Turkey",
+          "founded": 1988,
+          "national": false
+        },
+        "venue": {
+          "id": 2375,
+          "name": "Gaziantep Stadyumu",
+          "address": "Yukarıbeylerbeyi Mah. 15 Nolu Sok., Şehitkamil",
+          "city": "Gaziantep",
+          "capacity": 35558,
+          "surface": "grass"
+        }
+      },
+      {
+        "team": {
+          "id": 3574,
+          "name": "Giresunspor",
+          "code": "GIR",
+          "country": "Turkey",
+          "founded": 1967,
+          "national": false
+        },
+        "venue": {
+          "id": 12089,
+          "name": "Çotanak Stadyumu",
+          "address": "Aksu",
+          "city": "Giresun",
+          "capacity": 22028,
+          "surface": "grass"
+        }
+      },
+      {
+        "team": {
+          "id": 3575,
+          "name": "Hatayspor",
+          "code": "HAT",
+          "country": "Turkey",
+          "founded": 1967,
+          "national": false
+        },
+        "venue": {
+          "id": 12280,
+          "name": "Yeni Hatay Stadyumu",
+          "address": "Haraparası, Süreyya Halefoğlu Cd. No:64",
+          "city": "Hatay",
+          "capacity": 25000,
+          "surface": "grass"
+        }
+      },
+      {
+        "team": {
+          "id": 3577,
+          "name": "Ümraniyespor",
+          "code": "UMR",
+          "country": "Turkey",
+          "founded": 1938,
+          "national": false
+        },
+        "venue": {
+          "id": 2379,
+          "name": "Ümraniye Hekimbaşı Şehir Stadyumu",
+          "address": "Küçüksu Caddesi, Ümraniye",
+          "city": "İstanbul",
+          "capacity": 2500,
+          "surface": "grass"
+        }
+      },
+      {
+        "team": {
+          "id": 3578,
+          "name": "İstanbulspor",
+          "code": "IST",
+          "country": "Turkey",
+          "founded": 1926,
+          "national": false
+        },
+        "venue": {
+          "id": 12281,
+          "name": "Necmi Kadıoğlu Stadyumu",
+          "address": "İncirtepe Mah., Esenyurt",
+          "city": "İstanbul",
+          "capacity": 7500,
+          "surface": "grass"
+        }
+      },
+      {
+        "team": {
+          "id": 3589,
+          "name": "Fatih Karagümrük",
+          "code": "KAR",
+          "country": "Turkey",
+          "founded": null,
+          "national": false
+        },
+        "venue": {
+          "id": 1968,
+          "name": "Atatürk Olimpiyat Stadı",
+          "address": "Atatürk Olimpiyat Stadı Otoparkı, İkitelli",
+          "city": "İstanbul",
+          "capacity": 76092,
+          "surface": "grass"
+        }
+      }
+    ]
   }
 ]

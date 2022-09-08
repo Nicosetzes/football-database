@@ -1,326 +1,337 @@
 [
   {
-    "team": {
-      "id": 158,
-      "name": "Fortuna Dusseldorf",
-      "code": "DUS",
+    "league": {
+      "id": 79,
+      "name": "2. Bundesliga",
       "country": "Germany",
-      "founded": 1895,
-      "national": false
+      "year": 2022,
+      "division": "second"
     },
-    "venue": {
-      "id": 714,
-      "name": "Merkur Spiel-Arena",
-      "address": "Arena-Str. 1",
-      "city": "Düsseldorf",
-      "capacity": 54600,
-      "surface": "grass"
-    }
-  },
-  {
-    "team": {
-      "id": 166,
-      "name": "Hannover 96",
-      "code": "HAN",
-      "country": "Germany",
-      "founded": 1896,
-      "national": false
-    },
-    "venue": {
-      "id": 18858,
-      "name": "Heinz von Heiden-Arena",
-      "address": "Robert-Enke-Str. 3",
-      "city": "Hannover",
-      "capacity": 49000,
-      "surface": "grass"
-    }
-  },
-  {
-    "team": {
-      "id": 171,
-      "name": "FC Nurnberg",
-      "code": "NUR",
-      "country": "Germany",
-      "founded": 1900,
-      "national": false
-    },
-    "venue": {
-      "id": 713,
-      "name": "Max-Morlock-Stadion",
-      "address": "Max-Morlock-Platz 1",
-      "city": "Nürnberg",
-      "capacity": 50000,
-      "surface": "grass"
-    }
-  },
-  {
-    "team": {
-      "id": 175,
-      "name": "Hamburger SV",
-      "code": "HAM",
-      "country": "Germany",
-      "founded": 1887,
-      "national": false
-    },
-    "venue": {
-      "id": 720,
-      "name": "Volksparkstadion",
-      "address": "Sylvester Allee 7",
-      "city": "Hamburg",
-      "capacity": 57030,
-      "surface": "grass"
-    }
-  },
-  {
-    "team": {
-      "id": 177,
-      "name": "Jahn Regensburg",
-      "code": "REG",
-      "country": "Germany",
-      "founded": 2000,
-      "national": false
-    },
-    "venue": {
-      "id": 10490,
-      "name": "Jahnstadion Regensburg",
-      "address": "Franz-Josef-Strauß-Allee, Oberisling",
-      "city": "Regensburg",
-      "capacity": 15224,
-      "surface": "grass"
-    }
-  },
-  {
-    "team": {
-      "id": 178,
-      "name": "SpVgg Greuther Furth",
-      "code": "GRE",
-      "country": "Germany",
-      "founded": 1903,
-      "national": false
-    },
-    "venue": {
-      "id": 718,
-      "name": "Sportpark Ronhof Thomas Sommer",
-      "address": "Laubenweg 60",
-      "city": "Fürth",
-      "capacity": 18000,
-      "surface": "grass"
-    }
-  },
-  {
-    "team": {
-      "id": 179,
-      "name": "FC Magdeburg",
-      "code": "MAG",
-      "country": "Germany",
-      "founded": 1965,
-      "national": false
-    },
-    "venue": {
-      "id": 733,
-      "name": "MDCC-Arena",
-      "address": "Friedrich-Ebert-Straße 69",
-      "city": "Magdeburg",
-      "capacity": 27250,
-      "surface": "grass"
-    }
-  },
-  {
-    "team": {
-      "id": 180,
-      "name": "FC Heidenheim",
-      "code": "HEI",
-      "country": "Germany",
-      "founded": 1946,
-      "national": false
-    },
-    "venue": {
-      "id": 723,
-      "name": "Voith-Arena",
-      "address": "Schloßhaustraße 160",
-      "city": "Heidenheim an der Brenz",
-      "capacity": 15000,
-      "surface": "grass"
-    }
-  },
-  {
-    "team": {
-      "id": 181,
-      "name": "SV Darmstadt 98",
-      "code": "DAR",
-      "country": "Germany",
-      "founded": 1898,
-      "national": false
-    },
-    "venue": {
-      "id": 705,
-      "name": "Merck-Stadion am Böllenfalltor",
-      "address": "Nieder-Ramstädter Straße 170",
-      "city": "Darmstadt",
-      "capacity": 17468,
-      "surface": "grass"
-    }
-  },
-  {
-    "team": {
-      "id": 185,
-      "name": "SC Paderborn 07",
-      "code": "PAD",
-      "country": "Germany",
-      "founded": 1907,
-      "national": false
-    },
-    "venue": {
-      "id": 18622,
-      "name": "Home Deluxe Arena",
-      "address": "Paderborner Str. 89",
-      "city": "Paderborn",
-      "capacity": 15306,
-      "surface": "grass"
-    }
-  },
-  {
-    "team": {
-      "id": 186,
-      "name": "FC St. Pauli",
-      "code": "PAU",
-      "country": "Germany",
-      "founded": 1910,
-      "national": false
-    },
-    "venue": {
-      "id": 745,
-      "name": "Millerntor-Stadion",
-      "address": "Auf dem Heiligengeistfeld",
-      "city": "Hamburg",
-      "capacity": 29546,
-      "surface": "grass"
-    }
-  },
-  {
-    "team": {
-      "id": 188,
-      "name": "Arminia Bielefeld",
-      "code": "ARM",
-      "country": "Germany",
-      "founded": 1905,
-      "national": false
-    },
-    "venue": {
-      "id": 697,
-      "name": "SchücoArena",
-      "address": "Melanchthonstr. 31a",
-      "city": "Bielefeld",
-      "capacity": 27300,
-      "surface": "grass"
-    }
-  },
-  {
-    "team": {
-      "id": 189,
-      "name": "SV Sandhausen",
-      "code": "SAN",
-      "country": "Germany",
-      "founded": 1916,
-      "national": false
-    },
-    "venue": {
-      "id": 740,
-      "name": "BWT-Stadion am Hardtwald",
-      "address": "Jahnstr. 1",
-      "city": "Sandhausen",
-      "capacity": 14508,
-      "surface": "grass"
-    }
-  },
-  {
-    "team": {
-      "id": 191,
-      "name": "Holstein Kiel",
-      "code": "HOL",
-      "country": "Germany",
-      "founded": 1900,
-      "national": false
-    },
-    "venue": {
-      "id": 725,
-      "name": "Holstein-Stadion",
-      "address": "Westring 501",
-      "city": "Kiel",
-      "capacity": 15034,
-      "surface": "grass"
-    }
-  },
-  {
-    "team": {
-      "id": 744,
-      "name": "Eintracht Braunschweig",
-      "code": "BRA",
-      "country": "Germany",
-      "founded": 1895,
-      "national": false
-    },
-    "venue": {
-      "id": 708,
-      "name": "Eintracht-Stadion",
-      "address": "Hamburger Straße 210",
-      "city": "Braunschweig",
-      "capacity": 23325,
-      "surface": "grass"
-    }
-  },
-  {
-    "team": {
-      "id": 745,
-      "name": "FC Kaiserslautern",
-      "code": "KAI",
-      "country": "Germany",
-      "founded": 1900,
-      "national": false
-    },
-    "venue": {
-      "id": 728,
-      "name": "Fritz-Walter-Stadion",
-      "address": "Fritz-Walter-Straße 1",
-      "city": "Kaiserslautern",
-      "capacity": 49780,
-      "surface": "grass"
-    }
-  },
-  {
-    "team": {
-      "id": 785,
-      "name": "Karlsruher SC",
-      "code": "KAR",
-      "country": "Germany",
-      "founded": 1898,
-      "national": false
-    },
-    "venue": {
-      "id": 11900,
-      "name": "BBBank Wildpark",
-      "address": "Adenauerring 17",
-      "city": "Karlsruhe",
-      "capacity": 29699,
-      "surface": "grass"
-    }
-  },
-  {
-    "team": {
-      "id": 1321,
-      "name": "Hansa Rostock",
-      "code": "HAN",
-      "country": "Germany",
-      "founded": 1965,
-      "national": false
-    },
-    "venue": {
-      "id": 722,
-      "name": "Ostseestadion",
-      "address": "Kopernikusstraße 17",
-      "city": "Rostock",
-      "capacity": 29000,
-      "surface": "grass"
-    }
+    "teams": [
+      {
+        "team": {
+          "id": 158,
+          "name": "Fortuna Dusseldorf",
+          "code": "DUS",
+          "country": "Germany",
+          "founded": 1895,
+          "national": false
+        },
+        "venue": {
+          "id": 714,
+          "name": "Merkur Spiel-Arena",
+          "address": "Arena-Str. 1",
+          "city": "Düsseldorf",
+          "capacity": 54600,
+          "surface": "grass"
+        }
+      },
+      {
+        "team": {
+          "id": 166,
+          "name": "Hannover 96",
+          "code": "HAN",
+          "country": "Germany",
+          "founded": 1896,
+          "national": false
+        },
+        "venue": {
+          "id": 18858,
+          "name": "Heinz von Heiden-Arena",
+          "address": "Robert-Enke-Str. 3",
+          "city": "Hannover",
+          "capacity": 49000,
+          "surface": "grass"
+        }
+      },
+      {
+        "team": {
+          "id": 171,
+          "name": "FC Nurnberg",
+          "code": "NUR",
+          "country": "Germany",
+          "founded": 1900,
+          "national": false
+        },
+        "venue": {
+          "id": 713,
+          "name": "Max-Morlock-Stadion",
+          "address": "Max-Morlock-Platz 1",
+          "city": "Nürnberg",
+          "capacity": 50000,
+          "surface": "grass"
+        }
+      },
+      {
+        "team": {
+          "id": 175,
+          "name": "Hamburger SV",
+          "code": "HAM",
+          "country": "Germany",
+          "founded": 1887,
+          "national": false
+        },
+        "venue": {
+          "id": 720,
+          "name": "Volksparkstadion",
+          "address": "Sylvester Allee 7",
+          "city": "Hamburg",
+          "capacity": 57030,
+          "surface": "grass"
+        }
+      },
+      {
+        "team": {
+          "id": 177,
+          "name": "Jahn Regensburg",
+          "code": "REG",
+          "country": "Germany",
+          "founded": 2000,
+          "national": false
+        },
+        "venue": {
+          "id": 10490,
+          "name": "Jahnstadion Regensburg",
+          "address": "Franz-Josef-Strauß-Allee, Oberisling",
+          "city": "Regensburg",
+          "capacity": 15224,
+          "surface": "grass"
+        }
+      },
+      {
+        "team": {
+          "id": 178,
+          "name": "SpVgg Greuther Furth",
+          "code": "GRE",
+          "country": "Germany",
+          "founded": 1903,
+          "national": false
+        },
+        "venue": {
+          "id": 718,
+          "name": "Sportpark Ronhof Thomas Sommer",
+          "address": "Laubenweg 60",
+          "city": "Fürth",
+          "capacity": 18000,
+          "surface": "grass"
+        }
+      },
+      {
+        "team": {
+          "id": 179,
+          "name": "FC Magdeburg",
+          "code": "MAG",
+          "country": "Germany",
+          "founded": 1965,
+          "national": false
+        },
+        "venue": {
+          "id": 733,
+          "name": "MDCC-Arena",
+          "address": "Friedrich-Ebert-Straße 69",
+          "city": "Magdeburg",
+          "capacity": 27250,
+          "surface": "grass"
+        }
+      },
+      {
+        "team": {
+          "id": 180,
+          "name": "FC Heidenheim",
+          "code": "HEI",
+          "country": "Germany",
+          "founded": 1946,
+          "national": false
+        },
+        "venue": {
+          "id": 723,
+          "name": "Voith-Arena",
+          "address": "Schloßhaustraße 160",
+          "city": "Heidenheim an der Brenz",
+          "capacity": 15000,
+          "surface": "grass"
+        }
+      },
+      {
+        "team": {
+          "id": 181,
+          "name": "SV Darmstadt 98",
+          "code": "DAR",
+          "country": "Germany",
+          "founded": 1898,
+          "national": false
+        },
+        "venue": {
+          "id": 705,
+          "name": "Merck-Stadion am Böllenfalltor",
+          "address": "Nieder-Ramstädter Straße 170",
+          "city": "Darmstadt",
+          "capacity": 17468,
+          "surface": "grass"
+        }
+      },
+      {
+        "team": {
+          "id": 185,
+          "name": "SC Paderborn 07",
+          "code": "PAD",
+          "country": "Germany",
+          "founded": 1907,
+          "national": false
+        },
+        "venue": {
+          "id": 18622,
+          "name": "Home Deluxe Arena",
+          "address": "Paderborner Str. 89",
+          "city": "Paderborn",
+          "capacity": 15306,
+          "surface": "grass"
+        }
+      },
+      {
+        "team": {
+          "id": 186,
+          "name": "FC St. Pauli",
+          "code": "PAU",
+          "country": "Germany",
+          "founded": 1910,
+          "national": false
+        },
+        "venue": {
+          "id": 745,
+          "name": "Millerntor-Stadion",
+          "address": "Auf dem Heiligengeistfeld",
+          "city": "Hamburg",
+          "capacity": 29546,
+          "surface": "grass"
+        }
+      },
+      {
+        "team": {
+          "id": 188,
+          "name": "Arminia Bielefeld",
+          "code": "ARM",
+          "country": "Germany",
+          "founded": 1905,
+          "national": false
+        },
+        "venue": {
+          "id": 697,
+          "name": "SchücoArena",
+          "address": "Melanchthonstr. 31a",
+          "city": "Bielefeld",
+          "capacity": 27300,
+          "surface": "grass"
+        }
+      },
+      {
+        "team": {
+          "id": 189,
+          "name": "SV Sandhausen",
+          "code": "SAN",
+          "country": "Germany",
+          "founded": 1916,
+          "national": false
+        },
+        "venue": {
+          "id": 740,
+          "name": "BWT-Stadion am Hardtwald",
+          "address": "Jahnstr. 1",
+          "city": "Sandhausen",
+          "capacity": 14508,
+          "surface": "grass"
+        }
+      },
+      {
+        "team": {
+          "id": 191,
+          "name": "Holstein Kiel",
+          "code": "HOL",
+          "country": "Germany",
+          "founded": 1900,
+          "national": false
+        },
+        "venue": {
+          "id": 725,
+          "name": "Holstein-Stadion",
+          "address": "Westring 501",
+          "city": "Kiel",
+          "capacity": 15034,
+          "surface": "grass"
+        }
+      },
+      {
+        "team": {
+          "id": 744,
+          "name": "Eintracht Braunschweig",
+          "code": "BRA",
+          "country": "Germany",
+          "founded": 1895,
+          "national": false
+        },
+        "venue": {
+          "id": 708,
+          "name": "Eintracht-Stadion",
+          "address": "Hamburger Straße 210",
+          "city": "Braunschweig",
+          "capacity": 23325,
+          "surface": "grass"
+        }
+      },
+      {
+        "team": {
+          "id": 745,
+          "name": "FC Kaiserslautern",
+          "code": "KAI",
+          "country": "Germany",
+          "founded": 1900,
+          "national": false
+        },
+        "venue": {
+          "id": 728,
+          "name": "Fritz-Walter-Stadion",
+          "address": "Fritz-Walter-Straße 1",
+          "city": "Kaiserslautern",
+          "capacity": 49780,
+          "surface": "grass"
+        }
+      },
+      {
+        "team": {
+          "id": 785,
+          "name": "Karlsruher SC",
+          "code": "KAR",
+          "country": "Germany",
+          "founded": 1898,
+          "national": false
+        },
+        "venue": {
+          "id": 11900,
+          "name": "BBBank Wildpark",
+          "address": "Adenauerring 17",
+          "city": "Karlsruhe",
+          "capacity": 29699,
+          "surface": "grass"
+        }
+      },
+      {
+        "team": {
+          "id": 1321,
+          "name": "Hansa Rostock",
+          "code": "HAN",
+          "country": "Germany",
+          "founded": 1965,
+          "national": false
+        },
+        "venue": {
+          "id": 722,
+          "name": "Ostseestadion",
+          "address": "Kopernikusstraße 17",
+          "city": "Rostock",
+          "capacity": 29000,
+          "surface": "grass"
+        }
+      }
+    ]
   }
 ]
