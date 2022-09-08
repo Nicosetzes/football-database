@@ -21,15 +21,16 @@ app.use(cors()); // This should allow all origins
 /* -------------------- ROUTES -------------------- */
 
 app.get("/api/leagues", (req, res) => {
-  const allLeagues = require(`./database/leagues/leagues`);
-  res.status(200).send(allLeagues);
+  const leagues = require(`./database/leagues/leagues`);
+  res.status(200).send({ leagues });
 });
 
 app.get("/api/leagues/:leagueId/teams", (req, res) => {
   const { leagueId } = req.params;
   const league = require(`./database/leagues/${leagueId}/league`);
-  const teams = league.map((item) => {
-    let { team } = item;
+  const leagueInfo = league.at(0).league;
+  const teamsInfo = league.at(0).teams;
+  const teams = teamsInfo.map(({ team }) => {
     return {
       id: team.id,
       name: team.name,
@@ -37,24 +38,25 @@ app.get("/api/leagues/:leagueId/teams", (req, res) => {
       country: team.country,
     };
   });
-  res.status(200).send(teams);
+  res.status(200).send({ league: leagueInfo, teams });
 });
 
 app.get("/api/leagues/:leagueId/teams/:teamId", (req, res) => {
   const { leagueId, teamId } = req.params;
   const league = require(`./database/leagues/${leagueId}/league`);
-  const teams = league.filter((item) => {
+  const leagueInfo = league.at(0).league;
+  const teamsInfo = league.at(0).teams;
+  const filteredTeams = teamsInfo.filter((item) => {
     let { team } = item;
     if (team.id == teamId) return item;
   });
-  teams.at(0).team;
   const foundTeam = {
-    id: teams.at(0).team.id,
-    name: teams.at(0).team.name,
-    code: teams.at(0).team.code,
-    country: teams.at(0).team.country,
+    id: filteredTeams.at(0).team.id,
+    name: filteredTeams.at(0).team.name,
+    code: filteredTeams.at(0).team.code,
+    country: filteredTeams.at(0).team.country,
   };
-  res.status(200).send(foundTeam);
+  res.status(200).send({ league: leagueInfo, team: foundTeam });
 });
 
 app.get("/api/leagues/:leagueId/teams/:teamId/logo", (req, res) => {
