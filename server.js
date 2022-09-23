@@ -28,8 +28,8 @@ app.get("/api/leagues", (req, res) => {
 app.get("/api/leagues/:leagueId/teams", (req, res) => {
   const { leagueId } = req.params;
   const league = require(`./database/leagues/${leagueId}/league`);
-  const leagueInfo = league.at(0).league;
-  const teamsInfo = league.at(0).teams;
+  const leagueInfo = league[0].league;
+  const teamsInfo = league[0].teams;
   const teams = teamsInfo.map(({ team }) => {
     return {
       team: {
@@ -53,18 +53,17 @@ app.get("/api/leagues/:leagueId/teams", (req, res) => {
 app.get("/api/leagues/:leagueId/teams/:teamId", (req, res) => {
   const { leagueId, teamId } = req.params;
   const league = require(`./database/leagues/${leagueId}/league`);
-  const leagueInfo = league.at(0).league;
-  const teamsInfo = league.at(0).teams;
+  const leagueInfo = league[0].league;
+  const teamsInfo = league[0].teams;
   const filteredTeams = teamsInfo.filter((item) => {
     let { team } = item;
     if (team.id == teamId) return item;
   });
   const foundTeam = {
     team: {
-      id: filteredTeams.at(0).team.id,
-      name: filteredTeams.at(0).team.name,
-      code: filteredTeams.at(0).team.code,
-      country: filteredTeams.at(0).team.country,
+      id: filteredTeams[0].team.id,
+      name: filteredTeams[0].team.name,
+      code: filteredTeams[0].team.country,
     },
     league: {
       id: leagueInfo.id,
@@ -77,12 +76,17 @@ app.get("/api/leagues/:leagueId/teams/:teamId", (req, res) => {
   res.status(200).send(foundTeam);
 });
 
-app.get("/api/leagues/:leagueId/teams/:teamId/logo", (req, res) => {
-  const { leagueId, teamId } = req.params;
-  res
-    .status(200)
-    .sendFile(__dirname + `/database/leagues/${leagueId}/logos/${teamId}.png`);
+app.get("/api/logos/:id", (req, res) => {
+  const { id } = req.params;
+  res.status(200).sendFile(__dirname + `/database/logos/${id}.png`);
 });
+
+// app.get("/api/leagues/:leagueId/teams/:teamId/logo", (req, res) => {
+//   const { leagueId, teamId } = req.params;
+//   res
+//     .status(200)
+//     .sendFile(__dirname + `/database/leagues/${leagueId}/logos/${teamId}.png`);
+// });
 
 /* -------------------- PORT -------------------- */
 
