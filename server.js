@@ -81,6 +81,11 @@ app.get("/api/logos/:id", (req, res) => {
   res.status(200).sendFile(__dirname + `/database/logos/${id}.png`);
 });
 
+app.get("/api/tournaments/logos/:id", (req, res) => {
+  const { id } = req.params;
+  res.status(200).sendFile(__dirname + `/database/tournaments/logos/${id}.png`);
+});
+
 // app.get("/api/leagues/:leagueId/teams/:teamId/logo", (req, res) => {
 //   const { leagueId, teamId } = req.params;
 //   res
