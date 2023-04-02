@@ -81,6 +81,11 @@ app.get("/api/logos/:id", (req, res) => {
   res.status(200).sendFile(__dirname + `/database/logos/${id}.png`);
 });
 
+app.get("/api/tournaments", (req, res) => {
+  const tournaments = require(`./database/tournaments/tournaments`);
+  res.status(200).send(tournaments);
+});
+
 app.get("/api/tournaments/logos/:id", (req, res) => {
   const { id } = req.params;
   res.status(200).sendFile(__dirname + `/database/tournaments/logos/${id}.png`);
