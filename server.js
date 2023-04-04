@@ -1,3 +1,8 @@
+const fs = require("fs");
+
+const multer = require("multer");
+const upload = multer({ dest: "uploads/" });
+
 /* -------------------- DOTENV -------------------- */
 
 // Utilizo dotenv para aplicar variables de entorno //
@@ -84,6 +89,22 @@ app.get("/api/logos/:id", (req, res) => {
 app.get("/api/tournaments", (req, res) => {
   const tournaments = require(`./database/tournaments/tournaments`);
   res.status(200).send(tournaments);
+});
+
+app.post("/api/tournaments", upload.single("file"), (req, res) => {
+  const { name, apa_id } = req.body;
+  const img = req.file;
+
+  console.log(img);
+
+  // const tournaments = require(`./database/tournaments/tournaments`);
+  // const newTournaments = [...tournaments, { name, apa_id, img }];
+  // fs.writeFileSync(
+  //   "./database/tournaments/tournaments.json",
+  //   JSON.stringify(newTournaments)
+  // );
+  // res.status(200).send(newTournaments);
+  res.status(200).send("Imagen cargada con éxito");
 });
 
 app.get("/api/tournaments/logos/:id", (req, res) => {

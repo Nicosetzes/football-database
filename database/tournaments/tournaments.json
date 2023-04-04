@@ -1,38 +1,38 @@
 [
   {
-    "id": 1,
+    "apa_id": 1,
     "name": "Torneo Argentino"
   },
   {
-    "id": 2,
+    "apa_id": 2,
     "name": "Copa del Mundo"
   },
   {
-    "id": 3,
+    "apa_id": 3,
     "name": "Mundial de Clubes"
   },
   {
-    "id": 4,
+    "apa_id": 4,
     "name": "Copa Argentina"
   },
   {
-    "id": 5,
+    "apa_id": 5,
     "name": "Chempions"
   },
   {
-    "id": 6,
+    "apa_id": 6,
     "name": "Copa América"
   },
   {
-    "id": 7,
+    "apa_id": 7,
     "name": "Superliga Europea"
   },
   {
-    "id": 8,
+    "apa_id": 8,
     "name": "Superliga Inglesa"
   },
   {
-    "id": 9,
+    "apa_id": 9,
     "name": "Superliga Ítalo-Española"
   }
 ]
