@@ -1,7 +1,6 @@
 const fs = require("fs");
-
+const path = require("path");
 const multer = require("multer");
-const upload = multer({ dest: "uploads/" });
 
 /* -------------------- DOTENV -------------------- */
 
@@ -91,20 +90,80 @@ app.get("/api/tournaments", (req, res) => {
   res.status(200).send(tournaments);
 });
 
-app.post("/api/tournaments", upload.single("file"), (req, res) => {
+// MULTER CONFIG FOR TOURNAMENT IMG UPLOAD BEGINS //
+
+const tournamentImgStorage = multer.diskStorage({
+  destination: function (req, file, cb) {
+    cb(null, `./database/tournaments/logos`);
+  },
+  filename: function (req, file, cb) {
+    const uniqueSuffix = Date.now() + "-" + Math.round(Math.random() * 1e9);
+    cb(
+      null,
+      file.fieldname + "-" + uniqueSuffix + path.extname(file.originalname)
+    );
+    // cb(null, "file.png");
+  },
+});
+
+const uploadTournamentImg = multer({
+  storage: tournamentImgStorage,
+  limits: {
+    fileSize: 1000000, // 1000000 Bytes = 1 MB
+  },
+  fileFilter(req, file, cb) {
+    // if (!file.originalname.match(/\.(png|jpg)$/)) {     // upload only png and jpg format
+    if (!file.originalname.match("png")) {
+      // upload only png and jpg format
+      return cb(new Error("Please upload a Image in PNG format"));
+    }
+    cb(undefined, true);
+  },
+});
+
+// MULTER CONFIG FOR TOURNAMENT IMG UPLOAD ENDS //
+
+app.post("/api/tournaments", uploadTournamentImg.single("file"), (req, res) => {
   const { name, apa_id } = req.body;
-  const img = req.file;
 
-  console.log(img);
+  console.log(req.file);
 
-  // const tournaments = require(`./database/tournaments/tournaments`);
-  // const newTournaments = [...tournaments, { name, apa_id, img }];
-  // fs.writeFileSync(
-  //   "./database/tournaments/tournaments.json",
-  //   JSON.stringify(newTournaments)
-  // );
-  // res.status(200).send(newTournaments);
-  res.status(200).send("Imagen cargada con éxito");
+  // Actualizo tournaments.json en football-database //
+
+  const tournaments = require(`./database/tournaments/tournaments`);
+
+  const apaIdsFromTournaments = tournaments
+    .map(({ apa_id }) => Number(apa_id))
+    .sort((a, b) => (a > b ? 1 : -1));
+
+  console.log(apaIdsFromTournaments);
+
+  console.log(apaIdsFromTournaments.at(-1));
+
+  console.log(apa_id); // Será null si es un nuevo formato de torneo //
+
+  // if (!apa_id) { // No entra con esta linea, REVISAR //
+  const newApaId = Number(apaIdsFromTournaments.at(-1)) + 1;
+  console.log(newApaId);
+  const newTournaments = [...tournaments, { name, apa_id: newApaId }];
+  fs.writeFileSync(
+    "./database/tournaments/tournaments.json",
+    JSON.stringify(newTournaments)
+  );
+  console.log("Se actualizó tournaments.json");
+  // Guardo el archivo imagen del nuevo torneo en tournaments/logos //
+
+  fs.renameSync(
+    req.file.path,
+    req.file.path.replace(
+      req.file.filename,
+      newApaId + path.extname(req.file.originalname)
+    )
+  );
+
+  console.log("La nueva imagen se cargó con éxito");
+
+  res.status(200).send("OK");
 });
 
 app.get("/api/tournaments/logos/:id", (req, res) => {
