@@ -1,0 +1,301 @@
+[
+  {
+    "league": {
+      "id": 333,
+      "name": "Premier League",
+      "country": "Ukraine",
+      "year": 2022,
+      "division": "first"
+    },
+    "teams": [
+      {
+        "team": {
+          "id": 550,
+          "name": "Shakhtar Donetsk",
+          "code": "SHA",
+          "country": "Ukraine",
+          "founded": 1936,
+          "national": false
+        },
+        "venue": {
+          "id": 1593,
+          "name": "NSK Olimpijs'kyj",
+          "address": "vul. Chervonoarmijs&apos;ka 55",
+          "city": "Kiev",
+          "capacity": 70050,
+          "surface": "grass"
+        }
+      },
+      {
+        "team": {
+          "id": 572,
+          "name": "Dynamo Kyiv",
+          "code": "DIN",
+          "country": "Ukraine",
+          "founded": 1927,
+          "national": false
+        },
+        "venue": {
+          "id": 1593,
+          "name": "NSK Olimpijs'kyj",
+          "address": "vul. Chervonoarmijs&apos;ka 55",
+          "city": "Kiev",
+          "capacity": 70050,
+          "surface": "grass"
+        }
+      },
+      {
+        "team": {
+          "id": 599,
+          "name": "Zorya Luhansk",
+          "code": "ZOR",
+          "country": "Ukraine",
+          "founded": 1923,
+          "national": false
+        },
+        "venue": {
+          "id": 1597,
+          "name": "Slavutych-Arena",
+          "address": "vul. Valeryja Lobanovskogo 21",
+          "city": "Zaporozh&apos;ye",
+          "capacity": 12000,
+          "surface": "grass"
+        }
+      },
+      {
+        "team": {
+          "id": 1121,
+          "name": "Vorskla Poltava",
+          "code": "VOR",
+          "country": "Ukraine",
+          "founded": 1955,
+          "national": false
+        },
+        "venue": {
+          "id": 1596,
+          "name": "Stadion Vorskla im. Oleksiya Butov'skogo",
+          "address": "pl. Majdan Nezalezhnosti 16",
+          "city": "Poltava",
+          "capacity": 24795,
+          "surface": "grass"
+        }
+      },
+      {
+        "team": {
+          "id": 3615,
+          "name": "Chornomorets",
+          "code": "ODE",
+          "country": "Ukraine",
+          "founded": 1936,
+          "national": false
+        },
+        "venue": {
+          "id": 2418,
+          "name": "Stadion Chornomorets",
+          "address": null,
+          "city": "Odessa",
+          "capacity": 34164,
+          "surface": "grass"
+        }
+      },
+      {
+        "team": {
+          "id": 3618,
+          "name": "Lviv",
+          "code": null,
+          "country": "Ukraine",
+          "founded": 2006,
+          "national": false
+        },
+        "venue": {
+          "id": 2420,
+          "name": "Stadion Ukrajina",
+          "address": "Lipova Aleja 5",
+          "city": "L&apos;viv",
+          "capacity": 28051,
+          "surface": "grass"
+        }
+      },
+      {
+        "team": {
+          "id": 3619,
+          "name": "Oleksandria",
+          "code": "OLE",
+          "country": "Ukraine",
+          "founded": 1991,
+          "national": false
+        },
+        "venue": {
+          "id": 2422,
+          "name": "KSK Nika",
+          "address": "vul. Shevchenka 58-6",
+          "city": "Aleksandriya",
+          "capacity": 7000,
+          "surface": "grass"
+        }
+      },
+      {
+        "team": {
+          "id": 3623,
+          "name": "Dnipro-1",
+          "code": null,
+          "country": "Ukraine",
+          "founded": 2017,
+          "national": false
+        },
+        "venue": {
+          "id": 2426,
+          "name": "Dnipro Arena",
+          "address": "vul. Khersonska 7",
+          "city": "Dnipropetrovs&apos;k",
+          "capacity": 31003,
+          "surface": "grass"
+        }
+      },
+      {
+        "team": {
+          "id": 3625,
+          "name": "Inhulets",
+          "code": null,
+          "country": "Ukraine",
+          "founded": 2013,
+          "national": false
+        },
+        "venue": {
+          "id": 2436,
+          "name": "Stadion Zirka",
+          "address": "vul. Haharina 1-A",
+          "city": "Kropyvnytskyi",
+          "capacity": 14628,
+          "surface": "grass"
+        }
+      },
+      {
+        "team": {
+          "id": 3627,
+          "name": "Kolos Kovalivka",
+          "code": null,
+          "country": "Ukraine",
+          "founded": null,
+          "national": false
+        },
+        "venue": {
+          "id": 11926,
+          "name": "Stadion Kovalivka",
+          "address": "Р04, 12",
+          "city": "Kovalivka",
+          "capacity": 5000,
+          "surface": "grass"
+        }
+      },
+      {
+        "team": {
+          "id": 3628,
+          "name": "Metalist 1925 Kharkiv",
+          "code": null,
+          "country": "Ukraine",
+          "founded": 2016,
+          "national": false
+        },
+        "venue": {
+          "id": 1595,
+          "name": "Oblasny SportKomplex Metalist",
+          "address": "vul. Plechanivska 65",
+          "city": "Kharkiv",
+          "capacity": 41307,
+          "surface": "grass"
+        }
+      },
+      {
+        "team": {
+          "id": 3632,
+          "name": "Rukh Vynnyky",
+          "code": null,
+          "country": "Ukraine",
+          "founded": null,
+          "national": false
+        },
+        "venue": {
+          "id": 2421,
+          "name": "Arena L'viv",
+          "address": "vul. Stryis&apos;ka 199",
+          "city": "L&apos;viv",
+          "capacity": 34915,
+          "surface": "grass"
+        }
+      },
+      {
+        "team": {
+          "id": 4658,
+          "name": "Minai",
+          "code": null,
+          "country": "Ukraine",
+          "founded": 2015,
+          "national": false
+        },
+        "venue": {
+          "id": 3510,
+          "name": "Stadion Mynai",
+          "address": "Ploshcha Narodna",
+          "city": "Mynai",
+          "capacity": 3000,
+          "surface": "grass"
+        }
+      },
+      {
+        "team": {
+          "id": 6489,
+          "name": "Hirnyk",
+          "code": null,
+          "country": "Ukraine",
+          "founded": 2001,
+          "national": false
+        },
+        "venue": {
+          "id": 11947,
+          "name": "Stadion SK Hirnyk",
+          "address": "vul. Svitlohirs&apos;ka",
+          "city": "Krivoj Rog",
+          "capacity": 2500,
+          "surface": "grass"
+        }
+      },
+      {
+        "team": {
+          "id": 6501,
+          "name": "Veres Rivne",
+          "code": null,
+          "country": "Ukraine",
+          "founded": 2018,
+          "national": false
+        },
+        "venue": {
+          "id": 4773,
+          "name": "Stadion Kolos",
+          "address": null,
+          "city": "Mlyniv",
+          "capacity": 3000,
+          "surface": "grass"
+        }
+      },
+      {
+        "team": {
+          "id": 14437,
+          "name": "Metal Kharkiv",
+          "code": null,
+          "country": "Ukraine",
+          "founded": 2020,
+          "national": false
+        },
+        "venue": {
+          "id": 1595,
+          "name": "Oblasny SportKomplex Metalist",
+          "address": "vul. Plechanivska 65",
+          "city": "Kharkiv",
+          "capacity": 41307,
+          "surface": "grass"
+        }
+      }
+    ]
+  }
+]

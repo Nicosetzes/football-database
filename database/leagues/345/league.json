@@ -1,0 +1,301 @@
+[
+  {
+    "league": {
+      "id": 345,
+      "name": "Czech Liga",
+      "country": "Czech-Republic",
+      "year": 2022,
+      "division": "first"
+    },
+    "teams": [
+      {
+        "team": {
+          "id": 560,
+          "name": "Slavia Praha",
+          "code": "SLA",
+          "country": "Czech-Republic",
+          "founded": 1892,
+          "national": false
+        },
+        "venue": {
+          "id": 18856,
+          "name": "Fortuna Arena",
+          "address": "Vladivostocká 1460/10",
+          "city": "Praha",
+          "capacity": 21000,
+          "surface": "grass"
+        }
+      },
+      {
+        "team": {
+          "id": 567,
+          "name": "Plzen",
+          "code": "PLZ",
+          "country": "Czech-Republic",
+          "founded": 1911,
+          "national": false
+        },
+        "venue": {
+          "id": 438,
+          "name": "Doosan Aréna",
+          "address": null,
+          "city": "Plzeň",
+          "capacity": 12500,
+          "surface": "grass"
+        }
+      },
+      {
+        "team": {
+          "id": 603,
+          "name": "Zlin",
+          "code": "ZLI",
+          "country": "Czech-Republic",
+          "founded": 1919,
+          "national": false
+        },
+        "venue": {
+          "id": 2492,
+          "name": "Stadion Letná",
+          "address": "Tyršovo nábřeží 4381",
+          "city": "Zlín",
+          "capacity": 6375,
+          "surface": "grass"
+        }
+      },
+      {
+        "team": {
+          "id": 628,
+          "name": "Sparta Praha",
+          "code": "SPA",
+          "country": "Czech-Republic",
+          "founded": 1893,
+          "national": false
+        },
+        "venue": {
+          "id": 19513,
+          "name": "epet ARENA",
+          "address": "Milady Horákové 1066/98, Letná",
+          "city": "Praha",
+          "capacity": 20854,
+          "surface": "grass"
+        }
+      },
+      {
+        "team": {
+          "id": 640,
+          "name": "Mlada Boleslav",
+          "code": "MLA",
+          "country": "Czech-Republic",
+          "founded": 1902,
+          "national": false
+        },
+        "venue": {
+          "id": 2494,
+          "name": "Lokotrans Aréna",
+          "address": "U stadionu 1118/II",
+          "city": "Mladá Boleslav",
+          "capacity": 5500,
+          "surface": "grass"
+        }
+      },
+      {
+        "team": {
+          "id": 782,
+          "name": "Slovan Liberec",
+          "code": "LIB",
+          "country": "Czech-Republic",
+          "founded": 1921,
+          "national": false
+        },
+        "venue": {
+          "id": 2493,
+          "name": "Stadion u Nisy",
+          "address": "Na Hradbách 1300",
+          "city": "Liberec",
+          "capacity": 9900,
+          "surface": "grass"
+        }
+      },
+      {
+        "team": {
+          "id": 1122,
+          "name": "FK Jablonec",
+          "code": "JAB",
+          "country": "Czech-Republic",
+          "founded": 1945,
+          "national": false
+        },
+        "venue": {
+          "id": 434,
+          "name": "Stadion Střelnice",
+          "address": "U stadionu 4904/5",
+          "city": "Jablonec nad Nisou",
+          "capacity": 6280,
+          "surface": "grass"
+        }
+      },
+      {
+        "team": {
+          "id": 2250,
+          "name": "Sigma Olomouc",
+          "code": "SIG",
+          "country": "Czech-Republic",
+          "founded": 1919,
+          "national": false
+        },
+        "venue": {
+          "id": 435,
+          "name": "Andrův stadion",
+          "address": "Legionářská 1165/12",
+          "city": "Olomouc",
+          "capacity": 12566,
+          "surface": "grass"
+        }
+      },
+      {
+        "team": {
+          "id": 3713,
+          "name": "Baník Ostrava",
+          "code": "OST",
+          "country": "Czech-Republic",
+          "founded": 1922,
+          "national": false
+        },
+        "venue": {
+          "id": 2495,
+          "name": "Městský stadion - Vítkovice Aréna",
+          "address": "Závodní 2891/86, Vítkovice",
+          "city": "Ostrava",
+          "capacity": 15275,
+          "surface": "grass"
+        }
+      },
+      {
+        "team": {
+          "id": 3714,
+          "name": "Bohemians 1905",
+          "code": "BOH",
+          "country": "Czech-Republic",
+          "founded": 1905,
+          "national": false
+        },
+        "venue": {
+          "id": 2496,
+          "name": "Stadion Ďolíček",
+          "address": "Vršovická 31",
+          "city": "Praha",
+          "capacity": 7500,
+          "surface": "grass"
+        }
+      },
+      {
+        "team": {
+          "id": 3719,
+          "name": "Slovácko",
+          "code": "SLO",
+          "country": "Czech-Republic",
+          "founded": 1927,
+          "national": false
+        },
+        "venue": {
+          "id": 2501,
+          "name": "Městský fotbalový stadion Miroslava Valenty",
+          "address": "Stonky 635",
+          "city": "Uherské Hradiště",
+          "capacity": 8121,
+          "surface": "grass"
+        }
+      },
+      {
+        "team": {
+          "id": 3720,
+          "name": "Teplice",
+          "code": "TEP",
+          "country": "Czech-Republic",
+          "founded": 1945,
+          "national": false
+        },
+        "venue": {
+          "id": 10575,
+          "name": "AGC Aréna Na Stínadlech",
+          "address": "Na Stínadlech 2796",
+          "city": "Teplice",
+          "capacity": 18221,
+          "surface": "grass"
+        }
+      },
+      {
+        "team": {
+          "id": 3723,
+          "name": "Hradec Králové",
+          "code": "HRA",
+          "country": "Czech-Republic",
+          "founded": 1905,
+          "national": false
+        },
+        "venue": {
+          "id": 2494,
+          "name": "Lokotrans Aréna",
+          "address": "U stadionu 1118/II",
+          "city": "Mladá Boleslav",
+          "capacity": 5500,
+          "surface": "grass"
+        }
+      },
+      {
+        "team": {
+          "id": 3724,
+          "name": "Pardubice",
+          "code": null,
+          "country": "Czech-Republic",
+          "founded": null,
+          "national": false
+        },
+        "venue": {
+          "id": 2496,
+          "name": "Stadion Ďolíček",
+          "address": "Vršovická 31",
+          "city": "Praha",
+          "capacity": 7500,
+          "surface": "grass"
+        }
+      },
+      {
+        "team": {
+          "id": 3733,
+          "name": "Zbrojovka Brno",
+          "code": "BRN",
+          "country": "Czech-Republic",
+          "founded": 1913,
+          "national": false
+        },
+        "venue": {
+          "id": 19226,
+          "name": "ADAX INVEST Arena",
+          "address": "Srbská 47a",
+          "city": "Brno",
+          "capacity": 12550,
+          "surface": "grass"
+        }
+      },
+      {
+        "team": {
+          "id": 3736,
+          "name": "České Budějovice",
+          "code": "CES",
+          "country": "Czech-Republic",
+          "founded": 1905,
+          "national": false
+        },
+        "venue": {
+          "id": 2517,
+          "name": "Fotbalový stadion Střelecký ostrov",
+          "address": "Střelecký ostrov 3",
+          "city": "Ceské Budejovice",
+          "capacity": 6746,
+          "surface": "grass"
+        }
+      }
+    ]
+  }
+]
