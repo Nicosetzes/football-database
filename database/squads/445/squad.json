@@ -1,0 +1,297 @@
+[
+  {
+    "team": {
+      "id": 445,
+      "name": "Huracan"
+    },
+    "players": [
+      {
+        "id": 6697,
+        "name": "L. Chaves",
+        "age": 28,
+        "number": 1,
+        "position": "Goalkeeper"
+      },
+      {
+        "id": 75018,
+        "name": "R. Lugo",
+        "age": 32,
+        "number": 27,
+        "position": "Goalkeeper"
+      },
+      {
+        "id": 70851,
+        "name": "N. Campisi",
+        "age": 27,
+        "number": 32,
+        "position": "Goalkeeper"
+      },
+      {
+        "id": 35712,
+        "name": "F. Tobio",
+        "age": 34,
+        "number": 2,
+        "position": "Defender"
+      },
+      {
+        "id": 74973,
+        "name": "L. Carrizo",
+        "age": 26,
+        "number": 3,
+        "position": "Defender"
+      },
+      {
+        "id": 5213,
+        "name": "F. Torrent",
+        "age": 32,
+        "number": 4,
+        "position": "Defender"
+      },
+      {
+        "id": 6173,
+        "name": "L. Merolla",
+        "age": 28,
+        "number": 6,
+        "position": "Defender"
+      },
+      {
+        "id": 11601,
+        "name": "G. Soto",
+        "age": 29,
+        "number": 12,
+        "position": "Defender"
+      },
+      {
+        "id": 70577,
+        "name": "G. Benítez",
+        "age": 30,
+        "number": 14,
+        "position": "Defender"
+      },
+      {
+        "id": 50831,
+        "name": "G. Sauro",
+        "age": 33,
+        "number": 18,
+        "position": "Defender"
+      },
+      {
+        "id": 68011,
+        "name": "C. Ibáñez",
+        "age": 24,
+        "number": 25,
+        "position": "Defender"
+      },
+      {
+        "id": 6572,
+        "name": "J. Novillo",
+        "age": 25,
+        "number": 28,
+        "position": "Defender"
+      },
+      {
+        "id": 371377,
+        "name": "P. Pizarro",
+        "age": 23,
+        "number": 35,
+        "position": "Defender"
+      },
+      {
+        "id": 387115,
+        "name": "L. Figueredo",
+        "age": 20,
+        "number": 37,
+        "position": "Defender"
+      },
+      {
+        "id": 408340,
+        "name": "A. Martínez",
+        "age": 18,
+        "number": null,
+        "position": "Defender"
+      },
+      {
+        "id": 408341,
+        "name": "S. Pisculichi",
+        "age": 19,
+        "number": null,
+        "position": "Defender"
+      },
+      {
+        "id": 325044,
+        "name": "M. Pólvera",
+        "age": 23,
+        "number": null,
+        "position": "Defender"
+      },
+      {
+        "id": 195929,
+        "name": "S. Hezze",
+        "age": 22,
+        "number": 5,
+        "position": "Midfielder"
+      },
+      {
+        "id": 6580,
+        "name": "G. Gudiño",
+        "age": 31,
+        "number": 8,
+        "position": "Midfielder"
+      },
+      {
+        "id": 30567,
+        "name": "L. Castro",
+        "age": 34,
+        "number": 10,
+        "position": "Midfielder"
+      },
+      {
+        "id": 6276,
+        "name": "F. Godoy",
+        "age": 33,
+        "number": 11,
+        "position": "Midfielder"
+      },
+      {
+        "id": 289496,
+        "name": "A. Spina",
+        "age": 22,
+        "number": 15,
+        "position": "Midfielder"
+      },
+      {
+        "id": 6309,
+        "name": "V. Burgoa",
+        "age": 23,
+        "number": 16,
+        "position": "Midfielder"
+      },
+      {
+        "id": 374582,
+        "name": "V. Sanchez",
+        "age": 21,
+        "number": 17,
+        "position": "Midfielder"
+      },
+      {
+        "id": 400279,
+        "name": "M. Gómez",
+        "age": 20,
+        "number": 23,
+        "position": "Midfielder"
+      },
+      {
+        "id": 5554,
+        "name": "F. Fattori",
+        "age": 31,
+        "number": 24,
+        "position": "Midfielder"
+      },
+      {
+        "id": 323576,
+        "name": "I. Valenzuela",
+        "age": 22,
+        "number": 29,
+        "position": "Midfielder"
+      },
+      {
+        "id": 6612,
+        "name": "J. Acevedo",
+        "age": 26,
+        "number": 30,
+        "position": "Midfielder"
+      },
+      {
+        "id": 289493,
+        "name": "S. Luján",
+        "age": 21,
+        "number": 31,
+        "position": "Midfielder"
+      },
+      {
+        "id": 75413,
+        "name": "F. Giaccone",
+        "age": 22,
+        "number": null,
+        "position": "Midfielder"
+      },
+      {
+        "id": 408342,
+        "name": "L. Pérez",
+        "age": 19,
+        "number": null,
+        "position": "Midfielder"
+      },
+      {
+        "id": 415632,
+        "name": "S. Piccinetti",
+        "age": 19,
+        "number": null,
+        "position": "Midfielder"
+      },
+      {
+        "id": 408343,
+        "name": "M. Ríos",
+        "age": 19,
+        "number": null,
+        "position": "Midfielder"
+      },
+      {
+        "id": 51892,
+        "name": "M. Cóccaro",
+        "age": 26,
+        "number": 7,
+        "position": "Attacker"
+      },
+      {
+        "id": 6191,
+        "name": "N. Cordero",
+        "age": 24,
+        "number": 9,
+        "position": "Attacker"
+      },
+      {
+        "id": 5216,
+        "name": "J. García",
+        "age": 31,
+        "number": 19,
+        "position": "Attacker"
+      },
+      {
+        "id": 59231,
+        "name": "W. Mazzantti",
+        "age": 27,
+        "number": 21,
+        "position": "Attacker"
+      },
+      {
+        "id": 6179,
+        "name": "J. Garro",
+        "age": 31,
+        "number": 22,
+        "position": "Attacker"
+      },
+      {
+        "id": 196750,
+        "name": "J. Gauto",
+        "age": 19,
+        "number": 33,
+        "position": "Attacker"
+      },
+      {
+        "id": 371583,
+        "name": "E. Luna",
+        "age": 21,
+        "number": 36,
+        "position": "Attacker"
+      },
+      {
+        "id": 408344,
+        "name": "D. Dulon",
+        "age": 20,
+        "number": null,
+        "position": "Attacker"
+      }
+    ]
+  }
+]

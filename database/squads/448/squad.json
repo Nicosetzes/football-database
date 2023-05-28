@@ -1,0 +1,220 @@
+[
+  {
+    "team": {
+      "id": 448,
+      "name": "Colon Santa Fe"
+    },
+    "players": [
+      {
+        "id": 6195,
+        "name": "M. Ibáñez",
+        "age": 37,
+        "number": 12,
+        "position": "Goalkeeper"
+      },
+      {
+        "id": 6634,
+        "name": "I. Chicco",
+        "age": 27,
+        "number": 17,
+        "position": "Goalkeeper"
+      },
+      {
+        "id": 6671,
+        "name": "L. Acevedo",
+        "age": 32,
+        "number": 2,
+        "position": "Defender"
+      },
+      {
+        "id": 129883,
+        "name": "A. Schott",
+        "age": 23,
+        "number": 4,
+        "position": "Defender"
+      },
+      {
+        "id": 5964,
+        "name": "P. Goltz",
+        "age": 38,
+        "number": 6,
+        "position": "Defender"
+      },
+      {
+        "id": 289426,
+        "name": "E. Meza",
+        "age": 24,
+        "number": 21,
+        "position": "Defender"
+      },
+      {
+        "id": 51828,
+        "name": "A. Teuten",
+        "age": 25,
+        "number": 28,
+        "position": "Defender"
+      },
+      {
+        "id": 6638,
+        "name": "F. Garcés",
+        "age": 24,
+        "number": 33,
+        "position": "Defender"
+      },
+      {
+        "id": 289428,
+        "name": "G. Nardelli",
+        "age": 23,
+        "number": 36,
+        "position": "Defender"
+      },
+      {
+        "id": 289429,
+        "name": "L. Quiroz",
+        "age": 19,
+        "number": 39,
+        "position": "Defender"
+      },
+      {
+        "id": 5935,
+        "name": "R. Delgado",
+        "age": 33,
+        "number": 40,
+        "position": "Defender"
+      },
+      {
+        "id": 5333,
+        "name": "C. Vega",
+        "age": 30,
+        "number": 5,
+        "position": "Midfielder"
+      },
+      {
+        "id": 281069,
+        "name": "G. Silva",
+        "age": 24,
+        "number": 8,
+        "position": "Midfielder"
+      },
+      {
+        "id": 75722,
+        "name": "J. Ibáñez",
+        "age": 27,
+        "number": 11,
+        "position": "Midfielder"
+      },
+      {
+        "id": 13779,
+        "name": "B. Perlaza",
+        "age": 31,
+        "number": 14,
+        "position": "Midfielder"
+      },
+      {
+        "id": 362734,
+        "name": "N. Troncoso",
+        "age": 22,
+        "number": 16,
+        "position": "Midfielder"
+      },
+      {
+        "id": 265912,
+        "name": "T. Galván",
+        "age": 23,
+        "number": 19,
+        "position": "Midfielder"
+      },
+      {
+        "id": 6384,
+        "name": "J. Álvarez",
+        "age": 27,
+        "number": 22,
+        "position": "Midfielder"
+      },
+      {
+        "id": 95196,
+        "name": "C. Arrúa",
+        "age": 26,
+        "number": 26,
+        "position": "Midfielder"
+      },
+      {
+        "id": 5974,
+        "name": "J. Chicco",
+        "age": 25,
+        "number": 27,
+        "position": "Midfielder"
+      },
+      {
+        "id": 5211,
+        "name": "L. Picco",
+        "age": 24,
+        "number": 29,
+        "position": "Midfielder"
+      },
+      {
+        "id": 289431,
+        "name": "S. Moreyra",
+        "age": 22,
+        "number": 34,
+        "position": "Midfielder"
+      },
+      {
+        "id": 159122,
+        "name": "Facundo Hernán Farías",
+        "age": 21,
+        "number": null,
+        "position": "Midfielder"
+      },
+      {
+        "id": 6655,
+        "name": "T. Moschión",
+        "age": 23,
+        "number": 4,
+        "position": "Midfielder"
+      },
+      {
+        "id": 362733,
+        "name": "L. Ojeda",
+        "age": 22,
+        "number": null,
+        "position": "Midfielder"
+      },
+      {
+        "id": 51748,
+        "name": "J. Neris",
+        "age": 23,
+        "number": 7,
+        "position": "Attacker"
+      },
+      {
+        "id": 5979,
+        "name": "R. Ábila",
+        "age": 34,
+        "number": 9,
+        "position": "Attacker"
+      },
+      {
+        "id": 362736,
+        "name": "F. Taborda",
+        "age": 22,
+        "number": 24,
+        "position": "Attacker"
+      },
+      {
+        "id": 6662,
+        "name": "S. Pierotti",
+        "age": 22,
+        "number": 30,
+        "position": "Attacker"
+      },
+      {
+        "id": 70567,
+        "name": "J. Benítez",
+        "age": 31,
+        "number": 92,
+        "position": "Attacker"
+      }
+    ]
+  }
+]

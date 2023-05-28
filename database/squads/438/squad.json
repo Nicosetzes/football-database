@@ -1,0 +1,220 @@
+[
+  {
+    "team": {
+      "id": 438,
+      "name": "Velez Sarsfield"
+    },
+    "players": [
+      {
+        "id": 5904,
+        "name": "G. Gómez",
+        "age": 27,
+        "number": 1,
+        "position": "Goalkeeper"
+      },
+      {
+        "id": 6633,
+        "name": "L. Burián",
+        "age": 39,
+        "number": 22,
+        "position": "Goalkeeper"
+      },
+      {
+        "id": 288693,
+        "name": "E. Gómez",
+        "age": 22,
+        "number": 25,
+        "position": "Goalkeeper"
+      },
+      {
+        "id": 32,
+        "name": "D. Godín",
+        "age": 37,
+        "number": 2,
+        "position": "Defender"
+      },
+      {
+        "id": 129896,
+        "name": "J. García",
+        "age": 22,
+        "number": 4,
+        "position": "Defender"
+      },
+      {
+        "id": 6064,
+        "name": "F. Ortega",
+        "age": 24,
+        "number": 5,
+        "position": "Defender"
+      },
+      {
+        "id": 6050,
+        "name": "L. Gianetti",
+        "age": 30,
+        "number": 17,
+        "position": "Defender"
+      },
+      {
+        "id": 288698,
+        "name": "P. Pernicone",
+        "age": 22,
+        "number": 23,
+        "position": "Defender"
+      },
+      {
+        "id": 6567,
+        "name": "T. Guidara",
+        "age": 27,
+        "number": 24,
+        "position": "Defender"
+      },
+      {
+        "id": 126670,
+        "name": "M. Brizuela",
+        "age": 26,
+        "number": 28,
+        "position": "Defender"
+      },
+      {
+        "id": 50766,
+        "name": "L. Jara",
+        "age": 32,
+        "number": 29,
+        "position": "Defender"
+      },
+      {
+        "id": 355004,
+        "name": "V. Gómez",
+        "age": 20,
+        "number": 31,
+        "position": "Defender"
+      },
+      {
+        "id": 129897,
+        "name": "D. Fernández",
+        "age": 22,
+        "number": 34,
+        "position": "Defender"
+      },
+      {
+        "id": 288694,
+        "name": "T. Cavanagh",
+        "age": 22,
+        "number": 45,
+        "position": "Defender"
+      },
+      {
+        "id": 119809,
+        "name": "J. Florentín",
+        "age": 27,
+        "number": 7,
+        "position": "Midfielder"
+      },
+      {
+        "id": 197668,
+        "name": "N. Garayalde",
+        "age": 24,
+        "number": 8,
+        "position": "Midfielder"
+      },
+      {
+        "id": 6240,
+        "name": "I. Méndez",
+        "age": 26,
+        "number": 21,
+        "position": "Midfielder"
+      },
+      {
+        "id": 362750,
+        "name": "T. Fernández",
+        "age": 19,
+        "number": 27,
+        "position": "Midfielder"
+      },
+      {
+        "id": 362752,
+        "name": "C. Ordoñez",
+        "age": 19,
+        "number": 32,
+        "position": "Midfielder"
+      },
+      {
+        "id": 1694,
+        "name": "S. Cáseres",
+        "age": 26,
+        "number": 35,
+        "position": "Midfielder"
+      },
+      {
+        "id": 311067,
+        "name": "S. Castro",
+        "age": 19,
+        "number": 9,
+        "position": "Attacker"
+      },
+      {
+        "id": 11405,
+        "name": "W. Bou",
+        "age": 30,
+        "number": 10,
+        "position": "Attacker"
+      },
+      {
+        "id": 6161,
+        "name": "L. Janson",
+        "age": 29,
+        "number": 11,
+        "position": "Attacker"
+      },
+      {
+        "id": 6014,
+        "name": "L. Pratto",
+        "age": 35,
+        "number": 12,
+        "position": "Attacker"
+      },
+      {
+        "id": 292170,
+        "name": "L. Lobato",
+        "age": 22,
+        "number": 14,
+        "position": "Attacker"
+      },
+      {
+        "id": 354232,
+        "name": "J. Fernández",
+        "age": 19,
+        "number": 18,
+        "position": "Attacker"
+      },
+      {
+        "id": 358600,
+        "name": "A. Osorio",
+        "age": 21,
+        "number": 19,
+        "position": "Attacker"
+      },
+      {
+        "id": 357139,
+        "name": "M. Seoane",
+        "age": 19,
+        "number": 26,
+        "position": "Attacker"
+      },
+      {
+        "id": 362753,
+        "name": "E. Cabrera",
+        "age": 20,
+        "number": 33,
+        "position": "Attacker"
+      },
+      {
+        "id": 362755,
+        "name": "G. Prestianni",
+        "age": 17,
+        "number": 42,
+        "position": "Attacker"
+      }
+    ]
+  }
+]

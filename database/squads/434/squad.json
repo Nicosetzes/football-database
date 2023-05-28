@@ -1,0 +1,318 @@
+[
+  {
+    "team": {
+      "id": 434,
+      "name": "Gimnasia L.P."
+    },
+    "players": [
+      {
+        "id": 6421,
+        "name": "T. Durso",
+        "age": 24,
+        "number": 1,
+        "position": "Goalkeeper"
+      },
+      {
+        "id": 309825,
+        "name": "N. Manganelli",
+        "age": 22,
+        "number": 13,
+        "position": "Goalkeeper"
+      },
+      {
+        "id": 6422,
+        "name": "N. Insfrán",
+        "age": 28,
+        "number": 23,
+        "position": "Goalkeeper"
+      },
+      {
+        "id": 415172,
+        "name": "F. Vergara",
+        "age": 22,
+        "number": null,
+        "position": "Goalkeeper"
+      },
+      {
+        "id": 296176,
+        "name": "B. Palazzo",
+        "age": 23,
+        "number": 2,
+        "position": "Defender"
+      },
+      {
+        "id": 296833,
+        "name": "R. Gallo",
+        "age": 23,
+        "number": 3,
+        "position": "Defender"
+      },
+      {
+        "id": 5822,
+        "name": "L. Morales",
+        "age": 32,
+        "number": 4,
+        "position": "Defender"
+      },
+      {
+        "id": 129898,
+        "name": "G. Enrique",
+        "age": 23,
+        "number": 6,
+        "position": "Defender"
+      },
+      {
+        "id": 6429,
+        "name": "G. Guiffrey",
+        "age": 26,
+        "number": 24,
+        "position": "Defender"
+      },
+      {
+        "id": 296834,
+        "name": "B. Barros Schelotto",
+        "age": 23,
+        "number": 28,
+        "position": "Defender"
+      },
+      {
+        "id": 309835,
+        "name": "M. Bazzi",
+        "age": 22,
+        "number": 31,
+        "position": "Defender"
+      },
+      {
+        "id": 6431,
+        "name": "M. Melluso",
+        "age": 25,
+        "number": 32,
+        "position": "Defender"
+      },
+      {
+        "id": 407812,
+        "name": "D. Mastrángelo",
+        "age": 21,
+        "number": 36,
+        "position": "Defender"
+      },
+      {
+        "id": 405691,
+        "name": "F. Sánchez",
+        "age": 19,
+        "number": 37,
+        "position": "Defender"
+      },
+      {
+        "id": 76125,
+        "name": "T. Fernández",
+        "age": 24,
+        "number": 38,
+        "position": "Defender"
+      },
+      {
+        "id": 369957,
+        "name": "G. Gonzalez",
+        "age": 20,
+        "number": 41,
+        "position": "Defender"
+      },
+      {
+        "id": 415173,
+        "name": "F. Sánchez",
+        "age": 20,
+        "number": null,
+        "position": "Defender"
+      },
+      {
+        "id": 291503,
+        "name": "I. Miramón",
+        "age": 20,
+        "number": 5,
+        "position": "Midfielder"
+      },
+      {
+        "id": 378938,
+        "name": "A. Steimbach",
+        "age": 21,
+        "number": 8,
+        "position": "Midfielder"
+      },
+      {
+        "id": 314410,
+        "name": "T. Muro",
+        "age": 21,
+        "number": 10,
+        "position": "Midfielder"
+      },
+      {
+        "id": 6435,
+        "name": "A. Bolívar",
+        "age": 27,
+        "number": 14,
+        "position": "Midfielder"
+      },
+      {
+        "id": 415176,
+        "name": "N. Sánchez",
+        "age": 19,
+        "number": 15,
+        "position": "Midfielder"
+      },
+      {
+        "id": 6148,
+        "name": "N. Colazo",
+        "age": 33,
+        "number": 18,
+        "position": "Midfielder"
+      },
+      {
+        "id": 200273,
+        "name": "A. Napolitano",
+        "age": 24,
+        "number": 19,
+        "position": "Midfielder"
+      },
+      {
+        "id": 358383,
+        "name": "A. Lescano",
+        "age": 22,
+        "number": 20,
+        "position": "Midfielder"
+      },
+      {
+        "id": 6437,
+        "name": "L. Chávez",
+        "age": 22,
+        "number": 21,
+        "position": "Midfielder"
+      },
+      {
+        "id": 152780,
+        "name": "M. Miranda",
+        "age": 23,
+        "number": 22,
+        "position": "Midfielder"
+      },
+      {
+        "id": 304047,
+        "name": "L. Mamut",
+        "age": 20,
+        "number": 34,
+        "position": "Midfielder"
+      },
+      {
+        "id": 405692,
+        "name": "A. Sosa",
+        "age": 20,
+        "number": 35,
+        "position": "Midfielder"
+      },
+      {
+        "id": 415177,
+        "name": "Z. Zegarra",
+        "age": 22,
+        "number": 39,
+        "position": "Midfielder"
+      },
+      {
+        "id": 415174,
+        "name": "M. Cardozo",
+        "age": 20,
+        "number": null,
+        "position": "Midfielder"
+      },
+      {
+        "id": 415175,
+        "name": "L. Riggio",
+        "age": 19,
+        "number": null,
+        "position": "Midfielder"
+      },
+      {
+        "id": 347265,
+        "name": "B. Domínguez",
+        "age": 20,
+        "number": 7,
+        "position": "Attacker"
+      },
+      {
+        "id": 5710,
+        "name": "L. Contín",
+        "age": 28,
+        "number": 9,
+        "position": "Attacker"
+      },
+      {
+        "id": 5687,
+        "name": "E. Ramírez",
+        "age": 27,
+        "number": 11,
+        "position": "Attacker"
+      },
+      {
+        "id": 6446,
+        "name": "M. Comba",
+        "age": 29,
+        "number": 17,
+        "position": "Attacker"
+      },
+      {
+        "id": 5312,
+        "name": "C. Tarragona",
+        "age": 32,
+        "number": 25,
+        "position": "Attacker"
+      },
+      {
+        "id": 322328,
+        "name": "F. Torres",
+        "age": 24,
+        "number": 26,
+        "position": "Attacker"
+      },
+      {
+        "id": 1619,
+        "name": "F. Soldano",
+        "age": 29,
+        "number": 27,
+        "position": "Attacker"
+      },
+      {
+        "id": 200271,
+        "name": "I. Mammini",
+        "age": 20,
+        "number": 29,
+        "position": "Attacker"
+      },
+      {
+        "id": 304048,
+        "name": "R. Castillo",
+        "age": 24,
+        "number": 30,
+        "position": "Attacker"
+      },
+      {
+        "id": 199079,
+        "name": "S. Cocimano",
+        "age": 23,
+        "number": 33,
+        "position": "Attacker"
+      },
+      {
+        "id": 406924,
+        "name": "V. Peñalva",
+        "age": 20,
+        "number": 40,
+        "position": "Attacker"
+      },
+      {
+        "id": 6449,
+        "name": "A. Ramírez",
+        "age": 23,
+        "number": 42,
+        "position": "Attacker"
+      }
+    ]
+  }
+]

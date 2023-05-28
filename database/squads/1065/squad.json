@@ -1,0 +1,213 @@
+[
+  {
+    "team": {
+      "id": 1065,
+      "name": "Central Cordoba de Santiago"
+    },
+    "players": [
+      {
+        "id": 5660,
+        "name": "M. Ledesma",
+        "age": 27,
+        "number": 1,
+        "position": "Goalkeeper"
+      },
+      {
+        "id": 59258,
+        "name": "M. Mansilla",
+        "age": 27,
+        "number": 22,
+        "position": "Goalkeeper"
+      },
+      {
+        "id": 5201,
+        "name": "F. Pereyra",
+        "age": 33,
+        "number": 2,
+        "position": "Defender"
+      },
+      {
+        "id": 5376,
+        "name": "J. Navas",
+        "age": 30,
+        "number": 4,
+        "position": "Defender"
+      },
+      {
+        "id": 5485,
+        "name": "G. Goñi",
+        "age": 25,
+        "number": 14,
+        "position": "Defender"
+      },
+      {
+        "id": 9515,
+        "name": "M. Benítez",
+        "age": 32,
+        "number": 16,
+        "position": "Defender"
+      },
+      {
+        "id": 6104,
+        "name": "B. Blasi",
+        "age": 27,
+        "number": 17,
+        "position": "Defender"
+      },
+      {
+        "id": 13323,
+        "name": "E. Duarte",
+        "age": 31,
+        "number": 24,
+        "position": "Defender"
+      },
+      {
+        "id": 36161,
+        "name": "G. Canto",
+        "age": 29,
+        "number": 29,
+        "position": "Defender"
+      },
+      {
+        "id": 289436,
+        "name": "J. Gómez",
+        "age": 23,
+        "number": 36,
+        "position": "Defender"
+      },
+      {
+        "id": 5879,
+        "name": "S. Valdez",
+        "age": 28,
+        "number": 6,
+        "position": "Midfielder"
+      },
+      {
+        "id": 39905,
+        "name": "L. Ciccolini",
+        "age": 28,
+        "number": 7,
+        "position": "Midfielder"
+      },
+      {
+        "id": 5212,
+        "name": "J. Soraire",
+        "age": 35,
+        "number": 8,
+        "position": "Midfielder"
+      },
+      {
+        "id": 5956,
+        "name": "C. Rius",
+        "age": 35,
+        "number": 12,
+        "position": "Midfielder"
+      },
+      {
+        "id": 70799,
+        "name": "F. Jourdan",
+        "age": 32,
+        "number": 19,
+        "position": "Midfielder"
+      },
+      {
+        "id": 6410,
+        "name": "E. Kalinski",
+        "age": 36,
+        "number": 23,
+        "position": "Midfielder"
+      },
+      {
+        "id": 6212,
+        "name": "L. Maciel",
+        "age": 28,
+        "number": 25,
+        "position": "Midfielder"
+      },
+      {
+        "id": 372118,
+        "name": "R. Cansinos",
+        "age": 21,
+        "number": 27,
+        "position": "Midfielder"
+      },
+      {
+        "id": 6123,
+        "name": "M. Pittón",
+        "age": 29,
+        "number": 28,
+        "position": "Midfielder"
+      },
+      {
+        "id": 292880,
+        "name": "G. Olguín",
+        "age": 23,
+        "number": 31,
+        "position": "Midfielder"
+      },
+      {
+        "id": 129908,
+        "name": "B. Farioli",
+        "age": 25,
+        "number": 44,
+        "position": "Midfielder"
+      },
+      {
+        "id": 270743,
+        "name": "L. Bocco",
+        "age": 23,
+        "number": null,
+        "position": "Midfielder"
+      },
+      {
+        "id": 11392,
+        "name": "M. Laba",
+        "age": 32,
+        "number": null,
+        "position": "Midfielder"
+      },
+      {
+        "id": 6663,
+        "name": "L. Rodríguez",
+        "age": 38,
+        "number": 10,
+        "position": "Attacker"
+      },
+      {
+        "id": 288731,
+        "name": "G. Torres",
+        "age": 24,
+        "number": 11,
+        "position": "Attacker"
+      },
+      {
+        "id": 6192,
+        "name": "L. Gamba",
+        "age": 36,
+        "number": 18,
+        "position": "Attacker"
+      },
+      {
+        "id": 5802,
+        "name": "F. Castelli",
+        "age": 28,
+        "number": 20,
+        "position": "Attacker"
+      },
+      {
+        "id": 406375,
+        "name": "D. Vásquez",
+        "age": 23,
+        "number": 30,
+        "position": "Attacker"
+      },
+      {
+        "id": 288730,
+        "name": "L. Besozzi",
+        "age": 20,
+        "number": 77,
+        "position": "Attacker"
+      }
+    ]
+  }
+]

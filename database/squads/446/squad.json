@@ -1,0 +1,262 @@
+[
+  {
+    "team": {
+      "id": 446,
+      "name": "Lanus"
+    },
+    "players": [
+      {
+        "id": 6196,
+        "name": "L. Morales",
+        "age": 24,
+        "number": 17,
+        "position": "Goalkeeper"
+      },
+      {
+        "id": 288718,
+        "name": "L. Peraggini",
+        "age": 21,
+        "number": 36,
+        "position": "Goalkeeper"
+      },
+      {
+        "id": 6563,
+        "name": "L. Acosta",
+        "age": 28,
+        "number": 42,
+        "position": "Goalkeeper"
+      },
+      {
+        "id": 51599,
+        "name": "C. Lema",
+        "age": 33,
+        "number": 2,
+        "position": "Defender"
+      },
+      {
+        "id": 288723,
+        "name": "J. Rodríguez",
+        "age": 20,
+        "number": 4,
+        "position": "Defender"
+      },
+      {
+        "id": 35677,
+        "name": "D. Braghieri",
+        "age": 36,
+        "number": 6,
+        "position": "Defender"
+      },
+      {
+        "id": 70732,
+        "name": "J. Canale",
+        "age": 27,
+        "number": 13,
+        "position": "Defender"
+      },
+      {
+        "id": 363333,
+        "name": "J. Soler",
+        "age": 18,
+        "number": 22,
+        "position": "Defender"
+      },
+      {
+        "id": 195992,
+        "name": "J. Cáceres",
+        "age": 23,
+        "number": 24,
+        "position": "Defender"
+      },
+      {
+        "id": 288719,
+        "name": "B. Aguilar",
+        "age": 20,
+        "number": 29,
+        "position": "Defender"
+      },
+      {
+        "id": 9980,
+        "name": "F. Aguilar",
+        "age": 30,
+        "number": 33,
+        "position": "Defender"
+      },
+      {
+        "id": 288720,
+        "name": "B. Aguirre",
+        "age": 23,
+        "number": 35,
+        "position": "Defender"
+      },
+      {
+        "id": 288721,
+        "name": "P. Aranda",
+        "age": 22,
+        "number": 37,
+        "position": "Defender"
+      },
+      {
+        "id": 6209,
+        "name": "T. Belmonte",
+        "age": 25,
+        "number": 5,
+        "position": "Midfielder"
+      },
+      {
+        "id": 51459,
+        "name": "L. Boggio",
+        "age": 24,
+        "number": 8,
+        "position": "Midfielder"
+      },
+      {
+        "id": 6090,
+        "name": "J. Sánchez Miño",
+        "age": 33,
+        "number": 14,
+        "position": "Midfielder"
+      },
+      {
+        "id": 6619,
+        "name": "R. Loaiza",
+        "age": 29,
+        "number": 15,
+        "position": "Midfielder"
+      },
+      {
+        "id": 311370,
+        "name": "A. Rodríguez",
+        "age": 19,
+        "number": 16,
+        "position": "Midfielder"
+      },
+      {
+        "id": 332334,
+        "name": "M. González",
+        "age": 19,
+        "number": 19,
+        "position": "Midfielder"
+      },
+      {
+        "id": 355254,
+        "name": "S. Careaga",
+        "age": 21,
+        "number": 21,
+        "position": "Midfielder"
+      },
+      {
+        "id": 70658,
+        "name": "I. Cazal",
+        "age": 24,
+        "number": 30,
+        "position": "Midfielder"
+      },
+      {
+        "id": 129903,
+        "name": "F. Pérez",
+        "age": 24,
+        "number": 34,
+        "position": "Midfielder"
+      },
+      {
+        "id": 11605,
+        "name": "J. Fernández",
+        "age": 28,
+        "number": 40,
+        "position": "Midfielder"
+      },
+      {
+        "id": 6215,
+        "name": "L. Acosta",
+        "age": 35,
+        "number": 7,
+        "position": "Attacker"
+      },
+      {
+        "id": 6219,
+        "name": "J. Sand",
+        "age": 43,
+        "number": 9,
+        "position": "Attacker"
+      },
+      {
+        "id": 6200,
+        "name": "P. de la Vega",
+        "age": 22,
+        "number": 10,
+        "position": "Attacker"
+      },
+      {
+        "id": 237210,
+        "name": "F. Orozco",
+        "age": 21,
+        "number": 11,
+        "position": "Attacker"
+      },
+      {
+        "id": 6038,
+        "name": "L. Díaz",
+        "age": 31,
+        "number": 18,
+        "position": "Attacker"
+      },
+      {
+        "id": 6131,
+        "name": "F. Troyansky",
+        "age": 26,
+        "number": 20,
+        "position": "Attacker"
+      },
+      {
+        "id": 355253,
+        "name": "M. Sanabria",
+        "age": 19,
+        "number": 23,
+        "position": "Attacker"
+      },
+      {
+        "id": 5503,
+        "name": "B. Blando",
+        "age": 28,
+        "number": 27,
+        "position": "Attacker"
+      },
+      {
+        "id": 362495,
+        "name": "A. Segovia",
+        "age": 19,
+        "number": 28,
+        "position": "Attacker"
+      },
+      {
+        "id": 129904,
+        "name": "M. Esquivel",
+        "age": 24,
+        "number": 32,
+        "position": "Attacker"
+      },
+      {
+        "id": 363336,
+        "name": "L. Moreira",
+        "age": 21,
+        "number": 39,
+        "position": "Attacker"
+      },
+      {
+        "id": 237144,
+        "name": "J. Krilanovich",
+        "age": 21,
+        "number": null,
+        "position": "Attacker"
+      },
+      {
+        "id": 325823,
+        "name": "L. Muñoz",
+        "age": 19,
+        "number": null,
+        "position": "Attacker"
+      }
+    ]
+  }
+]

@@ -1,0 +1,227 @@
+[
+  {
+    "team": {
+      "id": 439,
+      "name": "Godoy Cruz"
+    },
+    "players": [
+      {
+        "id": 59035,
+        "name": "R. Saracho",
+        "age": 29,
+        "number": 1,
+        "position": "Goalkeeper"
+      },
+      {
+        "id": 354934,
+        "name": "E. Salinas",
+        "age": 21,
+        "number": 12,
+        "position": "Goalkeeper"
+      },
+      {
+        "id": 6293,
+        "name": "M. Soria",
+        "age": 22,
+        "number": 35,
+        "position": "Goalkeeper"
+      },
+      {
+        "id": 5931,
+        "name": "D. Rodríguez",
+        "age": 34,
+        "number": 50,
+        "position": "Goalkeeper"
+      },
+      {
+        "id": 6020,
+        "name": "P. Barrios",
+        "age": 33,
+        "number": 2,
+        "position": "Defender"
+      },
+      {
+        "id": 11442,
+        "name": "T. Galdames",
+        "age": 25,
+        "number": 3,
+        "position": "Defender"
+      },
+      {
+        "id": 169980,
+        "name": "L. Arce",
+        "age": 26,
+        "number": 4,
+        "position": "Defender"
+      },
+      {
+        "id": 354936,
+        "name": "N. Canela",
+        "age": 19,
+        "number": 6,
+        "position": "Defender"
+      },
+      {
+        "id": 416389,
+        "name": "C. Valverde",
+        "age": 21,
+        "number": 14,
+        "position": "Defender"
+      },
+      {
+        "id": 129998,
+        "name": "B. Salvareschi",
+        "age": 24,
+        "number": 15,
+        "position": "Defender"
+      },
+      {
+        "id": 6600,
+        "name": "G. Ferrari",
+        "age": 26,
+        "number": 22,
+        "position": "Defender"
+      },
+      {
+        "id": 5724,
+        "name": "F. Rasmussen",
+        "age": 31,
+        "number": 23,
+        "position": "Defender"
+      },
+      {
+        "id": 405315,
+        "name": "M. Mendoza",
+        "age": 19,
+        "number": 26,
+        "position": "Defender"
+      },
+      {
+        "id": 323573,
+        "name": "M. Villalobos",
+        "age": 20,
+        "number": 29,
+        "position": "Defender"
+      },
+      {
+        "id": 6062,
+        "name": "C. Núñez",
+        "age": 26,
+        "number": 5,
+        "position": "Midfielder"
+      },
+      {
+        "id": 5999,
+        "name": "H. López",
+        "age": 23,
+        "number": 8,
+        "position": "Midfielder"
+      },
+      {
+        "id": 51488,
+        "name": "N. Fernández",
+        "age": 25,
+        "number": 13,
+        "position": "Midfielder"
+      },
+      {
+        "id": 323574,
+        "name": "J. Meli",
+        "age": 23,
+        "number": 21,
+        "position": "Midfielder"
+      },
+      {
+        "id": 323254,
+        "name": "B. Leyes",
+        "age": 22,
+        "number": 25,
+        "position": "Midfielder"
+      },
+      {
+        "id": 6306,
+        "name": "J. Andrada",
+        "age": 28,
+        "number": 30,
+        "position": "Midfielder"
+      },
+      {
+        "id": 290051,
+        "name": "G. Abrego",
+        "age": 23,
+        "number": 32,
+        "position": "Midfielder"
+      },
+      {
+        "id": 354937,
+        "name": "G. Pedernera",
+        "age": 23,
+        "number": 34,
+        "position": "Midfielder"
+      },
+      {
+        "id": 199065,
+        "name": "E. Larrosa",
+        "age": 22,
+        "number": 7,
+        "position": "Attacker"
+      },
+      {
+        "id": 296025,
+        "name": "N. Ulariaga",
+        "age": 21,
+        "number": 9,
+        "position": "Attacker"
+      },
+      {
+        "id": 5451,
+        "name": "M. Ramírez",
+        "age": 24,
+        "number": 10,
+        "position": "Attacker"
+      },
+      {
+        "id": 304383,
+        "name": "T. Allende",
+        "age": 24,
+        "number": 11,
+        "position": "Attacker"
+      },
+      {
+        "id": 51241,
+        "name": "T. Conechny",
+        "age": 25,
+        "number": 17,
+        "position": "Attacker"
+      },
+      {
+        "id": 51871,
+        "name": "S. Rodríguez",
+        "age": 23,
+        "number": 20,
+        "position": "Attacker"
+      },
+      {
+        "id": 296129,
+        "name": "L. Cingolani",
+        "age": 22,
+        "number": 27,
+        "position": "Attacker"
+      },
+      {
+        "id": 310089,
+        "name": "J. Eseiza",
+        "age": 21,
+        "number": 28,
+        "position": "Attacker"
+      },
+      {
+        "id": 328706,
+        "name": "F. Altamira",
+        "age": 22,
+        "number": null,
+        "position": "Attacker"
+      }
+    ]
+  }
+]

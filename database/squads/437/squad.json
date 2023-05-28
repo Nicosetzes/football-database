@@ -1,0 +1,248 @@
+[
+  {
+    "team": {
+      "id": 437,
+      "name": "Rosario Central"
+    },
+    "players": [
+      {
+        "id": 1053,
+        "name": "J. Broun",
+        "age": 37,
+        "number": 1,
+        "position": "Goalkeeper"
+      },
+      {
+        "id": 311327,
+        "name": "V. Quintero",
+        "age": 20,
+        "number": 21,
+        "position": "Goalkeeper"
+      },
+      {
+        "id": 36158,
+        "name": "G. Servio",
+        "age": 31,
+        "number": 23,
+        "position": "Goalkeeper"
+      },
+      {
+        "id": 6707,
+        "name": "C. Quintana",
+        "age": 35,
+        "number": 2,
+        "position": "Defender"
+      },
+      {
+        "id": 6109,
+        "name": "D. Martínez",
+        "age": 33,
+        "number": 4,
+        "position": "Defender"
+      },
+      {
+        "id": 6229,
+        "name": "J. Komar",
+        "age": 27,
+        "number": 6,
+        "position": "Defender"
+      },
+      {
+        "id": 43182,
+        "name": "F. Mallo",
+        "age": 28,
+        "number": 15,
+        "position": "Defender"
+      },
+      {
+        "id": 6143,
+        "name": "L. Rodríguez",
+        "age": 30,
+        "number": 27,
+        "position": "Defender"
+      },
+      {
+        "id": 311329,
+        "name": "U. Ciccioli",
+        "age": 20,
+        "number": 35,
+        "position": "Defender"
+      },
+      {
+        "id": 311333,
+        "name": "K. Silva",
+        "age": 20,
+        "number": 37,
+        "position": "Defender"
+      },
+      {
+        "id": 311332,
+        "name": "F. Rodríguez",
+        "age": 23,
+        "number": 38,
+        "position": "Defender"
+      },
+      {
+        "id": 5779,
+        "name": "F. Aguero",
+        "age": 28,
+        "number": 47,
+        "position": "Defender"
+      },
+      {
+        "id": 6717,
+        "name": "F. Mac Allister",
+        "age": 28,
+        "number": 5,
+        "position": "Midfielder"
+      },
+      {
+        "id": 5549,
+        "name": "A. Toledo",
+        "age": 23,
+        "number": 8,
+        "position": "Midfielder"
+      },
+      {
+        "id": 35921,
+        "name": "V. Malcorra",
+        "age": 36,
+        "number": 10,
+        "position": "Midfielder"
+      },
+      {
+        "id": 289446,
+        "name": "L. Ferreyra",
+        "age": 21,
+        "number": 11,
+        "position": "Midfielder"
+      },
+      {
+        "id": 13376,
+        "name": "J. Campaz",
+        "age": 23,
+        "number": 13,
+        "position": "Midfielder"
+      },
+      {
+        "id": 70564,
+        "name": "A. Rodríguez",
+        "age": 23,
+        "number": 16,
+        "position": "Midfielder"
+      },
+      {
+        "id": 6524,
+        "name": "A. Marinelli",
+        "age": 24,
+        "number": 17,
+        "position": "Midfielder"
+      },
+      {
+        "id": 129877,
+        "name": "F. Lo Celso",
+        "age": 23,
+        "number": 18,
+        "position": "Midfielder"
+      },
+      {
+        "id": 289447,
+        "name": "G. Infantino",
+        "age": 20,
+        "number": 19,
+        "position": "Midfielder"
+      },
+      {
+        "id": 296671,
+        "name": "L. Giaccone",
+        "age": 22,
+        "number": 22,
+        "position": "Midfielder"
+      },
+      {
+        "id": 360273,
+        "name": "I. Cortez",
+        "age": 23,
+        "number": 26,
+        "position": "Midfielder"
+      },
+      {
+        "id": 311341,
+        "name": "T. O&apos;Connor",
+        "age": 21,
+        "number": 30,
+        "position": "Midfielder"
+      },
+      {
+        "id": 311339,
+        "name": "L. Iglesias",
+        "age": 22,
+        "number": 42,
+        "position": "Midfielder"
+      },
+      {
+        "id": 311342,
+        "name": "R. Peralta",
+        "age": 20,
+        "number": 44,
+        "position": "Midfielder"
+      },
+      {
+        "id": 354944,
+        "name": "K. Ortíz",
+        "age": 23,
+        "number": 45,
+        "position": "Midfielder"
+      },
+      {
+        "id": 10496,
+        "name": "W. Montoya",
+        "age": 30,
+        "number": 7,
+        "position": "Attacker"
+      },
+      {
+        "id": 311344,
+        "name": "A. Véliz",
+        "age": 20,
+        "number": 9,
+        "position": "Attacker"
+      },
+      {
+        "id": 52000,
+        "name": "J. Candia",
+        "age": 28,
+        "number": 20,
+        "position": "Attacker"
+      },
+      {
+        "id": 309893,
+        "name": "O. Bianchi",
+        "age": 28,
+        "number": 24,
+        "position": "Attacker"
+      },
+      {
+        "id": 311343,
+        "name": "J. Cerrudo",
+        "age": 19,
+        "number": 25,
+        "position": "Attacker"
+      },
+      {
+        "id": 289449,
+        "name": "L. Martínez Dupuy",
+        "age": 22,
+        "number": 29,
+        "position": "Attacker"
+      },
+      {
+        "id": 370011,
+        "name": "F. Oviedo",
+        "age": 19,
+        "number": 39,
+        "position": "Attacker"
+      }
+    ]
+  }
+]
