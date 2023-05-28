@@ -171,6 +171,25 @@ app.get("/api/tournaments/logos/:id", (req, res) => {
   res.status(200).sendFile(__dirname + `/database/tournaments/logos/${id}.png`);
 });
 
+app.get("/api/squads/:team", (req, res) => {
+  const { team } = req.params;
+  const squad = require(`./database/squads/${team}/squad`);
+  const { players } = squad[0];
+  res.status(200).json({ players });
+});
+
+app.get("/api/players/:id", (req, res) => {
+  const { id } = req.params;
+
+  res.status(200).sendFile(__dirname + `/database/players/${id}.png`, (err) => {
+    if (err) {
+      res.status(200).sendFile(__dirname + `/database/players/0.png`);
+    } else {
+      res.status(200).sendFile(__dirname + `/database/players/${id}.png`);
+    }
+  });
+});
+
 // app.get("/api/leagues/:leagueId/teams/:teamId/logo", (req, res) => {
 //   const { leagueId, teamId } = req.params;
 //   res

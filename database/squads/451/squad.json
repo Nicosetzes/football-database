@@ -1,0 +1,332 @@
+[
+  {
+    "team": {
+      "id": 451,
+      "name": "Boca Juniors"
+    },
+    "players": [
+      {
+        "id": 884,
+        "name": "S. Romero",
+        "age": 36,
+        "number": 1,
+        "position": "Goalkeeper"
+      },
+      {
+        "id": 177230,
+        "name": "L. Brey",
+        "age": 21,
+        "number": 12,
+        "position": "Goalkeeper"
+      },
+      {
+        "id": 5903,
+        "name": "J. García",
+        "age": 36,
+        "number": 13,
+        "position": "Goalkeeper"
+      },
+      {
+        "id": 323790,
+        "name": "S. Díaz",
+        "age": 20,
+        "number": null,
+        "position": "Goalkeeper"
+      },
+      {
+        "id": 922,
+        "name": "F. Roncaglia",
+        "age": 36,
+        "number": 2,
+        "position": "Defender"
+      },
+      {
+        "id": 278373,
+        "name": "A. Sandez",
+        "age": 22,
+        "number": 3,
+        "position": "Defender"
+      },
+      {
+        "id": 6082,
+        "name": "N. Figal",
+        "age": 29,
+        "number": 4,
+        "position": "Defender"
+      },
+      {
+        "id": 890,
+        "name": "M. Rojo",
+        "age": 33,
+        "number": 6,
+        "position": "Defender"
+      },
+      {
+        "id": 311071,
+        "name": "N. Valentini",
+        "age": 22,
+        "number": 15,
+        "position": "Defender"
+      },
+      {
+        "id": 2419,
+        "name": "L. Advíncula",
+        "age": 33,
+        "number": 17,
+        "position": "Defender"
+      },
+      {
+        "id": 5963,
+        "name": "F. Fabra",
+        "age": 32,
+        "number": 18,
+        "position": "Defender"
+      },
+      {
+        "id": 319572,
+        "name": "V. Barco",
+        "age": 19,
+        "number": 19,
+        "position": "Defender"
+      },
+      {
+        "id": 2506,
+        "name": "B. Valdez",
+        "age": 31,
+        "number": 25,
+        "position": "Defender"
+      },
+      {
+        "id": 323781,
+        "name": "G. Aranda",
+        "age": 22,
+        "number": 39,
+        "position": "Defender"
+      },
+      {
+        "id": 369412,
+        "name": "L. Di Lollo",
+        "age": 19,
+        "number": 40,
+        "position": "Defender"
+      },
+      {
+        "id": 5969,
+        "name": "M. Weigandt",
+        "age": 23,
+        "number": 57,
+        "position": "Defender"
+      },
+      {
+        "id": 278375,
+        "name": "A. Varela",
+        "age": 22,
+        "number": 5,
+        "position": "Midfielder"
+      },
+      {
+        "id": 5916,
+        "name": "G. Fernández",
+        "age": 32,
+        "number": 8,
+        "position": "Midfielder"
+      },
+      {
+        "id": 2515,
+        "name": "Ó. Romero",
+        "age": 31,
+        "number": 10,
+        "position": "Midfielder"
+      },
+      {
+        "id": 6383,
+        "name": "M. Payero",
+        "age": 25,
+        "number": 11,
+        "position": "Midfielder"
+      },
+      {
+        "id": 30783,
+        "name": "E. Rolón",
+        "age": 28,
+        "number": 14,
+        "position": "Midfielder"
+      },
+      {
+        "id": 6243,
+        "name": "J. Ramírez",
+        "age": 30,
+        "number": 20,
+        "position": "Midfielder"
+      },
+      {
+        "id": 237087,
+        "name": "E. Fernández",
+        "age": 21,
+        "number": 21,
+        "position": "Midfielder"
+      },
+      {
+        "id": 35693,
+        "name": "D. González",
+        "age": 35,
+        "number": 23,
+        "position": "Midfielder"
+      },
+      {
+        "id": 5975,
+        "name": "B. Cortés",
+        "age": 22,
+        "number": 31,
+        "position": "Midfielder"
+      },
+      {
+        "id": 323780,
+        "name": "N. Génez",
+        "age": 20,
+        "number": 35,
+        "position": "Midfielder"
+      },
+      {
+        "id": 237186,
+        "name": "C. Medina",
+        "age": 21,
+        "number": 36,
+        "position": "Midfielder"
+      },
+      {
+        "id": 385662,
+        "name": "M. Benítez",
+        "age": 19,
+        "number": null,
+        "position": "Midfielder"
+      },
+      {
+        "id": 286970,
+        "name": "T. Díaz",
+        "age": 22,
+        "number": null,
+        "position": "Midfielder"
+      },
+      {
+        "id": 323783,
+        "name": "R. Montes",
+        "age": 24,
+        "number": null,
+        "position": "Midfielder"
+      },
+      {
+        "id": 323788,
+        "name": "S. Rivero",
+        "age": 20,
+        "number": null,
+        "position": "Midfielder"
+      },
+      {
+        "id": 415104,
+        "name": "R. Rodríguez",
+        "age": 20,
+        "number": null,
+        "position": "Midfielder"
+      },
+      {
+        "id": 392734,
+        "name": "J. Saralegui",
+        "age": 20,
+        "number": null,
+        "position": "Midfielder"
+      },
+      {
+        "id": 237090,
+        "name": "E. Zeballos",
+        "age": 21,
+        "number": 7,
+        "position": "Attacker"
+      },
+      {
+        "id": 2478,
+        "name": "D. Benedetto",
+        "age": 33,
+        "number": 9,
+        "position": "Attacker"
+      },
+      {
+        "id": 6327,
+        "name": "M. Merentiel",
+        "age": 27,
+        "number": 16,
+        "position": "Attacker"
+      },
+      {
+        "id": 2494,
+        "name": "S. Villa",
+        "age": 27,
+        "number": 22,
+        "position": "Attacker"
+      },
+      {
+        "id": 5187,
+        "name": "N. Orsini",
+        "age": 29,
+        "number": 27,
+        "position": "Attacker"
+      },
+      {
+        "id": 390809,
+        "name": "J. Morales",
+        "age": 20,
+        "number": 28,
+        "position": "Attacker"
+      },
+      {
+        "id": 6189,
+        "name": "N. Briasco",
+        "age": 27,
+        "number": 29,
+        "position": "Attacker"
+      },
+      {
+        "id": 6490,
+        "name": "L. Vázquez",
+        "age": 22,
+        "number": 38,
+        "position": "Attacker"
+      },
+      {
+        "id": 363393,
+        "name": "L. Langoni",
+        "age": 21,
+        "number": 41,
+        "position": "Attacker"
+      },
+      {
+        "id": 408191,
+        "name": "J. Carrasco",
+        "age": 21,
+        "number": 44,
+        "position": "Attacker"
+      },
+      {
+        "id": 408192,
+        "name": "F. Aguirre",
+        "age": 21,
+        "number": 48,
+        "position": "Attacker"
+      },
+      {
+        "id": 324721,
+        "name": "J. Cabaña",
+        "age": 22,
+        "number": null,
+        "position": "Attacker"
+      },
+      {
+        "id": 2458,
+        "name": "Jan Hurtado",
+        "age": 23,
+        "number": null,
+        "position": "Attacker"
+      }
+    ]
+  }
+]
