@@ -2,7 +2,7 @@
   {
     "league": {
       "id": 1,
-      "name": "World Cup",
+      "name": "National Teams",
       "country": "World",
       "year": 2022,
       "division": "first"
@@ -59,6 +59,24 @@
           "address": "Maksimirska cesta 128",
           "city": "Zagreb",
           "capacity": 37168,
+          "surface": "grass"
+        }
+      },
+      {
+        "team": {
+          "id": 5,
+          "name": "Sweden",
+          "code": "SWE",
+          "country": "Sweden",
+          "founded": 1904,
+          "national": true
+        },
+        "venue": {
+          "id": 1501,
+          "name": "Friends Arena",
+          "address": "Råsta Strandväg 1",
+          "city": "Solna",
+          "capacity": 54329,
           "surface": "grass"
         }
       },
@@ -455,6 +473,170 @@
           "address": "Westgate Street",
           "city": "Caerdydd",
           "capacity": 74500,
+          "surface": "grass"
+        }
+      },
+      {
+        "team": {
+          "id": 769,
+          "name": "Hungary",
+          "code": "HUN",
+          "country": "Hungary",
+          "founded": null,
+          "national": true
+        },
+        "venue": {
+          "id": 19605,
+          "name": "Puskás Aréna",
+          "address": "Dózsa György út 5",
+          "city": "Budapest",
+          "capacity": 67889,
+          "surface": "grass"
+        }
+      },
+      {
+        "team": {
+          "id": 770,
+          "name": "Czech Republic",
+          "code": "CZE",
+          "country": "Czech-Republic",
+          "founded": 1901,
+          "national": true
+        },
+        "venue": {
+          "id": 19513,
+          "name": "epet ARENA",
+          "address": "Milady Horákové 1066/98, Letná",
+          "city": "Praha",
+          "capacity": 20854,
+          "surface": "grass"
+        }
+      },
+      {
+        "team": {
+          "id": 772,
+          "name": "Ukraine",
+          "code": "UKR",
+          "country": "Ukraine",
+          "founded": 1991,
+          "national": true,
+          "logo": "https://media-4.api-sports.io/football/teams/772.png"
+        },
+        "venue": {
+          "id": 20114,
+          "name": "NSK Olimpiiskyi",
+          "address": "vul. Velyka Vasylkivska 55",
+          "city": "Kiev",
+          "capacity": 70050,
+          "surface": "grass",
+          "image": "https://media-4.api-sports.io/football/venues/20114.png"
+        }
+      },
+      {
+        "team": {
+          "id": 774,
+          "name": "Romania",
+          "code": "ROM",
+          "country": "Romania",
+          "founded": 1909,
+          "national": true
+        },
+        "venue": {
+          "id": 1326,
+          "name": "Arena Naţională",
+          "address": "Bulevardul Basarabia 37-39",
+          "city": "Bucureşti",
+          "capacity": 55611,
+          "surface": "grass"
+        }
+      },
+      {
+        "team": {
+          "id": 775,
+          "name": "Austria",
+          "code": "AUS",
+          "country": "Austria",
+          "founded": 1904,
+          "national": true
+        },
+        "venue": {
+          "id": 1967,
+          "name": "Ernst-Happel-Stadion",
+          "address": "Meiereistraße 7",
+          "city": "Wien",
+          "capacity": 50865,
+          "surface": "grass"
+        }
+      },
+      {
+        "team": {
+          "id": 776,
+          "name": "Rep. Of Ireland",
+          "code": "IRE",
+          "country": "Ireland",
+          "founded": 1921,
+          "national": true
+        },
+        "venue": {
+          "id": 1970,
+          "name": "Aviva Stadium",
+          "address": "62 Lansdowne Road",
+          "city": "Dublin",
+          "capacity": 51700,
+          "surface": "grass"
+        }
+      },
+      {
+        "team": {
+          "id": 1090,
+          "name": "Norway",
+          "code": "NOR",
+          "country": "Norway",
+          "founded": 1902,
+          "national": true
+        },
+        "venue": {
+          "id": 11603,
+          "name": "Ullevaal Stadion",
+          "address": "Sognsveien 75",
+          "city": "Oslo",
+          "capacity": 27182,
+          "surface": "grass"
+        }
+      },
+      {
+        "team": {
+          "id": 1099,
+          "name": "Finland",
+          "code": "FIN",
+          "country": "Finland",
+          "founded": 1907,
+          "national": true
+        },
+        "venue": {
+          "id": 2608,
+          "name": "Helsingin olympiastadion",
+          "address": "Paavo Nurmen Tie 1",
+          "city": "Helsingfors",
+          "capacity": 40682,
+          "surface": "grass"
+        }
+      },
+      {
+        "team": {
+          "id": 1108,
+          "name": "Scotland",
+          "code": "SCO",
+          "country": "Scotland",
+          "founded": 1873,
+          "national": true
+        },
+        "venue": {
+          "id": 2617,
+          "name": "Hampden Park",
+          "address": "Letherby Drive",
+          "city": "Glasgow",
+          "capacity": 52500,
           "surface": "grass"
         }
       },

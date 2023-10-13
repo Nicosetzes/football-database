@@ -25,7 +25,10 @@ app.use(cors()); // This should allow all origins
 /* -------------------- ROUTES -------------------- */
 
 app.get("/api/leagues", (req, res) => {
-  const leagues = require(`./database/leagues/leagues`);
+  const leaguesFromDB = require(`./database/leagues/leagues`);
+  const leagues = leaguesFromDB.sort((a, b) => {
+    return a.name > b.name ? 1 : -1;
+  });
   res.status(200).send(leagues);
 });
 
@@ -34,23 +37,27 @@ app.get("/api/leagues/:leagueId/teams", (req, res) => {
   const league = require(`./database/leagues/${leagueId}/league`);
   const leagueInfo = league[0].league;
   const teamsInfo = league[0].teams;
-  const teams = teamsInfo.map(({ team }) => {
-    return {
-      team: {
-        id: team.id,
-        name: team.name,
-        code: team.code,
-        country: team.country,
-      },
-      league: {
-        id: leagueInfo.id,
-        name: leagueInfo.name,
-        country: leagueInfo.country,
-        year: leagueInfo.year,
-        division: leagueInfo.division,
-      },
-    };
-  });
+  const teams = teamsInfo
+    .map(({ team }) => {
+      return {
+        team: {
+          id: team.id,
+          name: team.name,
+          code: team.code,
+          country: team.country,
+        },
+        league: {
+          id: leagueInfo.id,
+          name: leagueInfo.name,
+          country: leagueInfo.country,
+          year: leagueInfo.year,
+          division: leagueInfo.division,
+        },
+      };
+    })
+    .sort((a, b) => {
+      return a.team.name > b.team.name ? 1 : -1;
+    });
   res.status(200).send(teams);
 });
 
