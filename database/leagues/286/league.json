@@ -1,0 +1,301 @@
+[
+  {
+    "league": {
+      "id": 286,
+      "name": "Super Liga",
+      "country": "Serbia",
+      "year": 2023,
+      "division": "first"
+    },
+    "teams": [
+      {
+        "team": {
+          "id": 573,
+          "name": "FK Partizan",
+          "code": "PAR",
+          "country": "Serbia",
+          "founded": 1945,
+          "national": false
+        },
+        "venue": {
+          "id": 1424,
+          "name": "Stadion Partizana",
+          "address": "Humska 1",
+          "city": "Beograd",
+          "capacity": 32710,
+          "surface": "grass"
+        }
+      },
+      {
+        "team": {
+          "id": 598,
+          "name": "FK Crvena Zvezda",
+          "code": "CRV",
+          "country": "Serbia",
+          "founded": 1945,
+          "national": false
+        },
+        "venue": {
+          "id": 1406,
+          "name": "Stadion Rajko Mitić",
+          "address": "Ljutice Bogdana 1a",
+          "city": "Beograd",
+          "capacity": 51862,
+          "surface": "grass"
+        }
+      },
+      {
+        "team": {
+          "id": 699,
+          "name": "Mladost Lucani",
+          "code": null,
+          "country": "Serbia",
+          "founded": 1952,
+          "national": false
+        },
+        "venue": {
+          "id": 10502,
+          "name": "Mladost Stadium Lučani",
+          "address": "Radnička bb",
+          "city": "Lučani",
+          "capacity": 8000,
+          "surface": "grass"
+        }
+      },
+      {
+        "team": {
+          "id": 702,
+          "name": "Vojvodina",
+          "code": "VOJ",
+          "country": "Serbia",
+          "founded": 1914,
+          "national": false
+        },
+        "venue": {
+          "id": 1425,
+          "name": "Stadion Karađorđe",
+          "address": "Ignjata Pavlasa 8",
+          "city": "Novi Sad",
+          "capacity": 14458,
+          "surface": "grass"
+        }
+      },
+      {
+        "team": {
+          "id": 2251,
+          "name": "FK Spartak Zdrepceva KRV",
+          "code": "SPS",
+          "country": "Serbia",
+          "founded": 1945,
+          "national": false
+        },
+        "venue": {
+          "id": 1429,
+          "name": "Gradski Stadion",
+          "address": "Lenjinov park 10 / Izvorska bb",
+          "city": "Subotica",
+          "capacity": 13000,
+          "surface": "grass"
+        }
+      },
+      {
+        "team": {
+          "id": 2254,
+          "name": "Radnicki NIS",
+          "code": "RAD",
+          "country": "Serbia",
+          "founded": 1923,
+          "national": false
+        },
+        "venue": {
+          "id": 1427,
+          "name": "Gradski Stadion Čair",
+          "address": "9. brigade bb",
+          "city": "Niš",
+          "capacity": 18321,
+          "surface": "grass"
+        }
+      },
+      {
+        "team": {
+          "id": 2643,
+          "name": "Novi Pazar",
+          "code": "NOV",
+          "country": "Serbia",
+          "founded": 1928,
+          "national": false
+        },
+        "venue": {
+          "id": 19402,
+          "name": "Caizcoin Arena",
+          "address": "Trg Oslobođenja 98",
+          "city": "Novi Pazar",
+          "capacity": 12000,
+          "surface": "grass"
+        }
+      },
+      {
+        "team": {
+          "id": 2644,
+          "name": "Radnicki 1923",
+          "code": "RAD",
+          "country": "Serbia",
+          "founded": 1923,
+          "national": false
+        },
+        "venue": {
+          "id": 1415,
+          "name": "Stadion Čika Dača",
+          "address": "Kralja Milutina 23",
+          "city": "Kragujevac",
+          "capacity": 15100,
+          "surface": "grass"
+        }
+      },
+      {
+        "team": {
+          "id": 2646,
+          "name": "TSC Backa Topola",
+          "code": null,
+          "country": "Serbia",
+          "founded": 1913,
+          "national": false
+        },
+        "venue": {
+          "id": 18679,
+          "name": "TSC Arena",
+          "address": "Gradski park",
+          "city": "Bačka Topola",
+          "capacity": 4500,
+          "surface": "grass"
+        }
+      },
+      {
+        "team": {
+          "id": 2653,
+          "name": "Javor",
+          "code": null,
+          "country": "Serbia",
+          "founded": 1912,
+          "national": false
+        },
+        "venue": {
+          "id": 10501,
+          "name": "Stadion Ivanjica",
+          "address": "13. Septembra bb",
+          "city": "Ivanjica",
+          "capacity": 4000,
+          "surface": "grass"
+        }
+      },
+      {
+        "team": {
+          "id": 2655,
+          "name": "Napredak",
+          "code": "NAP",
+          "country": "Serbia",
+          "founded": 1946,
+          "national": false
+        },
+        "venue": {
+          "id": 1422,
+          "name": "Stadion Mladost",
+          "address": "Stanka Gavrilovića bb",
+          "city": "Kruševac",
+          "capacity": 18000,
+          "surface": "grass"
+        }
+      },
+      {
+        "team": {
+          "id": 2656,
+          "name": "Cukaricki",
+          "code": "CUK",
+          "country": "Serbia",
+          "founded": 1926,
+          "national": false
+        },
+        "venue": {
+          "id": 1411,
+          "name": "Stadion na Banovom brdu",
+          "address": "Beogradskog Bataljona 25, Čukarica",
+          "city": "Beograd",
+          "capacity": 4070,
+          "surface": "grass"
+        }
+      },
+      {
+        "team": {
+          "id": 2657,
+          "name": "Radnik Surdulica",
+          "code": null,
+          "country": "Serbia",
+          "founded": null,
+          "national": false
+        },
+        "venue": {
+          "id": 19382,
+          "name": "EFBET Stadion",
+          "address": "Vase Smajevića bb",
+          "city": "Surdulica",
+          "capacity": 3500,
+          "surface": "grass"
+        }
+      },
+      {
+        "team": {
+          "id": 2658,
+          "name": "FK Vozdovac",
+          "code": "VOZ",
+          "country": "Serbia",
+          "founded": 1912,
+          "national": false
+        },
+        "venue": {
+          "id": 1431,
+          "name": "Stadion Event Place",
+          "address": "Zaplanjska 32",
+          "city": "Beograd",
+          "capacity": 5175,
+          "surface": "artificial turf"
+        }
+      },
+      {
+        "team": {
+          "id": 12316,
+          "name": "IMT Novi Beograd",
+          "code": null,
+          "country": "Serbia",
+          "founded": 1953,
+          "national": false
+        },
+        "venue": {
+          "id": 19473,
+          "name": "Stadion FK Bežanija",
+          "address": "Vojvođanska 68, Novi Beograd",
+          "city": "Beograd",
+          "capacity": 2000,
+          "surface": "grass"
+        }
+      },
+      {
+        "team": {
+          "id": 12360,
+          "name": "Železničar Pančevo",
+          "code": null,
+          "country": "Serbia",
+          "founded": 1947,
+          "national": false
+        },
+        "venue": {
+          "id": 7892,
+          "name": "Sportsko-Rekreativni Centar Mladost",
+          "address": "Makedonska",
+          "city": "Pančevo",
+          "capacity": 3000,
+          "surface": "artificial turf"
+        }
+      }
+    ]
+  }
+]

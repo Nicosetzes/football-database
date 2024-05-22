@@ -1,0 +1,229 @@
+[
+  {
+    "league": {
+      "id": 218,
+      "name": "Bundesliga",
+      "country": "Austria",
+      "year": 2023,
+      "division": "first"
+    },
+    "teams": [
+      {
+        "team": {
+          "id": 571,
+          "name": "Red Bull Salzburg",
+          "code": "SAL",
+          "country": "Austria",
+          "founded": 1933,
+          "national": false
+        },
+        "venue": {
+          "id": 148,
+          "name": "Red Bull Arena",
+          "address": "Stadionstrasse 2/3",
+          "city": "Wals-Siezenheim",
+          "capacity": 31895,
+          "surface": "grass"
+        }
+      },
+      {
+        "team": {
+          "id": 601,
+          "name": "Austria Vienna",
+          "code": "AUS",
+          "country": "Austria",
+          "founded": 1911,
+          "national": false
+        },
+        "venue": {
+          "id": 136,
+          "name": "Generali Arena",
+          "address": "Fischhofgasse 14",
+          "city": "Wien",
+          "capacity": 18944,
+          "surface": "grass"
+        }
+      },
+      {
+        "team": {
+          "id": 618,
+          "name": "SCR Altach",
+          "code": "ALT",
+          "country": "Austria",
+          "founded": 1929,
+          "national": false
+        },
+        "venue": {
+          "id": 146,
+          "name": "CASHPOINT Arena",
+          "address": "Schnabelholz 1",
+          "city": "Altach",
+          "capacity": 8500,
+          "surface": "grass"
+        }
+      },
+      {
+        "team": {
+          "id": 637,
+          "name": "Sturm Graz",
+          "code": "STU",
+          "country": "Austria",
+          "founded": 1909,
+          "national": false
+        },
+        "venue": {
+          "id": 150,
+          "name": "Merkur Arena",
+          "address": "Stadionplatz 1 A",
+          "city": "Graz",
+          "capacity": 16764,
+          "surface": "grass"
+        }
+      },
+      {
+        "team": {
+          "id": 781,
+          "name": "Rapid Vienna",
+          "code": "RAP",
+          "country": "Austria",
+          "founded": 1899,
+          "national": false
+        },
+        "venue": {
+          "id": 145,
+          "name": "Allianz Stadion",
+          "address": "Gerhard Hanappi Platz 1, Hütteldorf",
+          "city": "Wien",
+          "capacity": 28345,
+          "surface": "grass"
+        }
+      },
+      {
+        "team": {
+          "id": 1025,
+          "name": "Wolfsberger AC",
+          "code": "WOL",
+          "country": "Austria",
+          "founded": 1931,
+          "national": false
+        },
+        "venue": {
+          "id": 1761,
+          "name": "Lavanttal Arena",
+          "address": "Don-Bosco-Weg 1",
+          "city": "Wolfsberg",
+          "capacity": 9000,
+          "surface": "grass"
+        }
+      },
+      {
+        "team": {
+          "id": 1026,
+          "name": "Lask Linz",
+          "code": "LAS",
+          "country": "Austria",
+          "founded": 1908,
+          "national": false
+        },
+        "venue": {
+          "id": 143,
+          "name": "Raiffeisen Arena",
+          "address": "Ziegeleistraße 76, Froschberg",
+          "city": "Linz",
+          "capacity": 19080,
+          "surface": "grass"
+        }
+      },
+      {
+        "team": {
+          "id": 1072,
+          "name": "TSV Hartberg",
+          "code": "HAR",
+          "country": "Austria",
+          "founded": 1946,
+          "national": false
+        },
+        "venue": {
+          "id": 140,
+          "name": "PROfertil ARENA",
+          "address": "Stefan-Seedoch-Allee 26",
+          "city": "Hartberg",
+          "capacity": 5420,
+          "surface": "grass"
+        }
+      },
+      {
+        "team": {
+          "id": 1394,
+          "name": "FC BW Linz",
+          "code": "LIN",
+          "country": "Austria",
+          "founded": 1997,
+          "national": false
+        },
+        "venue": {
+          "id": 11873,
+          "name": "Hofmann Personal Stadion",
+          "address": "Straßerau 3",
+          "city": "Linz",
+          "capacity": 5600,
+          "surface": "grass"
+        }
+      },
+      {
+        "team": {
+          "id": 1398,
+          "name": "WSG Wattens",
+          "code": "WAT",
+          "country": "Austria",
+          "founded": 1930,
+          "national": false
+        },
+        "venue": {
+          "id": 152,
+          "name": "Tivoli Stadion Tirol",
+          "address": "Stadionstrasse 1b",
+          "city": "Innsbruck",
+          "capacity": 16008,
+          "surface": "grass"
+        }
+      },
+      {
+        "team": {
+          "id": 1399,
+          "name": "Austria Lustenau",
+          "code": "LUS",
+          "country": "Austria",
+          "founded": 1914,
+          "national": false
+        },
+        "venue": {
+          "id": 135,
+          "name": "Planet Pure Stadion",
+          "address": "Schützengartenstraße 21",
+          "city": "Lustenau",
+          "capacity": 8800,
+          "surface": "grass"
+        }
+      },
+      {
+        "team": {
+          "id": 1405,
+          "name": "Austria Klagenfurt",
+          "code": null,
+          "country": "Austria",
+          "founded": null,
+          "national": false
+        },
+        "venue": {
+          "id": 19258,
+          "name": "28 Black Arena",
+          "address": "Südring 207",
+          "city": "Klagenfurt am Wörthersee",
+          "capacity": 32000,
+          "surface": "grass"
+        }
+      }
+    ]
+  }
+]
