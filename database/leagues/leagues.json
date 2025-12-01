@@ -28,13 +28,6 @@
     "division": "first"
   },
   {
-    "id": 62,
-    "name": "Ligue 2",
-    "country": "France",
-    "year": 2022,
-    "division": "second"
-  },
-  {
     "id": 71,
     "name": "Serie A",
     "country": "Brazil",
@@ -47,13 +40,6 @@
     "country": "Germany",
     "year": 2022,
     "division": "first"
-  },
-  {
-    "id": 79,
-    "name": "2. Bundesliga",
-    "country": "Germany",
-    "year": 2022,
-    "division": "second"
   },
   {
     "id": 88,
@@ -80,29 +66,22 @@
     "id": 128,
     "name": "Liga Profesional Argentina",
     "country": "Argentina",
-    "year": 2022,
+    "year": 2025,
     "division": "first"
   },
   {
     "id": 129,
     "name": "Primera Nacional",
     "country": "Argentina",
-    "year": 2022,
+    "year": 2025,
     "division": "second"
   },
   {
     "id": 135,
     "name": "Serie A",
     "country": "Italy",
-    "year": 2022,
+    "year": 2025,
     "division": "first"
-  },
-  {
-    "id": 136,
-    "name": "Serie B",
-    "country": "Italy",
-    "year": 2022,
-    "division": "second"
   },
   {
     "id": 140,
@@ -110,13 +89,6 @@
     "country": "Spain",
     "year": 2022,
     "division": "first"
-  },
-  {
-    "id": 141,
-    "name": "Segunda División",
-    "country": "Spain",
-    "year": 2022,
-    "division": "second"
   },
   {
     "id": 144,
@@ -165,6 +137,13 @@
     "name": "Premier League",
     "country": "Russia",
     "year": 2022,
+    "division": "first"
+  },
+  {
+    "id": 239,
+    "name": "Primera A",
+    "country": "Colombia",
+    "year": 2025,
     "division": "first"
   },
   {

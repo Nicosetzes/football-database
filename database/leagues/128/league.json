@@ -4,7 +4,7 @@
       "id": 128,
       "name": "Liga Profesional Argentina",
       "country": "Argentina",
-      "year": 2022,
+      "year": 2025,
       "division": "first"
     },
     "teams": [
@@ -118,6 +118,24 @@
       },
       {
         "team": {
+          "id": 440,
+          "name": "Belgrano Cordoba",
+          "code": "BEL",
+          "country": "Argentina",
+          "founded": 1905,
+          "national": false
+        },
+        "venue": {
+          "id": 45,
+          "name": "Estadio Julio César Villagra",
+          "address": "Calle Dr. Arturo Orgaz 510 y La Rioja, Barrio Alberdi",
+          "city": "Ciudad de Córdoba, Provincia de Córdoba",
+          "capacity": 28000,
+          "surface": "grass"
+        }
+      },
+      {
+        "team": {
           "id": 441,
           "name": "Union Santa Fe",
           "code": "UNI",
@@ -154,24 +172,6 @@
       },
       {
         "team": {
-          "id": 444,
-          "name": "Patronato",
-          "code": "PAT",
-          "country": "Argentina",
-          "founded": 1914,
-          "national": false
-        },
-        "venue": {
-          "id": 96,
-          "name": "Estadio Presbítero Bartolomé Grella",
-          "address": "Calle Ayacucho y Calle Churruarín",
-          "city": "Paraná, Provincia de Entre Ríos",
-          "capacity": 22000,
-          "surface": "grass"
-        }
-      },
-      {
-        "team": {
           "id": 445,
           "name": "Huracan",
           "code": "HUR",
@@ -203,24 +203,6 @@
           "address": "Calle General J. Arias y J. Héctor Guidi",
           "city": "Lanús, Provincia de Buenos Aires",
           "capacity": 46619,
-          "surface": "grass"
-        }
-      },
-      {
-        "team": {
-          "id": 448,
-          "name": "Colon Santa Fe",
-          "code": "COL",
-          "country": "Argentina",
-          "founded": 1905,
-          "national": false
-        },
-        "venue": {
-          "id": 57,
-          "name": "Estadio Brigadier General Estanislao López",
-          "address": "Calle Juan José Paso y Boulevard Doctor Zavalla",
-          "city": "Ciudad de Santa Fe, Provincia de Santa Fe",
-          "capacity": 40000,
           "surface": "grass"
         }
       },
@@ -388,24 +370,6 @@
       },
       {
         "team": {
-          "id": 459,
-          "name": "Arsenal Sarandi",
-          "code": "ARS",
-          "country": "Argentina",
-          "founded": 1957,
-          "national": false
-        },
-        "venue": {
-          "id": 38,
-          "name": "Estadio Julio Humberto Grondona",
-          "address": "Avenida Juan Díaz de Solís 3660, Sarandí",
-          "city": "Avellaneda, Provincia de Buenos Aires",
-          "capacity": 18300,
-          "surface": "grass"
-        }
-      },
-      {
-        "team": {
           "id": 460,
           "name": "San Lorenzo",
           "code": "LOR",
@@ -419,6 +383,24 @@
           "address": "Avenida Perito Moreno y Avenida Varela 1437",
           "city": "Capital Federal, Ciudad de Buenos Aires",
           "capacity": 43494,
+          "surface": "grass"
+        }
+      },
+      {
+        "team": {
+          "id": 461,
+          "name": "San Martin S.J.",
+          "code": "MAR",
+          "country": "Argentina",
+          "founded": 1907,
+          "national": false
+        },
+        "venue": {
+          "id": 104,
+          "name": "Estadio Ingeniero Hilario Sánchez",
+          "address": "Calle Mendoza 1164 Norte",
+          "city": "San Juan, Provincia de San Juan",
+          "capacity": 19000,
           "surface": "grass"
         }
       },
@@ -442,6 +424,24 @@
       },
       {
         "team": {
+          "id": 473,
+          "name": "Independ. Rivadavia",
+          "code": "RIV",
+          "country": "Argentina",
+          "founded": 1913,
+          "national": false
+        },
+        "venue": {
+          "id": 83,
+          "name": "Estadio Juan Bautista Gargantini",
+          "address": "Avenida Boulogne Sur Mer 788, San Martín",
+          "city": "Mendoza, Provincia de Mendoza",
+          "capacity": 16000,
+          "surface": "grass"
+        }
+      },
+      {
+        "team": {
           "id": 474,
           "name": "Sarmiento Junin",
           "code": "SAR",
@@ -455,6 +455,42 @@
           "address": "Calle Arias y  Necochea 25",
           "city": "Junín, Provincia de Buenos Aires",
           "capacity": 22000,
+          "surface": "grass"
+        }
+      },
+      {
+        "team": {
+          "id": 476,
+          "name": "Deportivo Riestra",
+          "code": "RIE",
+          "country": "Argentina",
+          "founded": 1931,
+          "national": false
+        },
+        "venue": {
+          "id": 66,
+          "name": "Estadio Guillermo Laza",
+          "address": "Avenida Varela y Ana María Janer 2651, Flores",
+          "city": "Capital Federal, Ciudad de Buenos Aires",
+          "capacity": 3000,
+          "surface": "grass"
+        }
+      },
+      {
+        "team": {
+          "id": 478,
+          "name": "Instituto Cordoba",
+          "code": "INS",
+          "country": "Argentina",
+          "founded": 1918,
+          "national": false
+        },
+        "venue": {
+          "id": 84,
+          "name": "Estadio Juan Domingo Perón",
+          "address": "Calle Jujuy 2602 y Lope de Vega, Alta Córdoba",
+          "city": "Ciudad de Córdoba, Provincia de Córdoba",
+          "capacity": 26535,
           "surface": "grass"
         }
       },

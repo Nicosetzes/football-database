@@ -27,7 +27,11 @@ app.use(cors()); // This should allow all origins
 app.get("/api/leagues", (req, res) => {
   const leaguesFromDB = require(`./database/leagues/leagues`);
   const leagues = leaguesFromDB.sort((a, b) => {
-    return a.name > b.name ? 1 : -1;
+    if (a.country > b.country) return 1;
+    if (a.country < b.country) return -1;
+
+    if (a.id > b.id) return 1;
+    if (a.id < b.id) return -1;
   });
   res.status(200).send(leagues);
 });

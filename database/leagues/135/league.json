@@ -4,7 +4,7 @@
       "id": 135,
       "name": "Serie A",
       "country": "Italy",
-      "year": 2022,
+      "year": 2025,
       "division": "first"
     },
     "teams": [
@@ -39,7 +39,7 @@
           "id": 935,
           "name": "MAPEI Stadium - Città del Tricolore",
           "address": "Piazza Azzuri d&apos;Italia, 1",
-          "city": "Reggio nell&apos;Emilia",
+          "city": "Reggio Emilia",
           "capacity": 23717,
           "surface": "grass"
         }
@@ -59,6 +59,24 @@
           "address": "Via Piccolomini 5",
           "city": "Milano",
           "capacity": 80018,
+          "surface": "grass"
+        }
+      },
+      {
+        "team": {
+          "id": 490,
+          "name": "Cagliari",
+          "code": "CAG",
+          "country": "Italy",
+          "founded": 1920,
+          "national": false
+        },
+        "venue": {
+          "id": 12275,
+          "name": "Unipol Domus",
+          "address": "Via Raimondo Carta Raspi",
+          "city": "Cagliari",
+          "capacity": 16416,
           "surface": "grass"
         }
       },
@@ -90,11 +108,29 @@
           "national": false
         },
         "venue": {
-          "id": 928,
-          "name": "Dacia Arena",
+          "id": 20416,
+          "name": "Bluenergy Stadium",
           "address": "Piazza le Repubblica Argentina, 3",
           "city": "Udine",
           "capacity": 25952,
+          "surface": "grass"
+        }
+      },
+      {
+        "team": {
+          "id": 495,
+          "name": "Genoa",
+          "code": "GEN",
+          "country": "Italy",
+          "founded": 1893,
+          "national": false
+        },
+        "venue": {
+          "id": 905,
+          "name": "Stadio Comunale Luigi Ferraris",
+          "address": "Via Giovanni De Prà, 1",
+          "city": "Genova",
+          "capacity": 36703,
           "surface": "grass"
         }
       },
@@ -131,24 +167,6 @@
           "address": "Viale dei Gladiatori, 2 / Via del Foro Italico",
           "city": "Roma",
           "capacity": 68530,
-          "surface": "grass"
-        }
-      },
-      {
-        "team": {
-          "id": 498,
-          "name": "Sampdoria",
-          "code": "SAM",
-          "country": "Italy",
-          "founded": 1946,
-          "national": false
-        },
-        "venue": {
-          "id": 905,
-          "name": "Stadio Comunale Luigi Ferraris",
-          "address": "Via Giovanni De Prà, 1",
-          "city": "Genova",
-          "capacity": 36703,
           "surface": "grass"
         }
       },
@@ -262,60 +280,6 @@
       },
       {
         "team": {
-          "id": 511,
-          "name": "Empoli",
-          "code": "EMP",
-          "country": "Italy",
-          "founded": 1920,
-          "national": false
-        },
-        "venue": {
-          "id": 896,
-          "name": "Stadio Carlo Castellani",
-          "address": "Viale delle Olimpiadi",
-          "city": "Empoli",
-          "capacity": 16284,
-          "surface": "grass"
-        }
-      },
-      {
-        "team": {
-          "id": 514,
-          "name": "Salernitana",
-          "code": "SAL",
-          "country": "Italy",
-          "founded": 2011,
-          "national": false
-        },
-        "venue": {
-          "id": 933,
-          "name": "Stadio Arechi",
-          "address": "Via Salvador Allende",
-          "city": "Salerno",
-          "capacity": 37245,
-          "surface": "grass"
-        }
-      },
-      {
-        "team": {
-          "id": 515,
-          "name": "Spezia",
-          "code": "SPE",
-          "country": "Italy",
-          "founded": 1906,
-          "national": false
-        },
-        "venue": {
-          "id": 939,
-          "name": "Stadio Alberto Picco",
-          "address": "Via Nicolò Fieschi, 18",
-          "city": "La Spezia",
-          "capacity": 11512,
-          "surface": "artificial turf"
-        }
-      },
-      {
-        "team": {
           "id": 520,
           "name": "Cremonese",
           "code": "CRE",
@@ -329,6 +293,42 @@
           "address": "Via Persico, 19",
           "city": "Cremona",
           "capacity": 20034,
+          "surface": "grass"
+        }
+      },
+      {
+        "team": {
+          "id": 523,
+          "name": "Parma",
+          "code": "PAR",
+          "country": "Italy",
+          "founded": 1913,
+          "national": false
+        },
+        "venue": {
+          "id": 921,
+          "name": "Stadio Ennio Tardini",
+          "address": "Via Partigiani d&apos;Italia, 1",
+          "city": "Parma",
+          "capacity": 22885,
+          "surface": "grass"
+        }
+      },
+      {
+        "team": {
+          "id": 801,
+          "name": "Pisa",
+          "code": "PIS",
+          "country": "Italy",
+          "founded": 1909,
+          "national": false
+        },
+        "venue": {
+          "id": 925,
+          "name": "Arena Garibaldi - Stadio Romeo Anconetani",
+          "address": "Via di Gello, 25",
+          "city": "Pisa",
+          "capacity": 17500,
           "surface": "grass"
         }
       },
@@ -352,19 +352,19 @@
       },
       {
         "team": {
-          "id": 1579,
-          "name": "Monza",
-          "code": "MON",
+          "id": 895,
+          "name": "Como",
+          "code": "COM",
           "country": "Italy",
-          "founded": 1912,
+          "founded": 1907,
           "national": false
         },
         "venue": {
-          "id": 12086,
-          "name": "U-Power Stadium",
-          "address": "Via Franco Tognini",
-          "city": "Monza",
-          "capacity": 18568,
+          "id": 892,
+          "name": "Stadio Giuseppe Sinigaglia",
+          "address": "Via Giuseppe Sinigaglia, 3",
+          "city": "Como",
+          "capacity": 13602,
           "surface": "grass"
         }
       }
