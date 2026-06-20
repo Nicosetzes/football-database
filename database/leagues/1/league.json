@@ -4,7 +4,7 @@
       "id": 1,
       "name": "National Teams",
       "country": "World",
-      "year": 2022,
+      "year": 2026,
       "division": "first"
     },
     "teams": [
@@ -118,6 +118,24 @@
       },
       {
         "team": {
+          "id": 8,
+          "name": "Colombia",
+          "code": "COL",
+          "country": "Colombia",
+          "founded": 1924,
+          "national": true
+        },
+        "venue": {
+          "id": 366,
+          "name": "Estadio Metropolitano Roberto Meléndez",
+          "address": "Avenida Circunvalar",
+          "city": "Barranquilla",
+          "capacity": 46788,
+          "surface": "grass"
+        }
+      },
+      {
+        "team": {
           "id": 9,
           "name": "Spain",
           "code": "SPA",
@@ -149,6 +167,24 @@
           "address": "Stadium Way, Wembley, Brent",
           "city": "London",
           "capacity": 90000,
+          "surface": "grass"
+        }
+      },
+      {
+        "team": {
+          "id": 11,
+          "name": "Panama",
+          "code": "PAN",
+          "country": "Panama",
+          "founded": 1937,
+          "national": true
+        },
+        "venue": {
+          "id": 11535,
+          "name": "Estadio Rommel Fernández",
+          "address": "Avenida José Agustín Arango",
+          "city": "Panama City",
+          "capacity": 32000,
           "surface": "grass"
         }
       },
@@ -460,6 +496,24 @@
       },
       {
         "team": {
+          "id": 32,
+          "name": "Egypt",
+          "code": "EGY",
+          "country": "Egypt",
+          "founded": 1921,
+          "national": true
+        },
+        "venue": {
+          "id": 11492,
+          "name": "Cairo International Stadium",
+          "address": "Al-Istad Al-Bahary Street, Nasr City",
+          "city": "Cairo",
+          "capacity": 75000,
+          "surface": "grass"
+        }
+      },
+      {
+        "team": {
           "id": 767,
           "name": "Wales",
           "code": "WAL",
@@ -606,6 +660,24 @@
       },
       {
         "team": {
+          "id": 777,
+          "name": "Türkiye",
+          "code": "TUR",
+          "country": "Turkey",
+          "founded": 1923,
+          "national": true
+        },
+        "venue": {
+          "id": 22441,
+          "name": "Atatürk Olympic Stadium",
+          "address": "Olimpiyat Stadı Yolu",
+          "city": "Istanbul",
+          "capacity": 75145,
+          "surface": "grass"
+        }
+      },
+      {
+        "team": {
           "id": 1090,
           "name": "Norway",
           "code": "NOR",
@@ -660,6 +732,24 @@
       },
       {
         "team": {
+          "id": 1113,
+          "name": "Bosnia & Herzegovina",
+          "code": "BIH",
+          "country": "Bosnia",
+          "founded": 1992,
+          "national": true
+        },
+        "venue": {
+          "id": 2186,
+          "name": "Bilino Polje",
+          "address": "Bulevar Kulina bana",
+          "city": "Zenica",
+          "capacity": 13812,
+          "surface": "grass"
+        }
+      },
+      {
+        "team": {
           "id": 1118,
           "name": "Netherlands",
           "code": "NET",
@@ -673,6 +763,24 @@
           "address": "ArenA Boulevard 1",
           "city": "Amsterdam",
           "capacity": 54990,
+          "surface": "grass"
+        }
+      },
+      {
+        "team": {
+          "id": 1501,
+          "name": "Ivory Coast",
+          "code": "CIV",
+          "country": "Ivory-Coast",
+          "founded": 1960,
+          "national": true
+        },
+        "venue": {
+          "id": 411,
+          "name": "Alassane Ouattara Stadium",
+          "address": "Ebimpé",
+          "city": "Abidjan",
+          "capacity": 60012,
           "surface": "grass"
         }
       },
@@ -696,6 +804,24 @@
       },
       {
         "team": {
+          "id": 1508,
+          "name": "Congo DR",
+          "code": "CGO",
+          "country": "Congo-DR",
+          "founded": 1919,
+          "national": true
+        },
+        "venue": {
+          "id": 391,
+          "name": "Stade des Martyrs",
+          "address": "Avenue des Huileries",
+          "city": "Kinshasa",
+          "capacity": 80000,
+          "surface": "artificial turf"
+        }
+      },
+      {
+        "team": {
           "id": 1530,
           "name": "Cameroon",
           "code": "CAM",
@@ -714,6 +840,114 @@
       },
       {
         "team": {
+          "id": 1531,
+          "name": "South Africa",
+          "code": "RSA",
+          "country": "South-Africa",
+          "founded": 1991,
+          "national": true
+        },
+        "venue": {
+          "id": 22436,
+          "name": "FNB Stadium",
+          "address": "Soccer City Avenue",
+          "city": "Johannesburg",
+          "capacity": 94736,
+          "surface": "grass"
+        }
+      },
+      {
+        "team": {
+          "id": 1532,
+          "name": "Algeria",
+          "code": "ALG",
+          "country": "Algeria",
+          "founded": 1962,
+          "national": true
+        },
+        "venue": {
+          "id": 16,
+          "name": "Stade Nelson Mandela",
+          "address": "Baraki",
+          "city": "Algiers",
+          "capacity": 40784,
+          "surface": "grass"
+        }
+      },
+      {
+        "team": {
+          "id": 1533,
+          "name": "Cape Verde Islands",
+          "code": "CPV",
+          "country": "Cape-Verde-Islands",
+          "founded": 1982,
+          "national": true
+        },
+        "venue": {
+          "id": 314,
+          "name": "Estádio Nacional de Cabo Verde",
+          "address": "Monte Vaca, Achada São Filipe",
+          "city": "Praia",
+          "capacity": 15000,
+          "surface": "artificial turf"
+        }
+      },
+      {
+        "team": {
+          "id": 1548,
+          "name": "Jordan",
+          "code": "JOR",
+          "country": "Jordan",
+          "founded": 1949,
+          "national": true
+        },
+        "venue": {
+          "id": 988,
+          "name": "Amman International Stadium",
+          "address": "Al Hussein Youth City",
+          "city": "ʿAmmān (Amman)",
+          "capacity": 25000,
+          "surface": "grass"
+        }
+      },
+      {
+        "team": {
+          "id": 1567,
+          "name": "Iraq",
+          "code": "IRQ",
+          "country": "Iraq",
+          "founded": 1948,
+          "national": true
+        },
+        "venue": {
+          "id": 20704,
+          "name": "Basra International Stadium",
+          "address": "Sports City",
+          "city": "Basra",
+          "capacity": 65000,
+          "surface": "grass"
+        }
+      },
+      {
+        "team": {
+          "id": 1568,
+          "name": "Uzbekistan",
+          "code": "UZB",
+          "country": "Uzbekistan",
+          "founded": 1946,
+          "national": true
+        },
+        "venue": {
+          "id": 19547,
+          "name": "Milliy Stadium",
+          "address": "Bunyodkor Avenue",
+          "city": "Tashkent",
+          "capacity": 34000,
+          "surface": "grass"
+        }
+      },
+      {
+        "team": {
           "id": 1569,
           "name": "Qatar",
           "code": "QAT",
@@ -727,6 +961,24 @@
           "address": "Sports City Street, Ar-Rayyan",
           "city": "Doha",
           "capacity": 50000,
+          "surface": "grass"
+        }
+      },
+      {
+        "team": {
+          "id": 2380,
+          "name": "Paraguay",
+          "code": "PAR",
+          "country": "Paraguay",
+          "founded": 1906,
+          "national": true
+        },
+        "venue": {
+          "id": 1213,
+          "name": "Estadio Defensores del Chaco",
+          "address": "Mayor Martínez",
+          "city": "Asunción",
+          "capacity": 42354,
           "surface": "grass"
         }
       },
@@ -768,6 +1020,42 @@
       },
       {
         "team": {
+          "id": 2386,
+          "name": "Haiti",
+          "code": "HAI",
+          "country": "Haiti",
+          "founded": 1904,
+          "national": true
+        },
+        "venue": {
+          "id": 22425,
+          "name": "Stade Sylvio Cator",
+          "address": "Rue Oswald Durand",
+          "city": "Port-au-Prince",
+          "capacity": 15000,
+          "surface": "grass"
+        }
+      },
+      {
+        "team": {
+          "id": 4673,
+          "name": "New Zealand",
+          "code": "NZL",
+          "country": "New-Zealand",
+          "founded": 1891,
+          "national": true
+        },
+        "venue": {
+          "id": 22451,
+          "name": "Eden Park",
+          "address": "Reimers Avenue",
+          "city": "Auckland",
+          "capacity": 50000,
+          "surface": "grass"
+        }
+      },
+      {
+        "team": {
           "id": 5529,
           "name": "Canada",
           "code": "CAN",
@@ -781,6 +1069,24 @@
           "address": "170 Princes’ Boulevard",
           "city": "Toronto, Ontario",
           "capacity": 36045,
+          "surface": "grass"
+        }
+      },
+      {
+        "team": {
+          "id": 5530,
+          "name": "Curaçao",
+          "code": "CUR",
+          "country": "Curacao",
+          "founded": 1921,
+          "national": true
+        },
+        "venue": {
+          "id": 11918,
+          "name": "Ergilio Hato Stadium",
+          "address": "F.D. Rooseveltweg",
+          "city": "Willemstad",
+          "capacity": 10000,
           "surface": "grass"
         }
       }
